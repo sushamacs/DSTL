@@ -1,0 +1,1001 @@
+,Patron Type Code,Patron Type Definition,Total Checkouts,Total Renewals,Age Range,Home Library Code,Home Library Definition,Circulation Active Month,Circulation Active Year,Notice Preference Code,Notice Preference Definition,Provided Email Address,Year Patron Registered,Outside of County,Supervisor District
+62682,0,ADULT,3,0,35 to 44 years,N4,Noe Valley/Sally Brunn,February,2014,z,email,True,2013,True,0.0
+39454,0,ADULT,1,0,25 to 34 years,X,Main Library,March,2016,a,print,False,2016,True,0.0
+275931,4,WELCOME,1,0,25 to 34 years,P7,Potrero,September,2014,z,email,True,2014,False,10.0
+195961,0,ADULT,102,24,25 to 34 years,G4,Glen Park,July,2013,z,email,True,2009,False,7.0
+296644,0,ADULT,108,19,20 to 24 years,R3,Richmond,August,2013,z,email,True,2003,False,1.0
+318078,3,SENIOR,469,4,75 years and over,R3,Richmond,July,2016,z,email,True,2003,False,1.0
+177719,0,ADULT,10,5,60 to 64 years,X,Main Library,November,2014,z,email,True,2014,True,0.0
+221747,0,ADULT,25,18,35 to 44 years,X,Main Library,January,2014,z,email,True,2003,True,0.0
+369351,2,YOUNG ADULT,476,218,10 to 19 years,S7,Sunset,December,2015,z,email,True,2008,False,1.0
+228068,0,ADULT,178,14,35 to 44 years,W4,Western Addition,June,2016,z,email,True,2012,False,5.0
+235935,3,SENIOR,130,9,65 to 74 years,O7,Ortega,February,2015,p,phone,False,2006,False,4.0
+7781,0,ADULT,113,22,35 to 44 years,M6,Mission,February,2014,z,email,True,2011,False,11.0
+219857,3,SENIOR,1182,4,65 to 74 years,X,Main Library,March,2015,z,email,True,2003,False,2.0
+8593,4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+224981,0,ADULT,7,7,20 to 24 years,I5,Ingleside,May,2016,p,phone,True,2015,False,11.0
+105228,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2016,False,8.0
+44572,0,ADULT,1796,920,60 to 64 years,A5,Anza,July,2016,z,email,True,2003,False,1.0
+199195,4,WELCOME,4,2,25 to 34 years,M4,Merced,May,2016,z,email,True,2015,False,1.0
+43371,0,ADULT,0,0,60 to 64 years,P9,Presidio,September,2011,z,email,True,2011,False,4.0
+225827,0,ADULT,2,0,45 to 54 years,X,Main Library,April,2016,p,phone,False,2014,False,6.0
+367356,1,JUVENILE,19,0,0 to 9 years,E9,Excelsior,July,2016,a,print,False,2016,False,11.0
+248199,0,ADULT,8,7,25 to 34 years,R3,Richmond,December,2014,z,email,True,2014,False,1.0
+166469,0,ADULT,174,53,25 to 34 years,X,Main Library,October,2014,z,email,True,2007,False,5.0
+210818,0,ADULT,34,5,20 to 24 years,X,Main Library,July,2016,z,email,True,2015,False,5.0
+93680,0,ADULT,133,1,45 to 54 years,W4,Western Addition,November,2015,z,email,True,2008,True,0.0
+66209,0,ADULT,33,2,25 to 34 years,X,Main Library,April,2015,p,phone,False,2003,False,0.0
+357078,0,ADULT,1,1,35 to 44 years,X,Main Library,November,2014,z,email,True,2014,True,0.0
+213897,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+372020,2,YOUNG ADULT,221,386,10 to 19 years,W2,West Portal,November,2015,z,email,True,2012,False,7.0
+195762,3,SENIOR,901,180,65 to 74 years,V3,Visitacion Valley,March,2016,z,email,True,2003,True,0.0
+106276,0,ADULT,332,361,25 to 34 years,E9,Excelsior,July,2016,z,email,True,2003,False,10.0
+302381,0,ADULT,11,0,25 to 34 years,X,Main Library,November,2012,z,email,True,2012,False,6.0
+281203,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2014,True,0.0
+332175,0,ADULT,40,28,10 to 19 years,W2,West Portal,June,2009,a,print,False,2003,False,7.0
+219821,0,ADULT,6,8,25 to 34 years,X,Main Library,September,2014,p,phone,False,2011,False,0.0
+382140,1,JUVENILE,719,842,0 to 9 years,I5,Ingleside,July,2016,z,email,True,2011,False,11.0
+396282,1,JUVENILE,0,0,0 to 9 years,B2,Bayview/Linda Brooks-Burton,None,None,p,phone,False,2015,False,10.0
+360339,2,YOUNG ADULT,159,5,10 to 19 years,W2,West Portal,July,2016,z,email,True,2009,False,7.0
+342485,2,YOUNG ADULT,1,0,10 to 19 years,E9,Excelsior,May,2016,z,email,True,2009,False,9.0
+292280,0,ADULT,10,2,25 to 34 years,E9,Excelsior,November,2011,z,email,True,2009,True,0.0
+341098,0,ADULT,47,17,25 to 34 years,O7,Ortega,April,2015,z,email,True,2003,False,4.0
+318091,0,ADULT,49,2,10 to 19 years,E9,Excelsior,July,2015,z,email,True,2005,False,11.0
+5501,0,ADULT,5,0,55 to 59 years,M6,Mission,March,2013,p,phone,False,2013,False,6.0
+12470,0,ADULT,24,0,25 to 34 years,E9,Excelsior,August,2015,z,email,True,2009,False,11.0
+136762,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2014,False,3.0
+201951,0,ADULT,2,0,35 to 44 years,X,Main Library,June,2014,z,email,True,2014,False,5.0
+409477,1,JUVENILE,6,10,10 to 19 years,P7,Potrero,July,2014,z,email,True,2013,False,8.0
+50036,0,ADULT,0,0,45 to 54 years,M8,Mission Bay,July,2016,z,email,True,2015,False,6.0
+292363,0,ADULT,45,0,35 to 44 years,G4,Glen Park,August,2013,z,email,True,2008,False,8.0
+59417,0,ADULT,510,99,45 to 54 years,S7,Sunset,July,2016,z,email,True,2012,False,4.0
+63662,0,ADULT,2,0,25 to 34 years,X,Main Library,October,2013,z,email,True,2013,False,0.0
+322575,2,YOUNG ADULT,452,12,10 to 19 years,I5,Ingleside,June,2016,p,phone,False,2008,False,11.0
+59492,0,ADULT,34,2,55 to 59 years,W2,West Portal,May,2015,z,email,True,2003,False,7.0
+196707,0,ADULT,37,10,25 to 34 years,X,Main Library,June,2016,z,email,True,2009,False,6.0
+230628,0,ADULT,571,11,45 to 54 years,V3,Visitacion Valley,November,2013,z,email,True,2003,False,10.0
+272304,0,ADULT,4,3,45 to 54 years,I5,Ingleside,May,2013,z,email,True,2012,False,0.0
+33645,0,ADULT,1,0,20 to 24 years,I5,Ingleside,November,2015,z,email,True,2012,False,11.0
+5137,0,ADULT,3,3,25 to 34 years,X,Main Library,January,2016,z,email,True,2013,False,5.0
+94840,0,ADULT,9,0,55 to 59 years,X,Main Library,June,2012,a,print,False,2003,False,0.0
+137680,4,WELCOME,0,0,60 to 64 years,X,Main Library,None,None,p,phone,False,2016,False,10.0
+361326,1,JUVENILE,270,28,0 to 9 years,O7,Ortega,January,2016,z,email,True,2011,False,4.0
+289725,0,ADULT,22,0,20 to 24 years,O7,Ortega,January,2014,z,email,True,2013,False,4.0
+326633,2,YOUNG ADULT,129,119,10 to 19 years,E9,Excelsior,June,2016,z,email,True,2005,False,11.0
+107163,0,ADULT,83,78,45 to 54 years,X,Main Library,July,2016,z,email,True,2003,False,11.0
+178066,0,ADULT,164,82,35 to 44 years,R3,Richmond,July,2014,z,email,True,2011,False,2.0
+274294,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+117828,0,ADULT,64,5,45 to 54 years,X,Main Library,November,2014,z,email,True,2011,False,0.0
+102220,0,ADULT,149,107,45 to 54 years,W2,West Portal,November,2013,z,email,True,2003,False,4.0
+316684,2,YOUNG ADULT,0,0,10 to 19 years,P5,Portola,None,None,z,email,True,2016,False,10.0
+370071,1,JUVENILE,1,0,10 to 19 years,B2,Bayview/Linda Brooks-Burton,March,2015,a,print,False,2010,False,10.0
+66159,0,ADULT,435,47,35 to 44 years,X,Main Library,July,2016,p,phone,False,2013,False,0.0
+345681,1,JUVENILE,94,0,10 to 19 years,E7,Eureka Valley/Harvey Milk Memorial,January,2015,a,print,False,2011,False,9.0
+26010,4,WELCOME,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2015,False,5.0
+257997,3,SENIOR,5,0,65 to 74 years,X,Main Library,January,2016,z,email,True,2014,False,5.0
+81202,0,ADULT,1,0,25 to 34 years,X,Main Library,February,2014,z,email,True,2014,True,0.0
+295662,0,ADULT,54,0,45 to 54 years,M6,Mission,February,2014,p,phone,False,2003,True,0.0
+142704,15,TEACHER CARD,4,0,65 to 74 years,O7,Ortega,February,2015,z,email,True,2014,False,4.0
+240792,0,ADULT,49,7,35 to 44 years,S7,Sunset,April,2015,z,email,True,2003,False,3.0
+307513,1,JUVENILE,3,0,10 to 19 years,X,Main Library,May,2013,z,email,True,2010,False,7.0
+339212,1,JUVENILE,91,10,0 to 9 years,O7,Ortega,May,2014,z,email,True,2012,False,4.0
+204430,0,ADULT,116,71,60 to 64 years,X,Main Library,December,2014,z,email,True,2003,False,7.0
+136496,0,ADULT,1,1,35 to 44 years,X,Main Library,November,2014,z,email,True,2014,True,0.0
+195708,0,ADULT,2,0,60 to 64 years,P1,Park,May,2013,z,email,True,2012,True,0.0
+51098,0,ADULT,44,29,65 to 74 years,M8,Mission Bay,May,2013,z,email,True,2006,True,0.0
+68075,0,ADULT,1,4,20 to 24 years,M4,Merced,December,2015,z,email,True,2015,False,7.0
+87819,0,ADULT,10,0,35 to 44 years,M6,Mission,August,2012,p,phone,False,2011,False,9.0
+51442,0,ADULT,19,5,25 to 34 years,B4,Bernal Heights,July,2016,z,email,True,2011,False,0.0
+238620,0,ADULT,2,0,25 to 34 years,I5,Ingleside,December,2015,z,email,True,2015,False,1.0
+421134,1,JUVENILE,243,0,10 to 19 years,C2,Chinatown,June,2016,p,phone,False,2011,False,3.0
+372185,0,ADULT,184,19,10 to 19 years,M4,Merced,July,2016,z,email,True,2003,False,7.0
+245482,16,DIGITAL ACCESS CARD,0,0,60 to 64 years,R3,Richmond,None,None,z,email,True,2015,False,1.0
+31586,0,ADULT,131,289,25 to 34 years,B2,Bayview/Linda Brooks-Burton,June,2010,z,email,True,2003,False,10.0
+367071,0,ADULT,1281,317,10 to 19 years,C2,Chinatown,January,2015,z,email,True,2003,False,5.0
+299465,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2009,True,0.0
+397998,3,SENIOR,0,0,75 years and over,M8,Mission Bay,None,None,z,email,True,2012,True,0.0
+383851,2,YOUNG ADULT,47,12,10 to 19 years,E7,Eureka Valley/Harvey Milk Memorial,November,2014,p,phone,False,2009,False,9.0
+312780,2,YOUNG ADULT,817,447,10 to 19 years,A5,Anza,June,2016,z,email,True,2008,False,1.0
+166427,3,SENIOR,0,0,65 to 74 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,True,2013,False,10.0
+185185,3,SENIOR,1365,0,65 to 74 years,X,Main Library,September,2015,p,phone,False,2013,False,6.0
+247709,0,ADULT,552,442,35 to 44 years,M8,Mission Bay,June,2016,z,email,True,2009,False,6.0
+247751,0,ADULT,6,0,45 to 54 years,M6,Mission,July,2014,z,email,True,2014,False,8.0
+398228,1,JUVENILE,171,25,0 to 9 years,P5,Portola,July,2016,z,email,True,2013,False,9.0
+392523,1,JUVENILE,386,810,0 to 9 years,G4,Glen Park,July,2016,z,email,True,2010,False,7.0
+26382,0,ADULT,21,0,35 to 44 years,P3,Parkside,July,2015,z,email,True,2015,False,4.0
+382749,0,ADULT,632,611,10 to 19 years,R3,Richmond,September,2013,p,phone,True,2003,False,1.0
+338816,1,JUVENILE,9,0,0 to 9 years,W2,West Portal,March,2016,z,email,True,2014,False,7.0
+313821,1,JUVENILE,722,449,0 to 9 years,P3,Parkside,July,2016,z,email,True,2010,False,1.0
+230060,0,ADULT,36,12,55 to 59 years,W2,West Portal,May,2016,z,email,True,2015,False,7.0
+21121,0,ADULT,2,4,35 to 44 years,P1,Park,October,2014,z,email,True,2011,False,5.0
+307708,3,SENIOR,356,0,75 years and over,N6,North Beach,March,2016,z,email,True,2006,False,3.0
+418741,3,SENIOR,53,25,75 years and over,M2,Marina,March,2014,p,phone,False,2003,False,2.0
+49311,0,ADULT,14,7,35 to 44 years,X,Main Library,October,2014,z,email,True,2011,False,0.0
+118860,0,ADULT,19,2,55 to 59 years,R3,Richmond,March,2016,z,email,True,2015,False,1.0
+237281,0,ADULT,66,86,45 to 54 years,N6,North Beach,July,2016,z,email,True,2014,False,5.0
+28015,0,ADULT,51,7,25 to 34 years,X,Main Library,September,2015,z,email,True,2010,False,6.0
+141244,0,ADULT,37,25,35 to 44 years,X,Main Library,October,2014,z,email,True,2009,False,3.0
+360721,16,DIGITAL ACCESS CARD,0,0,10 to 19 years,P1,Park,None,None,z,email,True,2015,False,1.0
+63246,3,SENIOR,598,463,65 to 74 years,W2,West Portal,June,2016,z,email,True,2004,False,5.0
+34519,0,ADULT,79,68,45 to 54 years,P1,Park,May,2016,z,email,True,2007,False,5.0
+357191,1,JUVENILE,177,21,10 to 19 years,P7,Potrero,June,2016,z,email,True,2012,False,10.0
+320671,3,SENIOR,0,0,75 years and over,X,Main Library,None,None,z,email,True,2016,False,5.0
+175040,3,SENIOR,401,53,65 to 74 years,X,Main Library,July,2016,p,phone,True,2003,False,8.0
+415145,0,ADULT,0,0,35 to 44 years,W4,Western Addition,None,None,z,email,True,2012,True,0.0
+395243,1,JUVENILE,342,10,10 to 19 years,C2,Chinatown,June,2016,p,phone,False,2008,False,0.0
+262697,0,ADULT,6,6,35 to 44 years,P1,Park,April,2016,p,phone,False,2014,False,5.0
+334079,2,YOUNG ADULT,0,0,10 to 19 years,P5,Portola,None,None,z,email,True,2013,False,0.0
+92359,0,ADULT,21,0,45 to 54 years,C2,Chinatown,October,2013,p,phone,False,2010,False,0.0
+407625,1,JUVENILE,11,0,0 to 9 years,V3,Visitacion Valley,July,2016,a,print,False,2015,False,10.0
+391586,0,ADULT,1,1,0 to 9 years,X,Main Library,October,2014,p,phone,True,2014,False,7.0
+184754,0,ADULT,23,39,55 to 59 years,P9,Presidio,July,2016,p,phone,True,2013,False,2.0
+220044,0,ADULT,0,0,25 to 34 years,M4,Merced,None,None,z,email,True,2014,False,7.0
+7983,0,ADULT,7,19,35 to 44 years,M6,Mission,December,2015,z,email,True,2014,False,8.0
+181096,0,ADULT,60,11,55 to 59 years,R3,Richmond,August,2013,z,email,True,2013,False,0.0
+189797,0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,True,2016,False,8.0
+145089,0,ADULT,345,68,35 to 44 years,P1,Park,September,2015,z,email,True,2006,False,8.0
+417974,0,ADULT,64,4,10 to 19 years,P5,Portola,June,2014,z,email,True,2010,False,0.0
+56587,0,ADULT,18,1,25 to 34 years,X,Main Library,July,2016,z,email,True,2015,False,9.0
+190680,4,WELCOME,0,0,20 to 24 years,X,Main Library,None,None,z,email,True,2016,True,0.0
+155274,0,ADULT,0,0,35 to 44 years,M2,Marina,None,None,z,email,True,2014,False,6.0
+181937,0,ADULT,43,85,55 to 59 years,B2,Bayview/Linda Brooks-Burton,October,2015,p,phone,False,2010,False,0.0
+3326,0,ADULT,270,102,20 to 24 years,M6,Mission,October,2014,z,email,True,2003,False,9.0
+23034,0,ADULT,4,4,35 to 44 years,X,Main Library,July,2012,z,email,True,2008,False,5.0
+261725,0,ADULT,146,15,20 to 24 years,W2,West Portal,May,2015,z,email,True,2003,False,11.0
+1607,16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2016,True,0.0
+241140,0,ADULT,48,44,35 to 44 years,A5,Anza,September,2014,z,email,True,2005,False,1.0
+189903,0,ADULT,12,0,55 to 59 years,X,Main Library,February,2016,z,email,True,2015,True,0.0
+242903,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2014,False,3.0
+409420,0,ADULT,74,13,65 to 74 years,X,Main Library,May,2016,z,email,True,2008,True,0.0
+252139,0,ADULT,4,2,35 to 44 years,N4,Noe Valley/Sally Brunn,November,2015,z,email,True,2012,False,0.0
+39127,0,ADULT,7,0,20 to 24 years,M4,Merced,May,2015,z,email,True,2015,False,11.0
+309427,1,JUVENILE,63,1,10 to 19 years,X,Main Library,July,2016,z,email,True,2015,False,5.0
+165719,0,ADULT,13,17,35 to 44 years,X,Main Library,December,2012,z,email,True,2003,False,6.0
+213202,0,ADULT,29,8,35 to 44 years,M2,Marina,February,2016,z,email,True,2004,False,6.0
+281997,4,WELCOME,0,0,25 to 34 years,A5,Anza,None,None,z,email,True,2014,True,0.0
+378042,2,YOUNG ADULT,41,10,10 to 19 years,C2,Chinatown,April,2014,p,phone,False,2004,False,10.0
+208964,3,SENIOR,0,0,65 to 74 years,C2,Chinatown,August,2013,z,email,True,2012,True,0.0
+58830,0,ADULT,181,274,55 to 59 years,X,Main Library,July,2016,z,email,True,2007,False,4.0
+343514,1,JUVENILE,21,0,0 to 9 years,W4,Western Addition,April,2016,z,email,True,2016,False,5.0
+326654,0,ADULT,381,21,10 to 19 years,E9,Excelsior,May,2016,z,email,True,2003,False,11.0
+92758,0,ADULT,7,3,45 to 54 years,M6,Mission,June,2016,z,email,True,2010,False,9.0
+300299,0,ADULT,2,0,25 to 34 years,X,Main Library,February,2014,z,email,True,2014,False,5.0
+330032,1,JUVENILE,8,0,0 to 9 years,S7,Sunset,March,2016,z,email,True,2013,False,7.0
+73636,0,ADULT,17,0,55 to 59 years,X,Main Library,October,2015,z,email,True,2015,True,0.0
+188094,3,SENIOR,2,0,65 to 74 years,X,Main Library,May,2014,z,email,True,2011,True,0.0
+93089,4,WELCOME,1,1,25 to 34 years,I5,Ingleside,July,2016,z,email,True,2016,False,10.0
+271163,0,ADULT,16,25,25 to 34 years,X,Main Library,February,2015,z,email,True,2013,False,5.0
+74104,0,ADULT,4,0,45 to 54 years,M2,Marina,February,2015,p,phone,True,2013,False,6.0
+278614,0,ADULT,2,0,25 to 34 years,X,Main Library,July,2013,z,email,True,2013,False,4.0
+398279,2,YOUNG ADULT,239,57,10 to 19 years,P5,Portola,May,2015,z,email,True,2007,False,7.0
+310785,1,JUVENILE,13,16,0 to 9 years,A5,Anza,May,2015,z,email,True,2015,False,0.0
+369039,0,ADULT,10,0,55 to 59 years,X,Main Library,April,2014,z,email,True,2009,False,10.0
+290269,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+107474,0,ADULT,9,8,35 to 44 years,W4,Western Addition,October,2015,z,email,True,2013,False,0.0
+165843,3,SENIOR,33,0,65 to 74 years,M2,Marina,August,2014,a,print,False,2009,False,2.0
+245844,0,ADULT,8,11,25 to 34 years,W4,Western Addition,May,2013,z,email,True,2012,False,2.0
+331023,1,JUVENILE,138,6,10 to 19 years,P5,Portola,July,2016,z,email,True,2013,False,9.0
+64407,0,ADULT,3,0,25 to 34 years,M2,Marina,December,2013,z,email,True,2013,False,2.0
+30924,0,ADULT,30,30,35 to 44 years,P9,Presidio,July,2016,z,email,True,2008,False,2.0
+350039,1,JUVENILE,18,2,0 to 9 years,M4,Merced,October,2015,z,email,True,2013,False,11.0
+339277,3,SENIOR,10,0,75 years and over,M4,Merced,August,2013,z,email,True,2012,False,11.0
+302242,0,ADULT,12,0,35 to 44 years,O7,Ortega,February,2014,z,email,True,2013,False,4.0
+260902,0,ADULT,2,0,25 to 34 years,I5,Ingleside,October,2015,z,email,True,2015,False,11.0
+61625,3,SENIOR,0,0,65 to 74 years,M8,Mission Bay,None,None,z,email,True,2015,False,6.0
+349281,0,ADULT,313,22,10 to 19 years,P5,Portola,May,2015,p,phone,False,2008,False,9.0
+391049,2,YOUNG ADULT,9,0,10 to 19 years,A5,Anza,July,2015,z,email,True,2015,False,1.0
+57667,4,WELCOME,1,0,60 to 64 years,X,Main Library,May,2014,p,phone,False,2014,False,3.0
+311972,3,SENIOR,49,100,75 years and over,S7,Sunset,June,2016,p,phone,False,2013,False,7.0
+408735,1,JUVENILE,207,64,0 to 9 years,M6,Mission,October,2014,z,email,True,2009,False,8.0
+279310,0,ADULT,1,0,25 to 34 years,X,Main Library,November,2013,z,email,True,2013,False,10.0
+55229,0,ADULT,123,31,45 to 54 years,X,Main Library,June,2016,p,phone,False,2008,False,10.0
+234999,0,ADULT,101,11,20 to 24 years,M6,Mission,June,2014,z,email,True,2008,False,5.0
+134038,3,SENIOR,73,0,65 to 74 years,P7,Potrero,June,2016,z,email,True,2010,False,10.0
+226499,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2012,True,0.0
+195806,0,ADULT,0,0,45 to 54 years,V3,Visitacion Valley,None,None,z,email,True,2015,False,10.0
+332981,3,SENIOR,0,0,75 years and over,R3,Richmond,July,2014,z,email,True,2014,False,2.0
+111258,0,ADULT,1780,164,45 to 54 years,X,Main Library,July,2016,z,email,True,2003,False,1.0
+409012,3,SENIOR,1,2,75 years and over,O7,Ortega,January,2014,a,print,False,2012,False,4.0
+313871,1,JUVENILE,209,7,10 to 19 years,M4,Merced,July,2016,p,phone,True,2013,True,0.0
+94248,0,ADULT,190,54,55 to 59 years,M6,Mission,October,2015,z,email,True,2004,False,9.0
+14202,0,ADULT,127,164,25 to 34 years,G4,Glen Park,March,2016,z,email,True,2004,False,11.0
+81372,0,ADULT,1448,51,45 to 54 years,G4,Glen Park,April,2016,z,email,True,2003,False,8.0
+57212,0,ADULT,15,0,25 to 34 years,X,Main Library,June,2014,z,email,True,2008,True,0.0
+29938,0,ADULT,188,94,20 to 24 years,E7,Eureka Valley/Harvey Milk Memorial,August,2015,z,email,True,2003,False,8.0
+159993,3,SENIOR,1820,4264,65 to 74 years,M4,Merced,July,2016,z,email,True,2007,True,0.0
+281915,0,ADULT,30,1,20 to 24 years,M2,Marina,July,2016,z,email,True,2015,False,2.0
+33742,0,ADULT,22,10,35 to 44 years,M6,Mission,May,2014,z,email,True,2009,False,11.0
+57513,0,ADULT,40,44,45 to 54 years,I5,Ingleside,September,2015,z,email,True,2014,True,0.0
+178146,0,ADULT,198,197,20 to 24 years,X,Main Library,October,2015,z,email,True,2003,False,6.0
+59198,0,ADULT,4,0,25 to 34 years,E9,Excelsior,March,2015,z,email,True,2011,False,11.0
+52425,4,WELCOME,0,0,20 to 24 years,X,Main Library,None,None,z,email,True,2014,True,0.0
+125670,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2014,True,0.0
+223623,3,SENIOR,2612,516,65 to 74 years,R3,Richmond,July,2016,a,print,True,2003,False,1.0
+266714,0,ADULT,2,0,60 to 64 years,B2,Bayview/Linda Brooks-Burton,June,2014,p,phone,False,2005,False,10.0
+69739,0,ADULT,0,0,35 to 44 years,G6,Golden Gate Valley,None,None,z,email,True,2014,False,2.0
+185892,3,SENIOR,0,0,60 to 64 years,E9,Excelsior,None,None,z,email,True,2015,False,11.0
+309396,3,SENIOR,28,2,75 years and over,V3,Visitacion Valley,November,2015,a,print,False,2014,False,0.0
+80910,0,ADULT,2,0,35 to 44 years,G4,Glen Park,December,2013,z,email,True,2013,True,0.0
+274554,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+170795,0,ADULT,344,234,20 to 24 years,P3,Parkside,January,2015,z,email,True,2006,False,7.0
+141773,0,ADULT,4,1,35 to 44 years,N6,North Beach,June,2014,z,email,True,2014,True,0.0
+40557,0,ADULT,1,0,60 to 64 years,X,Main Library,June,2014,z,email,True,2014,False,3.0
+29482,4,WELCOME,1,0,25 to 34 years,X,Main Library,July,2013,p,phone,False,2013,False,0.0
+368505,1,JUVENILE,1167,1611,10 to 19 years,S7J,Unknown,July,2016,z,email,True,2005,False,4.0
+2116,0,ADULT,175,177,55 to 59 years,X,Main Library,July,2016,z,email,True,2003,False,10.0
+301930,0,ADULT,5056,371,60 to 64 years,R3,Richmond,July,2016,z,email,True,2003,True,0.0
+323577,1,JUVENILE,87,0,10 to 19 years,R3,Richmond,July,2014,p,phone,False,2010,False,1.0
+372469,2,YOUNG ADULT,77,3,10 to 19 years,R3,Richmond,June,2016,z,email,True,2005,False,1.0
+66426,0,ADULT,504,320,25 to 34 years,M4,Merced,March,2016,z,email,True,2003,False,11.0
+41240,0,ADULT,138,219,25 to 34 years,S7,Sunset,July,2016,z,email,True,2011,False,4.0
+84845,0,ADULT,0,0,35 to 44 years,M8,Mission Bay,None,None,z,email,True,2013,False,6.0
+148815,0,ADULT,1,0,25 to 34 years,M2,Marina,June,2014,z,email,True,2014,False,2.0
+375866,1,JUVENILE,18,4,10 to 19 years,YJJ,Children's Bookmobile,July,2016,z,email,True,2013,False,1.0
+160311,0,ADULT,20,14,35 to 44 years,R3,Richmond,July,2016,z,email,True,2010,False,2.0
+393981,9,SPECIAL,2439,1346,60 to 64 years,YJJ,Children's Bookmobile,July,2016,z,email,True,2003,False,6.0
+253637,0,ADULT,504,1249,45 to 54 years,X,Main Library,February,2016,z,email,True,2005,True,0.0
+22427,0,ADULT,158,1,20 to 24 years,M4,Merced,January,2014,p,phone,False,2003,False,11.0
+316694,2,YOUNG ADULT,103,27,10 to 19 years,M6,Mission,September,2014,z,email,True,2003,False,0.0
+243659,0,ADULT,15,8,35 to 44 years,M6,Mission,July,2013,z,email,True,2003,False,5.0
+268268,0,ADULT,0,0,60 to 64 years,C2,Chinatown,None,None,a,print,False,2014,False,3.0
+377424,2,YOUNG ADULT,68,10,10 to 19 years,A5,Anza,September,2014,p,phone,False,2006,False,1.0
+411796,1,JUVENILE,59,18,10 to 19 years,B4,Bernal Heights,January,2015,p,phone,False,2010,False,10.0
+232952,0,ADULT,30,28,25 to 34 years,I5,Ingleside,July,2016,z,email,True,2013,False,11.0
+266780,0,ADULT,4,3,35 to 44 years,M6,Mission,March,2015,z,email,True,2013,False,8.0
+61546,0,ADULT,1,0,20 to 24 years,C2,Chinatown,November,2012,p,phone,False,2012,False,3.0
+186966,0,ADULT,23,27,25 to 34 years,P9,Presidio,February,2016,z,email,True,2013,False,5.0
+209202,0,ADULT,116,25,35 to 44 years,X,Main Library,September,2015,z,email,True,2006,False,11.0
+76565,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2016,True,0.0
+199513,0,ADULT,88,153,25 to 34 years,C2,Chinatown,June,2008,z,email,True,2005,False,4.0
+263511,0,ADULT,0,0,20 to 24 years,O2,Ocean View,None,None,z,email,True,2014,False,11.0
+285625,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2013,False,4.0
+122419,0,ADULT,7,0,55 to 59 years,X,Main Library,December,2014,p,phone,False,2004,False,5.0
+230929,0,ADULT,1,0,45 to 54 years,X,Main Library,March,2013,z,email,True,2013,True,0.0
+342502,1,JUVENILE,1,0,0 to 9 years,P3,Parkside,October,2014,z,email,True,2014,False,11.0
+47452,0,ADULT,273,164,55 to 59 years,O7,Ortega,May,2015,z,email,True,2003,False,4.0
+381852,1,JUVENILE,5,0,0 to 9 years,P5,Portola,April,2015,z,email,True,2015,False,10.0
+286428,0,ADULT,2,0,20 to 24 years,P3,Parkside,March,2016,z,email,True,2016,False,4.0
+92061,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,a,print,False,2014,True,0.0
+166400,0,ADULT,94,0,35 to 44 years,X,Main Library,July,2014,z,email,True,2014,True,0.0
+248241,0,ADULT,254,1,60 to 64 years,W2,West Portal,July,2016,z,email,True,2012,False,7.0
+297708,0,ADULT,336,232,35 to 44 years,P9,Presidio,July,2016,z,email,True,2004,False,0.0
+23714,0,ADULT,0,0,35 to 44 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,True,2015,True,0.0
+241997,0,ADULT,1,0,20 to 24 years,R3,Richmond,May,2012,z,email,True,2011,False,9.0
+414546,1,JUVENILE,92,60,0 to 9 years,N6,North Beach,June,2016,z,email,True,2012,False,3.0
+88889,0,ADULT,1,2,45 to 54 years,X,Main Library,July,2012,z,email,True,2012,True,0.0
+65445,0,ADULT,42,47,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,August,2015,z,email,True,2014,False,8.0
+203195,0,ADULT,6,0,35 to 44 years,M6,Mission,November,2013,z,email,True,2010,False,11.0
+118649,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2016,False,8.0
+229587,0,ADULT,236,28,25 to 34 years,B2,Bayview/Linda Brooks-Burton,February,2015,z,email,True,2003,False,10.0
+257626,0,ADULT,848,162,20 to 24 years,C2,Chinatown,September,2013,z,email,True,2003,False,6.0
+342239,3,SENIOR,3088,41,75 years and over,X,Main Library,July,2016,p,phone,False,2003,False,8.0
+335350,0,ADULT,428,292,25 to 34 years,W2,West Portal,June,2016,z,email,True,2003,False,7.0
+45387,0,ADULT,5,0,25 to 34 years,X,Main Library,June,2012,a,print,False,2009,False,9.0
+115286,0,ADULT,10,2,25 to 34 years,W2,West Portal,June,2014,z,email,True,2013,False,7.0
+322482,1,JUVENILE,203,34,0 to 9 years,P1,Park,November,2014,z,email,True,2012,False,1.0
+114477,0,ADULT,6,4,25 to 34 years,B4,Bernal Heights,September,2013,a,print,True,2013,False,9.0
+182682,0,ADULT,0,0,25 to 34 years,P7,Potrero,None,None,z,email,True,2016,False,10.0
+368740,2,YOUNG ADULT,1,0,10 to 19 years,X,Main Library,September,2015,a,print,False,2015,False,5.0
+330621,1,JUVENILE,17,0,0 to 9 years,N6,North Beach,July,2016,z,email,True,2016,False,3.0
+312321,1,JUVENILE,282,81,10 to 19 years,E9,Excelsior,January,2016,a,print,True,2006,False,7.0
+368718,0,ADULT,157,86,65 to 74 years,X,Main Library,December,2015,p,phone,True,2003,False,4.0
+246153,0,ADULT,103,46,35 to 44 years,X,Main Library,August,2010,z,email,True,2009,False,0.0
+221679,0,ADULT,112,89,35 to 44 years,O7,Ortega,June,2016,z,email,True,2015,True,0.0
+352710,1,JUVENILE,3,0,10 to 19 years,N4,Noe Valley/Sally Brunn,May,2013,z,email,True,2013,True,0.0
+948,0,ADULT,125,54,45 to 54 years,P1,Park,September,2012,z,email,True,2003,False,5.0
+297088,0,ADULT,35,23,60 to 64 years,G4,Glen Park,December,2011,z,email,True,2010,False,9.0
+202098,3,SENIOR,56,14,65 to 74 years,M4,Merced,April,2016,z,email,True,2003,True,0.0
+384649,2,YOUNG ADULT,24,0,10 to 19 years,B2,Bayview/Linda Brooks-Burton,July,2014,p,phone,False,2014,False,10.0
+245083,0,ADULT,5,6,25 to 34 years,M8,Mission Bay,October,2015,z,email,True,2011,False,3.0
+339703,1,JUVENILE,0,0,0 to 9 years,S7,Sunset,None,None,z,email,True,2015,True,0.0
+299532,0,ADULT,0,0,55 to 59 years,X,Main Library,None,None,a,print,False,2014,False,2.0
+148959,0,ADULT,984,32,20 to 24 years,X,Main Library,May,2015,z,email,True,2003,False,9.0
+407938,1,JUVENILE,4,0,0 to 9 years,P9,Presidio,November,2015,z,email,True,2014,False,2.0
+131523,0,ADULT,34,16,55 to 59 years,P3,Parkside,January,2016,p,phone,False,2008,False,4.0
+349638,1,JUVENILE,243,94,0 to 9 years,N4,Noe Valley/Sally Brunn,July,2016,p,phone,True,2012,False,8.0
+255153,3,SENIOR,278,332,65 to 74 years,M6,Mission,July,2016,p,phone,False,2003,False,8.0
+414047,1,JUVENILE,0,0,0 to 9 years,C2,Chinatown,None,None,z,email,True,2015,False,5.0
+290026,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+69012,4,WELCOME,2,0,25 to 34 years,S7,Sunset,February,2015,p,phone,False,2014,False,4.0
+78886,0,ADULT,1,1,25 to 34 years,X,Main Library,June,2015,z,email,True,2015,False,8.0
+421345,1,JUVENILE,4,0,0 to 9 years,E9,Excelsior,December,2015,z,email,True,2012,True,0.0
+143434,0,ADULT,12,0,35 to 44 years,V3,Visitacion Valley,September,2011,z,email,True,2006,False,10.0
+412100,0,ADULT,0,0,10 to 19 years,P5,Portola,None,None,p,phone,False,2007,False,0.0
+269418,0,ADULT,3,0,45 to 54 years,X,Main Library,December,2015,z,email,True,2015,False,0.0
+301172,0,ADULT,2,0,25 to 34 years,M6,Mission,May,2016,z,email,True,2016,False,0.0
+205056,0,ADULT,0,0,35 to 44 years,X,Main Library,July,2015,p,phone,False,2015,True,0.0
+319582,0,ADULT,100,24,60 to 64 years,X,Main Library,July,2016,p,phone,True,2011,False,3.0
+249521,0,ADULT,7,3,25 to 34 years,M4,Merced,July,2016,z,email,True,2016,False,7.0
+400625,2,YOUNG ADULT,2297,398,10 to 19 years,E9,Excelsior,June,2016,z,email,True,2003,False,11.0
+175518,0,ADULT,4,2,45 to 54 years,X,Main Library,August,2009,z,email,True,2009,False,7.0
+305076,16,DIGITAL ACCESS CARD,0,0,75 years and over,B2,Bayview/Linda Brooks-Burton,None,None,z,email,True,2016,False,10.0
+117592,0,ADULT,161,0,25 to 34 years,M2,Marina,November,2015,z,email,True,2014,False,2.0
+392533,3,SENIOR,19,1,75 years and over,P1,Park,April,2011,z,email,True,2008,True,0.0
+268276,0,ADULT,5,1,35 to 44 years,M4,Merced,March,2015,z,email,True,2014,False,7.0
+280771,0,ADULT,3,0,25 to 34 years,M8,Mission Bay,November,2012,z,email,True,2012,False,6.0
+398449,1,JUVENILE,1116,89,0 to 9 years,C2,Chinatown,July,2016,p,phone,False,2010,False,3.0
+353061,2,YOUNG ADULT,20,2,10 to 19 years,M6,Mission,June,2016,z,email,True,2015,False,9.0
+124809,0,ADULT,363,10,60 to 64 years,B4,Bernal Heights,July,2016,z,email,True,2003,False,9.0
+228753,3,SENIOR,136,172,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,True,2003,False,8.0
+327848,1,JUVENILE,200,38,0 to 9 years,P9,Presidio,July,2016,z,email,True,2009,False,2.0
+327478,0,ADULT,54,27,10 to 19 years,V3,Visitacion Valley,July,2016,z,email,True,2007,False,10.0
+229971,0,ADULT,72,30,45 to 54 years,P1,Park,March,2016,z,email,True,2003,False,10.0
+335480,2,YOUNG ADULT,62,0,10 to 19 years,C2,Chinatown,November,2015,a,print,False,2005,False,10.0
+77805,0,ADULT,165,72,45 to 54 years,N4,Noe Valley/Sally Brunn,October,2013,z,email,True,2008,False,0.0
+39977,0,ADULT,3,0,20 to 24 years,I5,Ingleside,December,2014,z,email,True,2011,False,10.0
+187549,0,ADULT,190,162,20 to 24 years,W2,West Portal,November,2012,z,email,True,2009,False,7.0
+420538,3,SENIOR,1,0,75 years and over,X,Main Library,April,2013,p,phone,True,2013,False,0.0
+76053,0,ADULT,0,0,60 to 64 years,N6,North Beach,None,None,z,email,True,2014,False,3.0
+36619,0,ADULT,101,24,25 to 34 years,E9,Excelsior,January,2010,z,email,True,2003,False,9.0
+208010,0,ADULT,62,24,60 to 64 years,M6,Mission,May,2016,z,email,True,2010,False,8.0
+195470,0,ADULT,15,9,45 to 54 years,M6,Mission,March,2014,p,phone,False,2013,False,8.0
+116634,3,SENIOR,1059,604,65 to 74 years,P9,Presidio,July,2016,p,phone,False,2003,False,2.0
+105459,0,ADULT,22,0,45 to 54 years,X,Main Library,July,2015,p,phone,False,2008,False,9.0
+92166,3,SENIOR,0,0,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,None,None,z,email,True,2014,False,8.0
+173071,0,ADULT,4,0,45 to 54 years,P7,Potrero,April,2016,z,email,True,2010,False,10.0
+24652,0,ADULT,20,20,55 to 59 years,N6,North Beach,August,2015,z,email,True,2014,False,3.0
+178276,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+42799,0,ADULT,650,334,45 to 54 years,S7,Sunset,July,2016,z,email,True,2007,False,0.0
+386869,0,ADULT,0,0,10 to 19 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+254621,0,ADULT,84,136,25 to 34 years,X,Main Library,June,2013,z,email,True,2010,True,0.0
+37109,0,ADULT,14,19,25 to 34 years,N4,Noe Valley/Sally Brunn,April,2016,z,email,True,2013,False,8.0
+174673,0,ADULT,35,16,45 to 54 years,G4,Glen Park,December,2013,a,print,False,2003,False,1.0
+181516,0,ADULT,6,15,55 to 59 years,X,Main Library,August,2013,a,print,False,2012,True,0.0
+252919,0,ADULT,34,19,45 to 54 years,N4,Noe Valley/Sally Brunn,May,2016,z,email,True,2014,False,8.0
+86645,0,ADULT,154,50,25 to 34 years,P5,Portola,June,2016,p,phone,False,2007,False,10.0
+388964,3,SENIOR,481,96,75 years and over,W4,Western Addition,July,2016,z,email,True,2003,False,5.0
+138062,0,ADULT,255,407,45 to 54 years,C2,Chinatown,March,2016,z,email,True,2012,True,0.0
+406400,12,BOOKS BY MAIL,165,16,75 years and over,XFFL,Unknown,July,2016,z,email,True,2015,False,4.0
+178606,0,ADULT,0,0,45 to 54 years,W2,West Portal,None,None,z,email,True,2014,False,7.0
+329472,1,JUVENILE,0,0,10 to 19 years,P7,Potrero,None,None,z,email,True,2012,True,0.0
+398805,0,ADULT,4,3,25 to 34 years,O2,Ocean View,July,2016,z,email,True,2016,False,11.0
+392279,1,JUVENILE,30,0,0 to 9 years,G4,Glen Park,March,2015,p,phone,False,2013,False,7.0
+300916,0,ADULT,7,0,25 to 34 years,X,Main Library,July,2013,z,email,True,2009,False,4.0
+218683,0,ADULT,2,2,35 to 44 years,X,Main Library,October,2010,z,email,True,2010,True,0.0
+257808,0,ADULT,4,1,35 to 44 years,M8,Mission Bay,July,2012,z,email,True,2012,False,0.0
+254863,0,ADULT,224,31,45 to 54 years,S7,Sunset,July,2016,z,email,True,2015,False,4.0
+58747,0,ADULT,153,105,25 to 34 years,P5,Portola,March,2016,z,email,True,2003,False,9.0
+306361,1,JUVENILE,1116,13,10 to 19 years,G4,Glen Park,July,2016,p,phone,False,2011,False,8.0
+2844,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2015,False,3.0
+26443,4,WELCOME,4,0,35 to 44 years,X,Main Library,September,2010,a,print,False,2010,False,6.0
+42770,0,ADULT,14,1,25 to 34 years,A5,Anza,July,2016,z,email,True,2007,False,1.0
+6168,0,ADULT,41,0,35 to 44 years,X,Main Library,June,2016,z,email,True,2012,False,8.0
+18203,0,ADULT,1863,1197,45 to 54 years,S7,Sunset,July,2014,z,email,True,2003,False,1.0
+219085,0,ADULT,7,4,45 to 54 years,O7,Ortega,May,2015,z,email,True,2012,True,0.0
+281220,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2014,True,0.0
+386588,1,JUVENILE,3,0,10 to 19 years,P5,Portola,September,2015,a,print,False,2015,False,9.0
+247752,0,ADULT,12,3,25 to 34 years,S7,Sunset,November,2013,z,email,True,2009,False,9.0
+253025,0,ADULT,7,10,25 to 34 years,S7,Sunset,December,2015,z,email,True,2010,False,11.0
+304540,2,YOUNG ADULT,642,238,10 to 19 years,N6,North Beach,July,2016,z,email,True,2007,False,3.0
+276863,0,ADULT,1043,918,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,True,2007,False,5.0
+42579,3,SENIOR,3,0,65 to 74 years,X,Main Library,May,2016,z,email,True,2011,True,0.0
+177950,0,ADULT,0,0,25 to 34 years,X,Main Library,October,2012,z,email,True,2012,False,3.0
+35498,0,ADULT,2,0,35 to 44 years,P1,Park,August,2015,p,phone,True,2011,False,3.0
+331274,1,JUVENILE,22,12,0 to 9 years,B2,Bayview/Linda Brooks-Burton,December,2013,p,phone,False,2013,False,10.0
+27574,0,ADULT,0,0,25 to 34 years,W2,West Portal,None,None,z,email,True,2013,False,7.0
+139697,0,ADULT,177,62,25 to 34 years,W2,West Portal,September,2015,z,email,True,2003,False,7.0
+5272,0,ADULT,1924,7,45 to 54 years,X,Main Library,July,2016,z,email,True,2003,False,3.0
+345468,1,JUVENILE,52,2,0 to 9 years,M6,Mission,June,2016,z,email,True,2008,False,6.0
+187880,0,ADULT,50,0,45 to 54 years,P3,Parkside,May,2016,z,email,True,2016,False,4.0
+165914,0,ADULT,19,2,60 to 64 years,N4,Noe Valley/Sally Brunn,June,2015,z,email,True,2014,False,8.0
+306011,2,YOUNG ADULT,167,64,10 to 19 years,M2,Marina,July,2016,z,email,True,2009,False,2.0
+406850,5,STAFF,5210,3493,0 to 9 years,M6,Mission,July,2016,z,email,True,2003,False,9.0
+31046,0,ADULT,2,0,25 to 34 years,X,Main Library,September,2015,a,print,False,2014,True,0.0
+27304,0,ADULT,11,1,20 to 24 years,M6,Mission,February,2015,z,email,True,2011,True,0.0
+120542,4,WELCOME,1,0,20 to 24 years,M6,Mission,February,2016,z,email,True,2016,False,9.0
+198035,0,ADULT,0,0,45 to 54 years,E9,Excelsior,None,None,z,email,True,2014,True,0.0
+19626,0,ADULT,9,0,35 to 44 years,X,Main Library,May,2016,z,email,True,2016,False,11.0
+422300,1,JUVENILE,15,0,0 to 9 years,B4,Bernal Heights,August,2015,z,email,True,2015,False,11.0
+33245,0,ADULT,4,0,55 to 59 years,B2,Bayview/Linda Brooks-Burton,September,2015,z,email,True,2015,False,10.0
+249350,0,ADULT,71,38,35 to 44 years,W4,Western Addition,July,2014,z,email,True,2008,False,5.0
+188289,0,ADULT,64,19,25 to 34 years,R3,Richmond,July,2016,z,email,True,2015,False,1.0
+48009,0,ADULT,2,0,20 to 24 years,X,Main Library,August,2013,z,email,True,2013,False,0.0
+273097,4,WELCOME,2,2,25 to 34 years,N4,Noe Valley/Sally Brunn,November,2015,z,email,True,2015,False,8.0
+6959,0,ADULT,3,0,45 to 54 years,S7,Sunset,July,2016,z,email,True,2016,False,7.0
+367133,1,JUVENILE,58,0,0 to 9 years,P9,Presidio,July,2014,z,email,True,2014,False,2.0
+60503,0,ADULT,808,931,25 to 34 years,R3,Richmond,June,2015,z,email,True,2003,False,1.0
+262583,0,ADULT,227,116,45 to 54 years,R3,Richmond,January,2015,z,email,True,2008,False,1.0
+75843,0,ADULT,25,39,25 to 34 years,N4,Noe Valley/Sally Brunn,June,2016,z,email,True,2011,False,8.0
+236441,0,ADULT,9,6,55 to 59 years,G4,Glen Park,November,2015,z,email,True,2008,False,8.0
+107827,0,ADULT,5,11,25 to 34 years,C2,Chinatown,June,2016,z,email,True,2015,False,3.0
+152877,0,ADULT,1,0,25 to 34 years,N6,North Beach,January,2015,a,print,False,2014,False,11.0
+29553,0,ADULT,177,64,60 to 64 years,X,Main Library,November,2015,z,email,True,2010,True,0.0
+128380,0,ADULT,1485,480,60 to 64 years,C2,Chinatown,January,2016,a,print,False,2003,False,11.0
+152777,0,ADULT,1,0,55 to 59 years,X,Main Library,April,2014,z,email,True,2012,False,0.0
+56494,0,ADULT,231,519,45 to 54 years,X,Main Library,September,2013,z,email,True,2006,True,0.0
+359857,1,JUVENILE,43,8,10 to 19 years,R3,Richmond,September,2015,z,email,True,2010,False,0.0
+368190,1,JUVENILE,3,0,0 to 9 years,R3,Richmond,June,2016,z,email,True,2016,False,1.0
+291366,0,ADULT,17,12,55 to 59 years,A5,Anza,November,2013,z,email,True,2009,False,0.0
+132670,0,ADULT,7,10,35 to 44 years,X,Main Library,October,2013,z,email,True,2009,False,8.0
+69282,3,SENIOR,37,12,65 to 74 years,N4,Noe Valley/Sally Brunn,June,2016,z,email,True,2012,False,8.0
+359789,2,YOUNG ADULT,2536,343,10 to 19 years,B4,Bernal Heights,July,2016,z,email,True,2003,True,0.0
+200682,0,ADULT,5,8,20 to 24 years,M6,Mission,June,2016,z,email,True,2015,False,9.0
+251947,0,ADULT,72,38,35 to 44 years,X,Main Library,February,2014,z,email,True,2007,False,0.0
+203321,3,SENIOR,31,1,65 to 74 years,P3,Parkside,November,2015,z,email,True,2010,False,7.0
+85175,3,SENIOR,13,11,65 to 74 years,P3,Parkside,July,2016,z,email,True,2016,False,4.0
+238229,0,ADULT,273,168,20 to 24 years,P5,Portola,May,2016,z,email,True,2003,False,10.0
+356588,3,SENIOR,62,3,75 years and over,N6,North Beach,July,2014,p,phone,False,2006,False,2.0
+54547,0,ADULT,139,52,35 to 44 years,W4,Western Addition,April,2015,z,email,True,2014,True,0.0
+156236,0,ADULT,856,768,20 to 24 years,C2,Chinatown,May,2016,z,email,True,2011,False,3.0
+5926,0,ADULT,1505,1690,45 to 54 years,S7,Sunset,July,2016,z,email,True,2003,False,7.0
+164300,0,ADULT,2,0,25 to 34 years,M4,Merced,November,2015,z,email,True,2015,False,7.0
+176495,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2015,False,9.0
+397279,1,JUVENILE,0,0,10 to 19 years,X,Main Library,None,None,z,email,True,2016,False,10.0
+223826,3,SENIOR,0,0,65 to 74 years,R3,Richmond,None,None,z,email,True,2011,False,1.0
+22037,0,ADULT,1,0,25 to 34 years,A5,Anza,July,2016,z,email,True,2016,False,1.0
+274228,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+168558,0,ADULT,1,0,60 to 64 years,S7,Sunset,April,2016,p,phone,False,2016,False,4.0
+153456,4,WELCOME,1,0,20 to 24 years,P3,Parkside,December,2014,z,email,True,2013,False,7.0
+106217,3,SENIOR,128,31,65 to 74 years,B4,Bernal Heights,June,2016,z,email,True,2008,False,9.0
+341289,1,JUVENILE,102,9,10 to 19 years,M6,Mission,October,2015,a,print,False,2010,False,11.0
+130270,0,ADULT,0,0,55 to 59 years,X,Main Library,None,None,z,email,True,2014,False,10.0
+191723,3,SENIOR,6,6,65 to 74 years,X,Main Library,April,2014,z,email,True,2014,False,6.0
+113647,0,ADULT,126,2,60 to 64 years,C2,Chinatown,July,2015,z,email,True,2003,True,0.0
+310521,1,JUVENILE,16,0,0 to 9 years,R3,Richmond,July,2015,z,email,True,2012,False,2.0
+100263,0,ADULT,807,202,45 to 54 years,P1,Park,July,2016,z,email,True,2007,False,5.0
+393495,1,JUVENILE,1,0,10 to 19 years,M6,Mission,October,2013,z,email,True,2008,False,11.0
+311881,1,JUVENILE,325,7,10 to 19 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,True,2011,False,8.0
+46170,0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,p,phone,True,2015,False,11.0
+193074,0,ADULT,7,0,35 to 44 years,M6,Mission,March,2014,z,email,True,2013,True,0.0
+81048,0,ADULT,154,108,45 to 54 years,A5,Anza,July,2013,z,email,True,2007,False,11.0
+242116,0,ADULT,4,4,20 to 24 years,X,Main Library,July,2013,z,email,True,2013,True,0.0
+408795,2,YOUNG ADULT,16,15,10 to 19 years,B4,Bernal Heights,July,2012,z,email,True,2008,False,9.0
+64300,15,TEACHER CARD,54,2,45 to 54 years,R3,Richmond,July,2016,z,email,True,2016,False,1.0
+174077,0,ADULT,1,0,60 to 64 years,E7,Eureka Valley/Harvey Milk Memorial,May,2010,z,email,True,2010,False,8.0
+98021,0,ADULT,2,1,25 to 34 years,X,Main Library,February,2013,z,email,True,2012,False,9.0
+59757,0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,True,2014,True,0.0
+276744,0,ADULT,0,0,55 to 59 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,True,2006,False,10.0
+246268,0,ADULT,103,61,25 to 34 years,B2,Bayview/Linda Brooks-Burton,June,2016,z,email,True,2003,False,10.0
+121010,100,AT USER ADULT,40,47,45 to 54 years,X,Main Library,December,2011,z,email,True,2003,True,0.0
+75532,0,ADULT,105,48,35 to 44 years,M8,Mission Bay,July,2016,z,email,True,2014,False,0.0
+336441,2,YOUNG ADULT,0,0,10 to 19 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+31140,3,SENIOR,5,2,65 to 74 years,C2,Chinatown,February,2015,a,print,False,2007,True,0.0
+310458,3,SENIOR,822,325,75 years and over,N6,North Beach,October,2015,z,email,True,2003,False,3.0
+168600,3,SENIOR,31,5,65 to 74 years,N4,Noe Valley/Sally Brunn,February,2013,p,phone,False,2003,False,8.0
+397746,0,ADULT,109,25,10 to 19 years,I5,Ingleside,July,2014,z,email,True,2003,False,7.0
+288135,5,STAFF,328,1178,25 to 34 years,M8,Mission Bay,July,2016,p,phone,True,2008,True,0.0
+280199,3,SENIOR,5,0,65 to 74 years,X,Main Library,March,2007,p,phone,True,2003,False,11.0
+400410,2,YOUNG ADULT,178,8,10 to 19 years,P1,Park,September,2014,z,email,True,2005,False,7.0
+17498,0,ADULT,288,24,45 to 54 years,W4,Western Addition,January,2016,z,email,True,2008,False,8.0
+35052,3,SENIOR,1,3,65 to 74 years,X,Main Library,June,2015,z,email,True,2011,True,0.0
+209774,0,ADULT,200,193,25 to 34 years,N6,North Beach,March,2016,z,email,True,2005,False,3.0
+113352,0,ADULT,224,25,35 to 44 years,M2,Marina,July,2014,z,email,True,2012,True,0.0
+240441,3,SENIOR,115,0,65 to 74 years,R3,Richmond,July,2016,z,email,True,2003,False,1.0
+358791,0,ADULT,7,0,10 to 19 years,E9,Excelsior,July,2014,p,phone,False,2014,False,11.0
+311760,0,ADULT,854,11,10 to 19 years,C2,Chinatown,August,2015,a,print,True,2003,False,3.0
+329101,1,JUVENILE,11,0,10 to 19 years,M6,Mission,December,2015,p,phone,False,2014,False,0.0
+213678,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+26461,0,ADULT,22,41,25 to 34 years,N6,North Beach,March,2016,z,email,True,2012,False,3.0
+109812,0,ADULT,102,18,35 to 44 years,X,Main Library,January,2015,z,email,True,2005,True,0.0
+198380,0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,z,email,True,2013,False,8.0
+40417,0,ADULT,107,35,45 to 54 years,W2,West Portal,May,2016,z,email,True,2012,False,7.0
+241384,0,ADULT,127,122,35 to 44 years,S7,Sunset,June,2014,z,email,True,2012,False,4.0
+126637,15,TEACHER CARD,45,19,25 to 34 years,E9,Excelsior,October,2015,z,email,True,2015,False,11.0
+269205,0,ADULT,306,204,60 to 64 years,X,Main Library,July,2016,z,email,True,2003,False,1.0
+333066,0,ADULT,0,0,45 to 54 years,X,Main Library,November,2014,z,email,True,2006,False,6.0
+416547,2,YOUNG ADULT,931,64,10 to 19 years,R3,Richmond,July,2016,z,email,True,2004,False,1.0
+69715,0,ADULT,17,3,25 to 34 years,X,Main Library,May,2016,p,phone,False,2012,False,6.0
+179010,4,WELCOME,1,0,20 to 24 years,E9,Excelsior,September,2015,z,email,True,2015,False,7.0
+235269,0,ADULT,0,0,25 to 34 years,M8,Mission Bay,None,None,z,email,True,2016,False,6.0
+167696,0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+48290,0,ADULT,145,125,60 to 64 years,S7,Sunset,July,2016,z,email,True,2010,False,5.0
+359749,3,SENIOR,1656,3821,75 years and over,O7,Ortega,July,2016,a,print,True,2003,False,5.0
+43148,0,ADULT,18,12,35 to 44 years,P9,Presidio,July,2015,z,email,True,2014,False,2.0
+23331,0,ADULT,8,0,25 to 34 years,G4,Glen Park,August,2014,z,email,True,2011,False,4.0
+112146,0,ADULT,176,7,60 to 64 years,M6,Mission,July,2015,p,phone,False,2003,False,9.0
+291086,0,ADULT,15,13,25 to 34 years,S7,Sunset,July,2016,z,email,True,2014,False,4.0
+399690,1,JUVENILE,170,85,0 to 9 years,P3,Parkside,June,2016,p,phone,False,2013,False,7.0
+29311,0,ADULT,3,6,20 to 24 years,X,Main Library,July,2016,z,email,True,2016,False,3.0
+23187,0,ADULT,59,9,35 to 44 years,R3,Richmond,March,2016,z,email,True,2010,False,9.0
+359200,1,JUVENILE,150,11,0 to 9 years,B4,Bernal Heights,April,2016,z,email,True,2012,False,9.0
+9685,3,SENIOR,81,14,65 to 74 years,W2,West Portal,April,2015,z,email,True,2012,False,7.0
+4530,5,STAFF,3604,3132,45 to 54 years,N6,North Beach,July,2016,z,email,True,2003,False,9.0
+197499,0,ADULT,312,122,45 to 54 years,R3,Richmond,June,2016,z,email,True,2003,False,1.0
+333573,1,JUVENILE,2,0,10 to 19 years,M6,Mission,November,2012,z,email,True,2012,False,0.0
+43955,0,ADULT,37,12,35 to 44 years,P7,Potrero,September,2014,z,email,True,2012,False,10.0
+399267,2,YOUNG ADULT,141,36,10 to 19 years,E9,Excelsior,July,2015,z,email,True,2011,False,11.0
+3903,0,ADULT,9378,712,55 to 59 years,C2,Chinatown,July,2016,z,email,True,2003,False,4.0
+32191,0,ADULT,2,0,25 to 34 years,M4,Merced,June,2015,p,phone,False,2015,False,11.0
+88257,0,ADULT,35,23,35 to 44 years,X,Main Library,September,2013,z,email,True,2003,False,7.0
+256602,0,ADULT,1,0,45 to 54 years,M2,Marina,April,2015,z,email,True,2008,False,3.0
+86335,0,ADULT,0,0,60 to 64 years,R3,Richmond,None,None,z,email,True,2013,False,1.0
+396416,0,ADULT,66,0,45 to 54 years,S7,Sunset,October,2015,z,email,True,2010,False,4.0
+313568,1,JUVENILE,84,44,0 to 9 years,B4,Bernal Heights,May,2016,z,email,True,2014,False,11.0
+349596,1,JUVENILE,87,12,10 to 19 years,C2,Chinatown,April,2016,a,print,False,2008,False,6.0
+4268,0,ADULT,43,45,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,True,2007,False,8.0
+15504,0,ADULT,0,0,35 to 44 years,P7,Potrero,None,None,p,phone,False,2016,False,0.0
+127642,0,ADULT,17,10,25 to 34 years,P5,Portola,June,2014,z,email,True,2010,False,9.0
+370230,1,JUVENILE,41,6,0 to 9 years,R3,Richmond,June,2016,z,email,True,2010,False,2.0
+216629,0,ADULT,99,39,25 to 34 years,X,Main Library,July,2015,z,email,True,2009,True,0.0
+120507,0,ADULT,44,10,25 to 34 years,X,Main Library,February,2015,z,email,True,2008,False,5.0
+389244,2,YOUNG ADULT,0,0,10 to 19 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+187587,0,ADULT,0,0,35 to 44 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,True,2013,False,10.0
+84943,0,ADULT,1,0,25 to 34 years,X,Main Library,May,2013,z,email,True,2012,False,6.0
+314367,3,SENIOR,97,145,75 years and over,I5,Ingleside,June,2016,z,email,True,2010,False,11.0
+354769,1,JUVENILE,2,0,0 to 9 years,B4,Bernal Heights,April,2015,z,email,True,2014,False,9.0
+64452,4,WELCOME,1,1,25 to 34 years,M8,Mission Bay,June,2015,z,email,True,2015,True,0.0
+291604,0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,p,phone,False,2012,True,0.0
+248731,0,ADULT,57,2,35 to 44 years,M8,Mission Bay,March,2014,z,email,True,2008,False,6.0
+272382,0,ADULT,5,0,25 to 34 years,X,Main Library,August,2013,z,email,True,2012,False,3.0
+249390,0,ADULT,4,4,35 to 44 years,X,Main Library,October,2012,z,email,True,2003,False,8.0
+33312,0,ADULT,4,4,25 to 34 years,X,Main Library,May,2014,z,email,True,2012,False,4.0
+198706,0,ADULT,23,1,60 to 64 years,M8,Mission Bay,August,2014,z,email,True,2013,True,0.0
+368264,2,YOUNG ADULT,0,0,10 to 19 years,X,Main Library,None,None,p,phone,False,2016,True,0.0
+144468,0,ADULT,4,9,60 to 64 years,X,Main Library,September,2015,z,email,True,2015,False,6.0
+108730,0,ADULT,17,35,25 to 34 years,X,Main Library,July,2016,z,email,True,2014,False,8.0
+232902,0,ADULT,74,26,55 to 59 years,G4,Glen Park,July,2013,z,email,True,2003,False,7.0
+303034,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2014,False,5.0
+252481,0,ADULT,33,1,35 to 44 years,M6,Mission,May,2016,p,phone,False,2015,False,6.0
+368021,1,JUVENILE,8,0,10 to 19 years,X,Main Library,August,2012,a,print,False,2012,False,8.0
+271343,0,ADULT,18,21,60 to 64 years,S7,Sunset,August,2013,z,email,True,2009,False,5.0
+310730,1,JUVENILE,346,43,10 to 19 years,W2,West Portal,July,2016,z,email,True,2010,False,7.0
+174173,0,ADULT,0,0,55 to 59 years,M6,Mission,September,2015,p,phone,False,2015,False,0.0
+100799,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2010,True,0.0
+176172,0,ADULT,2,3,25 to 34 years,I5,Ingleside,July,2016,z,email,True,2016,False,11.0
+1009,0,ADULT,56,43,35 to 44 years,B4,Bernal Heights,February,2016,z,email,True,2011,False,9.0
+280179,0,ADULT,108,6,45 to 54 years,G4,Glen Park,June,2016,z,email,True,2004,False,8.0
+160274,0,ADULT,261,5,55 to 59 years,X,Main Library,July,2016,a,print,False,2007,False,0.0
+229762,0,ADULT,644,137,35 to 44 years,M8,Mission Bay,October,2013,z,email,True,2004,False,6.0
+168334,0,ADULT,7,0,45 to 54 years,B4,Bernal Heights,December,2013,z,email,True,2003,False,0.0
+101529,0,ADULT,62,5,35 to 44 years,C2,Chinatown,January,2016,z,email,True,2003,False,4.0
+6662,0,ADULT,6,11,45 to 54 years,X,Main Library,July,2014,z,email,True,2013,False,6.0
+138048,0,ADULT,2,0,20 to 24 years,B2,Bayview/Linda Brooks-Burton,October,2015,z,email,True,2013,False,10.0
+168759,0,ADULT,70,46,25 to 34 years,X,Main Library,January,2014,z,email,True,2012,False,5.0
+92794,0,ADULT,0,0,45 to 54 years,W2,West Portal,None,None,z,email,True,2011,False,0.0
+365843,1,JUVENILE,0,0,0 to 9 years,B4,Bernal Heights,None,None,p,phone,False,2014,False,9.0
+377339,2,YOUNG ADULT,3,2,10 to 19 years,G4,Glen Park,January,2015,z,email,True,2009,True,0.0
+98328,3,SENIOR,1559,137,65 to 74 years,X,Main Library,July,2016,z,email,True,2011,False,5.0
+108549,0,ADULT,57,69,55 to 59 years,R3,Richmond,November,2013,z,email,True,2009,False,11.0
+2012,0,ADULT,31,0,45 to 54 years,M6,Mission,May,2014,z,email,True,2003,False,11.0
+64684,0,ADULT,223,267,25 to 34 years,W2,West Portal,October,2010,z,email,True,2003,False,4.0
+74382,0,ADULT,1,0,55 to 59 years,A5,Anza,July,2015,z,email,True,2015,True,0.0
+270696,0,ADULT,0,0,35 to 44 years,R3,Richmond,None,None,z,email,True,2016,False,5.0
+23528,0,ADULT,6,1,20 to 24 years,P9,Presidio,April,2016,z,email,True,2016,False,6.0
+10449,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2012,True,0.0
+362864,4,WELCOME,1,0,45 to 54 years,X,Main Library,December,2013,z,email,True,2013,True,0.0
+53513,0,ADULT,0,0,35 to 44 years,P1,Park,None,None,z,email,True,2016,False,5.0
+295976,0,ADULT,9,0,55 to 59 years,X,Main Library,June,2016,p,phone,False,2015,False,6.0
+196601,0,ADULT,15,14,35 to 44 years,S7,Sunset,March,2009,z,email,True,2008,False,11.0
+238013,0,ADULT,1,0,20 to 24 years,B4,Bernal Heights,October,2015,z,email,True,2015,False,0.0
+276738,0,ADULT,368,485,60 to 64 years,G4,Glen Park,July,2016,z,email,True,2006,False,8.0
+145530,0,ADULT,1,0,45 to 54 years,X,Main Library,September,2013,z,email,True,2013,False,8.0
+106298,0,ADULT,0,0,25 to 34 years,P9,Presidio,None,None,p,phone,False,2015,False,2.0
+281769,4,WELCOME,1,1,20 to 24 years,X,Main Library,September,2013,z,email,True,2013,False,0.0
+405085,1,JUVENILE,24,0,10 to 19 years,W4,Western Addition,October,2015,p,phone,False,2010,False,5.0
+232804,0,ADULT,215,140,25 to 34 years,S7,Sunset,July,2016,z,email,True,2003,False,5.0
+211246,0,ADULT,222,61,35 to 44 years,W4,Western Addition,January,2014,z,email,True,2012,False,5.0
+288609,4,WELCOME,1,3,25 to 34 years,X,Main Library,December,2015,p,phone,False,2015,False,3.0
+130055,15,TEACHER CARD,35,29,25 to 34 years,E9,Excelsior,May,2016,z,email,True,2014,False,9.0
+261371,0,ADULT,5,9,45 to 54 years,X,Main Library,July,2015,z,email,True,2013,True,0.0
+169409,0,ADULT,222,265,25 to 34 years,C2,Chinatown,September,2013,z,email,True,2007,True,0.0
+285795,0,ADULT,196,84,35 to 44 years,S7,Sunset,July,2016,z,email,True,2009,True,0.0
+146736,0,ADULT,15,10,20 to 24 years,I5,Ingleside,May,2016,z,email,True,2014,False,7.0
+22097,3,SENIOR,0,0,65 to 74 years,X,Main Library,October,2012,z,email,True,2012,False,0.0
+213770,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+271930,0,ADULT,107,5,35 to 44 years,M6,Mission,November,2015,z,email,True,2010,False,11.0
+38190,0,ADULT,4,2,25 to 34 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,True,2015,False,3.0
+226282,0,ADULT,28,22,25 to 34 years,X,Main Library,July,2014,z,email,True,2011,True,0.0
+339042,1,JUVENILE,0,0,0 to 9 years,M6,Mission,None,None,z,email,True,2015,False,9.0
+400569,1,JUVENILE,0,0,10 to 19 years,B2,Bayview/Linda Brooks-Burton,None,None,a,print,False,2015,False,10.0
+70265,0,ADULT,21,2,25 to 34 years,X,Main Library,December,2013,z,email,True,2011,False,5.0
+11250,4,WELCOME,0,0,25 to 34 years,M8,Mission Bay,None,None,z,email,True,2016,False,6.0
+312484,0,ADULT,1498,718,10 to 19 years,P3,Parkside,October,2015,z,email,True,2003,False,4.0
+97220,0,ADULT,24,0,35 to 44 years,W4,Western Addition,May,2014,p,phone,False,2010,False,11.0
+110106,0,ADULT,15,2,45 to 54 years,I5,Ingleside,November,2015,z,email,True,2014,False,11.0
+120749,0,ADULT,2,0,25 to 34 years,G4,Glen Park,June,2016,z,email,True,2016,False,10.0
+51305,0,ADULT,31,12,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,July,2015,z,email,True,2012,False,8.0
+350543,2,YOUNG ADULT,15,4,10 to 19 years,W4,Western Addition,December,2013,a,print,False,2009,False,11.0
+422584,3,SENIOR,647,205,75 years and over,M4,Merced,May,2015,z,email,True,2003,False,7.0
+330303,3,SENIOR,1455,7,75 years and over,E9,Excelsior,June,2015,p,phone,False,2003,False,11.0
+54161,0,ADULT,0,0,35 to 44 years,R3,Richmond,None,None,z,email,True,2015,True,0.0
+213849,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+285051,0,ADULT,16,1,25 to 34 years,X,Main Library,May,2016,z,email,True,2013,False,6.0
+295522,3,SENIOR,1076,132,65 to 74 years,B4,Bernal Heights,July,2016,p,phone,False,2012,False,0.0
+825,3,SENIOR,158,21,65 to 74 years,X,Main Library,February,2016,p,phone,False,2003,False,10.0
+196462,0,ADULT,59,5,55 to 59 years,M6,Mission,October,2013,z,email,True,2005,False,5.0
+358050,1,JUVENILE,0,0,0 to 9 years,E9,Excelsior,None,None,p,phone,False,2015,False,11.0
+177271,0,ADULT,9,0,20 to 24 years,E9,Excelsior,April,2014,p,phone,True,2008,True,0.0
+123064,3,SENIOR,936,85,65 to 74 years,C2,Chinatown,May,2016,p,phone,False,2008,False,0.0
+240404,15,TEACHER CARD,325,0,45 to 54 years,I5,Ingleside,June,2016,z,email,True,2014,False,7.0
+344147,2,YOUNG ADULT,45,21,10 to 19 years,M8,Mission Bay,November,2012,p,phone,True,2008,False,10.0
+372732,0,ADULT,227,67,10 to 19 years,I5,Ingleside,July,2016,a,print,True,2011,False,11.0
+198471,0,ADULT,8,0,25 to 34 years,X,Main Library,February,2016,a,print,False,2016,False,6.0
+229386,4,WELCOME,1,0,25 to 34 years,C2,Chinatown,December,2013,z,email,True,2013,False,3.0
+423296,0,ADULT,28,2,35 to 44 years,S7,Sunset,May,2015,z,email,True,2009,False,6.0
+104377,0,ADULT,104,144,35 to 44 years,X,Main Library,July,2016,z,email,True,2012,False,9.0
+89376,0,ADULT,96,7,20 to 24 years,X,Main Library,February,2016,p,phone,False,2003,False,6.0
+386729,2,YOUNG ADULT,976,733,10 to 19 years,S7,Sunset,April,2014,z,email,True,2003,False,4.0
+76684,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2016,True,0.0
+106120,0,ADULT,18,0,25 to 34 years,X,Main Library,January,2014,z,email,True,2013,True,0.0
+119188,0,ADULT,15,0,25 to 34 years,R3,Richmond,May,2014,z,email,True,2010,False,0.0
+317467,1,JUVENILE,6,0,0 to 9 years,E9,Excelsior,August,2014,p,phone,False,2014,False,11.0
+411313,1,JUVENILE,29,9,0 to 9 years,R3,Richmond,July,2016,z,email,True,2016,False,1.0
+136926,0,ADULT,10,5,55 to 59 years,R3,Richmond,May,2015,z,email,True,2004,False,1.0
+303862,1,JUVENILE,14,0,0 to 9 years,E9,Excelsior,September,2015,a,print,False,2014,False,11.0
+258419,0,ADULT,0,0,25 to 34 years,P5,Portola,None,None,z,email,True,2015,False,9.0
+422231,0,ADULT,9,4,65 to 74 years,E9,Excelsior,December,2013,z,email,True,2012,False,11.0
+157227,0,ADULT,369,167,60 to 64 years,G6,Golden Gate Valley,July,2016,z,email,True,2003,False,2.0
+352903,0,ADULT,0,0,10 to 19 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+355840,1,JUVENILE,70,2,0 to 9 years,E9,Excelsior,July,2016,z,email,True,2013,False,11.0
+263729,0,ADULT,2,6,35 to 44 years,C2,Chinatown,December,2015,z,email,True,2014,False,3.0
+381466,2,YOUNG ADULT,73,0,10 to 19 years,P1,Park,November,2013,z,email,True,2012,False,5.0
+31532,0,ADULT,1,0,35 to 44 years,X,Main Library,June,2015,z,email,True,2015,False,5.0
+282441,0,ADULT,23,0,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,March,2014,p,phone,False,2014,False,8.0
+359785,3,SENIOR,174,26,75 years and over,P1,Park,November,2014,z,email,True,2003,False,5.0
+86428,3,SENIOR,1934,95,65 to 74 years,C2,Chinatown,July,2016,p,phone,False,2003,False,3.0
+225983,0,ADULT,26,1,35 to 44 years,X,Main Library,July,2016,z,email,True,2013,False,11.0
+38627,0,ADULT,0,0,20 to 24 years,B4,Bernal Heights,None,None,z,email,True,2014,False,9.0
+23949,3,SENIOR,88,3,65 to 74 years,B4,Bernal Heights,July,2015,z,email,True,2003,True,0.0
+286973,0,ADULT,979,1336,45 to 54 years,C2,Chinatown,July,2016,z,email,True,2003,True,0.0
+100845,3,SENIOR,379,200,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,True,2003,False,8.0
+185189,0,ADULT,2,0,55 to 59 years,C2,Chinatown,April,2014,z,email,True,2013,False,3.0
+313655,0,ADULT,478,532,45 to 54 years,X,Main Library,April,2014,z,email,True,2008,False,1.0
+114338,0,ADULT,8,11,25 to 34 years,X,Main Library,July,2016,z,email,True,2013,False,1.0
+12039,0,ADULT,2,4,35 to 44 years,M2,Marina,December,2013,z,email,True,2013,False,2.0
+228883,0,ADULT,185,36,25 to 34 years,X,Main Library,October,2014,z,email,True,2003,False,7.0
+414573,3,SENIOR,181,80,75 years and over,O7,Ortega,November,2013,p,phone,False,2003,False,4.0
+156930,3,SENIOR,771,1206,65 to 74 years,S7,Sunset,December,2013,z,email,True,2003,False,4.0
+109645,0,ADULT,34,12,25 to 34 years,P7,Potrero,August,2014,z,email,True,2014,False,0.0
+301793,0,ADULT,38,24,35 to 44 years,N4,Noe Valley/Sally Brunn,June,2016,z,email,True,2009,False,9.0
+406325,1,JUVENILE,5,0,10 to 19 years,E9,Excelsior,October,2015,z,email,True,2014,False,0.0
+310281,3,SENIOR,21,16,75 years and over,W4,Western Addition,September,2015,a,print,False,2008,False,1.0
+343101,3,SENIOR,0,0,75 years and over,W4,Western Addition,None,None,z,email,True,2014,True,0.0
+240692,3,SENIOR,29,3,65 to 74 years,X,Main Library,June,2016,a,print,False,2003,False,4.0
+365793,1,JUVENILE,49,12,0 to 9 years,R3,Richmond,July,2016,z,email,True,2014,False,1.0
+322487,1,JUVENILE,211,17,10 to 19 years,I5,Ingleside,August,2015,z,email,True,2009,False,11.0
+88899,0,ADULT,16,0,25 to 34 years,P3,Parkside,September,2014,z,email,True,2014,False,4.0
+283373,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2007,False,2.0
+201654,0,ADULT,2,0,35 to 44 years,X,Main Library,August,2015,z,email,True,2015,False,6.0
+318541,1,JUVENILE,9,0,10 to 19 years,M6,Mission,November,2014,z,email,True,2011,False,10.0
+56763,3,SENIOR,1012,374,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,True,2003,False,8.0
+88640,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2015,False,6.0
+203496,3,SENIOR,9,1,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,May,2016,z,email,True,2013,False,8.0
+207152,0,ADULT,5,3,25 to 34 years,X,Main Library,September,2015,z,email,True,2014,False,5.0
+367825,3,SENIOR,2840,60,75 years and over,X,Main Library,July,2016,p,phone,False,2003,False,9.0
+420089,1,JUVENILE,14,0,0 to 9 years,P5,Portola,November,2015,a,print,False,2014,False,9.0
+3104,0,ADULT,110,14,35 to 44 years,M6,Mission,May,2016,z,email,True,2003,False,8.0
+8108,3,SENIOR,1,0,65 to 74 years,P7,Potrero,February,2015,z,email,True,2014,False,9.0
+238246,0,ADULT,175,34,25 to 34 years,X,Main Library,August,2015,p,phone,True,2003,False,10.0
+250660,0,ADULT,27,7,20 to 24 years,X,Main Library,July,2016,z,email,True,2015,True,0.0
+315483,1,JUVENILE,5,0,0 to 9 years,I5,Ingleside,March,2016,z,email,True,2015,False,7.0
+27469,0,ADULT,216,0,35 to 44 years,X,Main Library,December,2015,z,email,True,2012,False,11.0
+151826,0,ADULT,56,7,45 to 54 years,X,Main Library,June,2014,p,phone,False,2003,True,0.0
+381566,1,JUVENILE,7,0,10 to 19 years,N6,North Beach,December,2015,p,phone,False,2014,False,10.0
+64799,0,ADULT,3,0,25 to 34 years,S7,Sunset,May,2016,z,email,True,2016,False,7.0
+312492,3,SENIOR,0,0,75 years and over,A5,Anza,None,None,z,email,True,2014,False,1.0
+112203,0,ADULT,152,149,45 to 54 years,X,Main Library,December,2015,z,email,True,2004,True,0.0
+288346,3,SENIOR,0,0,65 to 74 years,G4,Glen Park,None,None,z,email,True,2015,False,7.0
+242659,0,ADULT,4,0,25 to 34 years,X,Main Library,August,2013,z,email,True,2012,False,5.0
+156801,0,ADULT,555,100,20 to 24 years,M6,Mission,August,2013,p,phone,False,2003,False,8.0
+143824,0,ADULT,2,8,25 to 34 years,X,Main Library,December,2014,z,email,True,2014,False,7.0
+148694,4,WELCOME,1,0,25 to 34 years,X,Main Library,February,2015,z,email,True,2015,False,11.0
+95733,0,ADULT,14,0,35 to 44 years,X,Main Library,February,2016,p,phone,False,2015,False,6.0
+410736,1,JUVENILE,257,47,0 to 9 years,P7,Potrero,July,2016,p,phone,False,2014,False,10.0
+81046,0,ADULT,213,179,60 to 64 years,W2,West Portal,July,2016,z,email,True,2008,False,4.0
+7012,0,ADULT,0,0,55 to 59 years,X,Main Library,None,None,z,email,True,2012,False,0.0
+213994,0,ADULT,49,7,45 to 54 years,X,Main Library,February,2015,p,phone,True,2010,False,8.0
+417261,3,SENIOR,185,57,75 years and over,X,Main Library,November,2013,z,email,True,2003,True,0.0
+173254,0,ADULT,4,0,55 to 59 years,X,Main Library,July,2016,p,phone,False,2011,False,2.0
+278038,0,ADULT,77,0,25 to 34 years,O7,Ortega,February,2015,p,phone,False,2011,False,0.0
+158117,0,ADULT,5,5,25 to 34 years,X,Main Library,July,2013,z,email,True,2013,False,5.0
+352661,3,SENIOR,141,11,75 years and over,G4,Glen Park,May,2016,p,phone,False,2003,False,0.0
+268815,0,ADULT,0,0,25 to 34 years,O7,Ortega,None,None,z,email,True,2014,False,4.0
+420016,2,YOUNG ADULT,9,0,10 to 19 years,E9,Excelsior,March,2014,p,phone,False,2005,False,11.0
+166660,0,ADULT,0,0,25 to 34 years,X,Main Library,December,2013,z,email,True,2013,True,0.0
+184156,0,ADULT,186,247,45 to 54 years,N6,North Beach,July,2016,z,email,True,2003,False,3.0
+285485,0,ADULT,23,7,55 to 59 years,S7,Sunset,June,2014,z,email,True,2009,False,7.0
+220738,0,ADULT,25,0,25 to 34 years,E9,Excelsior,January,2016,p,phone,False,2011,False,2.0
+312235,1,JUVENILE,313,2,0 to 9 years,O7,Ortega,July,2016,p,phone,False,2013,False,4.0
+121510,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2012,False,6.0
+113138,0,ADULT,5,0,20 to 24 years,P3,Parkside,August,2015,z,email,True,2015,False,7.0
+281532,3,SENIOR,699,197,65 to 74 years,C2,Chinatown,December,2012,p,phone,False,2003,True,0.0
+398092,1,JUVENILE,7,0,0 to 9 years,M6,Mission,May,2014,z,email,True,2013,False,8.0
+51815,0,ADULT,235,36,45 to 54 years,R3,Richmond,February,2016,z,email,True,2011,False,0.0
+293492,0,ADULT,2,2,25 to 34 years,P3,Parkside,June,2015,p,phone,False,2012,False,4.0
+356526,3,SENIOR,7,0,75 years and over,C2,Chinatown,May,2014,a,print,False,2003,False,3.0
+21367,0,ADULT,3,0,35 to 44 years,X,Main Library,August,2013,z,email,True,2008,False,8.0
+166685,0,ADULT,448,63,20 to 24 years,O7,Ortega,December,2014,z,email,True,2003,False,7.0
+377691,0,ADULT,74,14,20 to 24 years,M6,Mission,May,2016,p,phone,False,2003,False,6.0
+37021,0,ADULT,31,31,45 to 54 years,X,Main Library,September,2013,z,email,True,2003,False,2.0
+217289,0,ADULT,22,13,25 to 34 years,M8,Mission Bay,July,2016,z,email,True,2016,False,6.0
+213689,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+57399,0,ADULT,333,195,45 to 54 years,X,Main Library,August,2013,z,email,True,2009,True,0.0
+343124,2,YOUNG ADULT,129,5,10 to 19 years,M6,Mission,June,2016,p,phone,False,2015,False,8.0
+263412,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,a,print,False,2013,True,0.0
+357467,2,YOUNG ADULT,30,14,10 to 19 years,X,Main Library,August,2013,z,email,True,2007,True,0.0
+3174,0,ADULT,46,0,35 to 44 years,O7,Ortega,December,2015,z,email,True,2013,False,4.0
+13353,0,ADULT,23,24,45 to 54 years,E9,Excelsior,December,2012,z,email,True,2008,True,0.0
+330771,1,JUVENILE,0,0,0 to 9 years,P3,Parkside,None,None,z,email,True,2015,False,4.0
+186221,0,ADULT,4,0,35 to 44 years,X,Main Library,January,2016,z,email,True,2015,True,0.0
+85492,0,ADULT,2,4,25 to 34 years,M6,Mission,June,2015,p,phone,False,2015,False,8.0
+172613,0,ADULT,1,3,25 to 34 years,P5,Portola,October,2015,z,email,True,2015,False,7.0
+406381,1,JUVENILE,1,0,10 to 19 years,S7,Sunset,May,2016,z,email,True,2014,False,4.0
+384881,1,JUVENILE,1390,148,10 to 19 years,R3,Richmond,July,2016,z,email,True,2007,False,2.0
+368733,1,JUVENILE,37,25,0 to 9 years,C2,Chinatown,July,2016,a,print,True,2014,False,3.0
+197987,0,ADULT,1,1,20 to 24 years,R3,Richmond,May,2016,z,email,True,2015,True,0.0
+277792,0,ADULT,4,0,25 to 34 years,X,Main Library,May,2016,z,email,True,2011,False,0.0
+151202,0,ADULT,7,0,45 to 54 years,E9,Excelsior,August,2014,z,email,True,2014,False,11.0
+84067,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,p,phone,False,2013,True,0.0
+87300,0,ADULT,0,0,35 to 44 years,O7,Ortega,None,None,z,email,True,2013,False,7.0
+160565,0,ADULT,179,60,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,True,2010,False,0.0
+88643,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2015,False,6.0
+52700,3,SENIOR,63,20,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,March,2015,a,print,False,2010,False,0.0
+49394,0,ADULT,151,10,45 to 54 years,E9,Excelsior,May,2015,z,email,True,2003,False,7.0
+41744,0,ADULT,19,0,45 to 54 years,X,Main Library,July,2016,a,print,False,2003,False,7.0
+257133,3,SENIOR,0,0,65 to 74 years,G6,Golden Gate Valley,None,None,z,email,True,2015,True,0.0
+323731,3,SENIOR,41,67,75 years and over,X,Main Library,August,2015,z,email,True,2008,True,0.0
+49899,0,ADULT,7,3,20 to 24 years,M6,Mission,December,2009,p,phone,False,2008,False,9.0
+105219,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2016,False,8.0
+406814,1,JUVENILE,23,0,0 to 9 years,X,Main Library,July,2016,a,print,False,2016,False,7.0
+78993,3,SENIOR,22,25,65 to 74 years,X,Main Library,September,2014,p,phone,False,2003,False,0.0
+256047,0,ADULT,389,257,35 to 44 years,X,Main Library,June,2016,z,email,True,2004,False,9.0
+363042,1,JUVENILE,18,0,0 to 9 years,W4,Western Addition,June,2013,z,email,True,2012,False,0.0
+26850,3,SENIOR,51,10,65 to 74 years,X,Main Library,October,2015,z,email,True,2003,True,0.0
+8007,0,ADULT,142,58,55 to 59 years,O7,Ortega,March,2013,z,email,True,2003,False,4.0
+121706,0,ADULT,174,2,45 to 54 years,X,Main Library,July,2016,p,phone,False,2004,False,0.0
+175210,0,ADULT,842,421,45 to 54 years,C2,Chinatown,October,2013,z,email,True,2003,False,6.0
+245639,0,ADULT,7,0,25 to 34 years,M6,Mission,September,2014,z,email,True,2014,False,9.0
+405732,0,ADULT,12,15,35 to 44 years,W2,West Portal,April,2016,z,email,True,2013,False,7.0
+280655,0,ADULT,1,1,25 to 34 years,I5,Ingleside,June,2016,z,email,True,2016,True,0.0
+348063,1,JUVENILE,105,0,0 to 9 years,W2,West Portal,March,2016,z,email,True,2011,False,7.0
+244042,0,ADULT,0,0,35 to 44 years,N6,North Beach,None,None,z,email,True,2015,False,3.0
+174052,0,ADULT,49,23,35 to 44 years,X,Main Library,August,2015,z,email,True,2009,True,0.0
+291443,0,ADULT,21,17,45 to 54 years,G4,Glen Park,January,2016,p,phone,False,2008,False,11.0
+279269,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2008,False,5.0
+10122,0,ADULT,116,128,55 to 59 years,X,Main Library,December,2013,p,phone,True,2009,False,8.0
+148950,0,ADULT,8,0,45 to 54 years,X,Main Library,February,2012,z,email,True,2008,True,0.0
+203219,16,DIGITAL ACCESS CARD,0,0,20 to 24 years,X,Main Library,None,None,z,email,True,2015,False,0.0
+415500,1,JUVENILE,35,0,0 to 9 years,R3,Richmond,July,2016,a,print,False,2013,False,1.0
+1749,3,SENIOR,0,0,65 to 74 years,N4,Noe Valley/Sally Brunn,None,None,z,email,True,2014,True,0.0
+50903,3,SENIOR,1,1,65 to 74 years,P7,Potrero,May,2015,p,phone,False,2015,False,10.0
+82186,0,ADULT,828,276,35 to 44 years,M4,Merced,March,2016,z,email,True,2006,False,7.0
+103123,0,ADULT,16,0,35 to 44 years,P7,Potrero,May,2015,p,phone,True,2008,False,9.0
+61787,0,ADULT,167,117,35 to 44 years,G4,Glen Park,October,2010,z,email,True,2003,False,0.0
+34012,0,ADULT,28,8,25 to 34 years,M8,Mission Bay,December,2013,z,email,True,2010,False,3.0
+297652,0,ADULT,192,8,45 to 54 years,W2,West Portal,July,2014,z,email,True,2009,False,7.0
+322444,1,JUVENILE,889,52,0 to 9 years,S7,Sunset,July,2016,z,email,True,2012,False,4.0
+141781,0,ADULT,274,1,60 to 64 years,X,Main Library,March,2016,p,phone,False,2008,False,0.0
+406047,1,JUVENILE,2,0,0 to 9 years,I5,Ingleside,August,2012,z,email,True,2012,False,11.0
+115586,0,ADULT,0,0,35 to 44 years,O7,Ortega,None,None,z,email,True,2013,False,8.0
+36417,0,ADULT,117,60,55 to 59 years,W2,West Portal,January,2015,z,email,True,2003,False,7.0
+368257,1,JUVENILE,18,0,0 to 9 years,C2,Chinatown,June,2016,z,email,True,2015,False,3.0
+341778,1,JUVENILE,1668,1378,0 to 9 years,W2,West Portal,July,2016,z,email,True,2008,False,7.0
+197526,0,ADULT,646,162,60 to 64 years,C2,Chinatown,July,2016,p,phone,False,2003,False,8.0
+253586,0,ADULT,3,0,25 to 34 years,M6,Mission,August,2012,z,email,True,2012,False,0.0
+263515,0,ADULT,397,71,45 to 54 years,W4,Western Addition,July,2016,z,email,True,2008,False,5.0
+349741,0,ADULT,79,18,10 to 19 years,X,Main Library,February,2016,z,email,True,2009,False,0.0
+149947,0,ADULT,0,0,20 to 24 years,S7,Sunset,None,None,z,email,True,2013,True,0.0
+285610,0,ADULT,150,216,35 to 44 years,X,Main Library,July,2016,z,email,True,2003,False,3.0
+335527,1,JUVENILE,0,0,0 to 9 years,M4,Merced,None,None,z,email,True,2015,True,0.0
+251071,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2016,True,0.0
+159580,0,ADULT,88,1,45 to 54 years,B4,Bernal Heights,June,2014,z,email,True,2005,False,9.0
+98340,0,ADULT,321,15,55 to 59 years,W2,West Portal,November,2015,z,email,True,2010,False,7.0
+64703,0,ADULT,2,0,25 to 34 years,X,Main Library,September,2015,z,email,True,2015,False,5.0
+179486,3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,a,print,False,2013,False,6.0
+161829,0,ADULT,0,0,25 to 34 years,M8,Mission Bay,None,None,z,email,True,2015,False,0.0
+252818,0,ADULT,0,0,55 to 59 years,X,Main Library,None,None,z,email,True,2014,True,0.0
+15392,0,ADULT,21,2,35 to 44 years,M8,Mission Bay,July,2016,z,email,True,2014,True,0.0
+412147,1,JUVENILE,40,0,0 to 9 years,P9,Presidio,September,2014,z,email,True,2011,False,2.0
+160284,0,ADULT,286,57,45 to 54 years,P9,Presidio,December,2014,z,email,True,2003,False,2.0
+284286,0,ADULT,0,0,25 to 34 years,S7,Sunset,None,None,z,email,True,2013,False,5.0
+61451,0,ADULT,83,18,20 to 24 years,N6,North Beach,April,2016,a,print,False,2006,False,7.0
+168750,0,ADULT,2,0,25 to 34 years,M8,Mission Bay,January,2011,z,email,True,2010,False,10.0
+46326,0,ADULT,0,0,20 to 24 years,M4,Merced,January,2016,z,email,True,2015,False,7.0
+233058,0,ADULT,0,0,25 to 34 years,X,Main Library,October,2015,z,email,True,2014,False,3.0
+121572,0,ADULT,7,12,25 to 34 years,P9,Presidio,April,2016,z,email,True,2015,False,5.0
+130874,4,WELCOME,1,0,20 to 24 years,W2,West Portal,June,2015,z,email,True,2015,False,4.0
+76329,0,ADULT,86,200,35 to 44 years,N6,North Beach,February,2016,z,email,True,2009,False,3.0
+415898,2,YOUNG ADULT,978,12,10 to 19 years,R3,Richmond,July,2016,a,print,False,2012,False,1.0
+121751,0,ADULT,416,307,35 to 44 years,X,Main Library,November,2013,p,phone,False,2003,False,0.0
+49283,0,ADULT,3,0,20 to 24 years,M8,Mission Bay,May,2015,z,email,True,2015,True,0.0
+166518,0,ADULT,533,619,45 to 54 years,P9,Presidio,July,2016,z,email,True,2003,False,2.0
+244409,0,ADULT,8,6,25 to 34 years,X,Main Library,June,2015,z,email,True,2013,False,6.0
+416935,3,SENIOR,1,0,75 years and over,X,Main Library,June,2014,p,phone,False,2014,True,0.0
+67783,0,ADULT,6,13,25 to 34 years,R3,Richmond,March,2014,z,email,True,2012,False,1.0
+387676,1,JUVENILE,79,9,0 to 9 years,W2,West Portal,May,2016,z,email,True,2015,False,7.0
+253793,0,ADULT,1,0,20 to 24 years,X,Main Library,April,2015,z,email,True,2011,False,11.0
+395483,2,YOUNG ADULT,575,88,10 to 19 years,O7,Ortega,July,2016,z,email,True,2007,False,11.0
+296401,0,ADULT,94,9,20 to 24 years,W2,West Portal,December,2014,z,email,True,2003,False,4.0
+186945,0,ADULT,61,11,45 to 54 years,M4,Merced,February,2016,z,email,True,2012,True,0.0
+162591,0,ADULT,4,2,45 to 54 years,P7,Potrero,July,2015,z,email,True,2012,False,10.0
+314733,1,JUVENILE,6,0,10 to 19 years,E9,Excelsior,April,2015,z,email,True,2008,False,11.0
+378259,0,ADULT,0,0,65 to 74 years,W4,Western Addition,None,None,z,email,True,2014,False,4.0
+118118,0,ADULT,2,0,20 to 24 years,M6,Mission,April,2016,z,email,True,2016,True,0.0
+280421,0,ADULT,6,5,25 to 34 years,G6,Golden Gate Valley,July,2016,z,email,True,2014,False,2.0
+28326,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2013,False,0.0
+241038,0,ADULT,2,0,35 to 44 years,I5,Ingleside,May,2016,z,email,True,2015,False,11.0
+300531,3,SENIOR,384,36,65 to 74 years,O7,Ortega,July,2016,z,email,True,2008,False,4.0
+288324,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2011,False,10.0
+326187,1,JUVENILE,564,184,10 to 19 years,R3,Richmond,July,2016,z,email,True,2006,False,4.0
+214010,0,ADULT,4,0,25 to 34 years,P3,Parkside,May,2016,z,email,True,2015,False,4.0
+241579,0,ADULT,1,0,45 to 54 years,X,Main Library,October,2015,z,email,True,2015,True,0.0
+398686,2,YOUNG ADULT,12,0,10 to 19 years,P5,Portola,July,2016,p,phone,False,2007,False,9.0
+155298,0,ADULT,26,8,25 to 34 years,P5,Portola,October,2013,z,email,True,2003,False,10.0
+48114,4,WELCOME,1,0,25 to 34 years,P7,Potrero,February,2016,z,email,True,2016,False,10.0
+204831,0,ADULT,3,3,35 to 44 years,M4,Merced,March,2015,z,email,True,2014,True,0.0
+87961,0,ADULT,458,109,45 to 54 years,M2,Marina,July,2016,z,email,True,2004,False,2.0
+347910,2,YOUNG ADULT,0,0,10 to 19 years,W2,West Portal,None,None,z,email,True,2015,True,0.0
+288881,0,ADULT,38,83,45 to 54 years,X,Main Library,July,2016,z,email,True,2004,False,5.0
+235192,0,ADULT,350,345,25 to 34 years,P9,Presidio,August,2013,z,email,True,2003,False,2.0
+301022,3,SENIOR,300,29,65 to 74 years,E9,Excelsior,July,2016,z,email,True,2003,False,9.0
+385651,0,ADULT,20,13,55 to 59 years,S7,Sunset,November,2014,p,phone,False,2008,False,9.0
+176637,0,ADULT,96,150,45 to 54 years,R3,Richmond,July,2016,z,email,True,2010,False,1.0
+174143,0,ADULT,12,3,35 to 44 years,X,Main Library,January,2016,z,email,True,2012,False,5.0
+3516,0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2013,False,2.0
+417346,1,JUVENILE,16,0,0 to 9 years,G4,Glen Park,August,2015,a,print,False,2015,False,11.0
+311944,0,ADULT,3,8,20 to 24 years,E9,Excelsior,October,2015,p,phone,True,2014,False,11.0
+308416,1,JUVENILE,41,11,10 to 19 years,O7,Ortega,November,2013,z,email,True,2007,True,0.0
+287679,3,SENIOR,0,0,65 to 74 years,B4,Bernal Heights,None,None,z,email,True,2014,False,9.0
+257371,0,ADULT,1,0,35 to 44 years,X,Main Library,March,2013,z,email,True,2013,False,0.0
+191094,0,ADULT,8,4,25 to 34 years,M8,Mission Bay,July,2014,z,email,True,2013,False,4.0
+422733,3,SENIOR,1107,223,75 years and over,E9,Excelsior,May,2016,z,email,True,2003,False,11.0
+413650,1,JUVENILE,15,18,10 to 19 years,R3,Richmond,August,2014,z,email,True,2009,False,1.0
+122229,0,ADULT,3,0,25 to 34 years,P7,Potrero,August,2013,z,email,True,2013,True,0.0
+422817,1,JUVENILE,18,1,0 to 9 years,B4,Bernal Heights,May,2016,z,email,True,2016,False,0.0
+94297,0,ADULT,25,1,45 to 54 years,R3,Richmond,April,2016,z,email,True,2003,False,0.0
+24709,0,ADULT,1,4,25 to 34 years,X,Main Library,December,2015,p,phone,False,2012,False,0.0
+328682,4,WELCOME,0,0,10 to 19 years,X,Main Library,None,None,z,email,True,2015,False,6.0
+379333,3,SENIOR,45,7,75 years and over,W4,Western Addition,October,2014,z,email,True,2003,False,2.0
+338563,1,JUVENILE,73,4,10 to 19 years,M6,Mission,June,2016,p,phone,False,2004,False,8.0
+211209,0,ADULT,12,18,35 to 44 years,I5,Ingleside,June,2015,z,email,True,2012,False,7.0
+94874,0,ADULT,655,301,35 to 44 years,A5,Anza,April,2013,z,email,True,2003,False,1.0
+252973,4,WELCOME,1,1,25 to 34 years,X,Main Library,November,2014,z,email,True,2014,True,0.0
+244713,0,ADULT,10,10,25 to 34 years,X,Main Library,April,2014,z,email,True,2012,False,6.0
+406235,1,JUVENILE,98,26,0 to 9 years,O2,Ocean View,June,2016,z,email,True,2013,False,11.0
+129179,0,ADULT,29,3,45 to 54 years,G6,Golden Gate Valley,July,2016,z,email,True,2016,False,2.0
+158427,3,SENIOR,32,0,65 to 74 years,C2,Chinatown,March,2014,a,print,False,2003,False,5.0
+326451,1,JUVENILE,209,0,0 to 9 years,M8,Mission Bay,July,2016,z,email,True,2015,False,0.0
+32248,0,ADULT,217,93,45 to 54 years,E9,Excelsior,July,2016,z,email,True,2003,False,11.0
+377822,2,YOUNG ADULT,5,0,10 to 19 years,P9,Presidio,November,2013,z,email,True,2013,False,2.0
+120334,0,ADULT,3,5,55 to 59 years,P9,Presidio,July,2016,z,email,True,2011,False,0.0
+344143,1,JUVENILE,63,12,0 to 9 years,R3,Richmond,July,2016,z,email,True,2009,False,1.0
+87061,3,SENIOR,104,45,65 to 74 years,W2,West Portal,December,2015,z,email,True,2003,False,7.0
+204640,0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+131156,3,SENIOR,68,37,65 to 74 years,X,Main Library,May,2009,z,email,True,2005,False,6.0
+377824,1,JUVENILE,70,2,10 to 19 years,M8,Mission Bay,December,2014,p,phone,False,2012,False,0.0
+111696,0,ADULT,557,275,20 to 24 years,S7,Sunset,March,2016,z,email,True,2006,False,7.0
+174892,0,ADULT,193,38,35 to 44 years,N4,Noe Valley/Sally Brunn,September,2015,z,email,True,2007,True,0.0
+170235,0,ADULT,32,0,25 to 34 years,X,Main Library,October,2013,z,email,True,2013,False,6.0
+396240,1,JUVENILE,50,4,10 to 19 years,E9,Excelsior,March,2014,z,email,True,2010,False,11.0
+193550,0,ADULT,67,10,60 to 64 years,X,Main Library,December,2014,p,phone,False,2003,False,2.0
+342111,1,JUVENILE,284,28,0 to 9 years,R3,Richmond,July,2016,z,email,True,2015,False,11.0
+241435,0,ADULT,53,2,60 to 64 years,B2,Bayview/Linda Brooks-Burton,September,2015,p,phone,False,2003,False,5.0
+289962,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+258384,0,ADULT,1,0,45 to 54 years,X,Main Library,November,2012,z,email,True,2012,True,0.0
+401594,1,JUVENILE,67,5,0 to 9 years,M6,Mission,July,2016,p,phone,False,2012,False,9.0
+375627,1,JUVENILE,101,0,0 to 9 years,X,Main Library,July,2016,z,email,True,2013,False,3.0
+201969,0,ADULT,64,26,25 to 34 years,E9,Excelsior,February,2015,z,email,True,2009,False,10.0
+246879,0,ADULT,167,62,35 to 44 years,B4,Bernal Heights,June,2015,z,email,True,2003,False,9.0
+419616,2,YOUNG ADULT,0,0,10 to 19 years,X,Main Library,None,None,z,email,True,2014,True,0.0
+364809,2,YOUNG ADULT,3730,516,10 to 19 years,P3,Parkside,June,2016,z,email,True,2008,False,4.0
+363541,1,JUVENILE,8,12,10 to 19 years,X,Main Library,April,2015,z,email,True,2014,True,0.0
+84262,0,ADULT,1,0,55 to 59 years,P5,Portola,January,2014,z,email,True,2014,False,9.0
+58616,0,ADULT,102,75,45 to 54 years,O7,Ortega,July,2016,z,email,True,2003,False,4.0
+135137,0,ADULT,153,18,25 to 34 years,R3,Richmond,May,2014,z,email,True,2009,False,1.0
+306436,3,SENIOR,1933,44,75 years and over,R3,Richmond,July,2016,z,email,True,2003,False,0.0
+185856,0,ADULT,33,10,45 to 54 years,M6,Mission,December,2012,z,email,True,2007,False,9.0
+105287,0,ADULT,26,10,55 to 59 years,X,Main Library,February,2015,z,email,True,2003,False,3.0
+343721,1,JUVENILE,233,80,10 to 19 years,C2,Chinatown,July,2016,z,email,True,2009,False,3.0
+61568,0,ADULT,17,1,55 to 59 years,X,Main Library,May,2014,z,email,True,2010,False,6.0
+140454,0,ADULT,11,0,20 to 24 years,X,Main Library,May,2014,z,email,True,2014,False,9.0
+348941,2,YOUNG ADULT,13,0,10 to 19 years,B4,Bernal Heights,September,2013,p,phone,False,2010,False,0.0
+85459,0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,True,2014,False,9.0
+178955,0,ADULT,1,1,25 to 34 years,M8,Mission Bay,September,2015,z,email,True,2015,False,6.0
+42629,0,ADULT,1,3,25 to 34 years,N6,North Beach,November,2012,z,email,True,2012,False,3.0
+370388,2,YOUNG ADULT,1,2,10 to 19 years,X,Main Library,August,2014,z,email,True,2014,True,0.0
+37566,0,ADULT,9,0,25 to 34 years,X,Main Library,January,2016,z,email,True,2015,False,6.0
+372598,2,YOUNG ADULT,62,2,10 to 19 years,W2,West Portal,January,2015,p,phone,False,2008,False,11.0
+39634,3,SENIOR,3,0,65 to 74 years,X,Main Library,February,2006,p,phone,False,2003,False,5.0
+118824,0,ADULT,9,25,20 to 24 years,R3,Richmond,August,2014,z,email,True,2013,False,1.0
+142464,0,ADULT,22,0,35 to 44 years,E9,Excelsior,July,2010,z,email,True,2008,False,11.0
+184403,0,ADULT,22,16,25 to 34 years,X,Main Library,May,2016,z,email,True,2014,False,5.0
+24159,0,ADULT,680,52,55 to 59 years,W2,West Portal,July,2016,z,email,True,2003,False,7.0
+286982,0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,a,print,False,2015,False,5.0
+167654,0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+106362,0,ADULT,0,0,60 to 64 years,M2,Marina,None,None,z,email,True,2011,False,2.0
+126678,0,ADULT,76,94,25 to 34 years,I5,Ingleside,January,2014,p,phone,False,2010,False,7.0
+83963,0,ADULT,108,252,35 to 44 years,X,Main Library,July,2016,z,email,True,2003,False,9.0
+147103,0,ADULT,69,4,25 to 34 years,G4,Glen Park,May,2016,z,email,True,2013,False,8.0
+113327,3,SENIOR,1,0,65 to 74 years,C2,Chinatown,December,2014,z,email,True,2007,False,6.0
+375711,1,JUVENILE,4,0,10 to 19 years,P9,Presidio,November,2012,a,print,False,2012,False,4.0
+91692,0,ADULT,15,7,60 to 64 years,R3,Richmond,November,2011,z,email,True,2010,False,7.0
+281818,0,ADULT,62,11,25 to 34 years,P3,Parkside,March,2014,z,email,True,2010,False,0.0
+271135,0,ADULT,154,4,25 to 34 years,G4,Glen Park,April,2016,z,email,True,2003,False,4.0
+237771,0,ADULT,0,0,45 to 54 years,R3,Richmond,None,None,z,email,True,2012,False,1.0
+251378,0,ADULT,11,1,20 to 24 years,B4,Bernal Heights,March,2016,z,email,True,2012,False,9.0
+88751,0,ADULT,206,230,25 to 34 years,W4,Western Addition,March,2016,z,email,True,2010,False,0.0
+90743,0,ADULT,4,0,55 to 59 years,X,Main Library,December,2013,z,email,True,2009,False,10.0
+315508,1,JUVENILE,388,60,0 to 9 years,M4,Merced,June,2016,z,email,True,2014,False,7.0
+240896,0,ADULT,0,0,55 to 59 years,X,Main Library,None,None,p,phone,False,2010,False,4.0
+301243,0,ADULT,1,0,20 to 24 years,X,Main Library,August,2015,z,email,True,2015,True,0.0
+220270,0,ADULT,7,17,35 to 44 years,W4,Western Addition,October,2013,a,print,False,2010,False,2.0
+25376,0,ADULT,42,6,35 to 44 years,X,Main Library,September,2014,z,email,True,2013,False,0.0
+266174,0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,True,2015,False,0.0
+262347,0,ADULT,41,23,25 to 34 years,X,Main Library,July,2016,z,email,True,2014,False,6.0
+37289,0,ADULT,19,15,35 to 44 years,M8,Mission Bay,February,2015,z,email,True,2013,False,0.0
+118763,0,ADULT,301,274,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,True,2003,False,4.0
+290725,3,SENIOR,81,60,65 to 74 years,B4,Bernal Heights,November,2013,p,phone,False,2003,False,0.0
+329327,1,JUVENILE,31,34,0 to 9 years,M4,Merced,July,2016,z,email,True,2016,False,7.0
+405049,1,JUVENILE,10,0,10 to 19 years,P5,Portola,January,2016,a,print,False,2015,False,0.0
+139939,3,SENIOR,12,0,65 to 74 years,X,Main Library,November,2015,z,email,True,2009,False,9.0
+264888,0,ADULT,6,0,25 to 34 years,P1,Park,July,2016,a,print,False,2012,False,5.0
+151774,0,ADULT,0,0,25 to 34 years,P9,Presidio,None,None,z,email,True,2014,False,2.0
+195371,0,ADULT,43,15,35 to 44 years,X,Main Library,June,2014,z,email,True,2006,False,8.0
+333680,2,YOUNG ADULT,28,0,10 to 19 years,E9,Excelsior,May,2015,p,phone,False,2008,False,11.0
+355070,2,YOUNG ADULT,14,2,10 to 19 years,YJJ,Children's Bookmobile,August,2013,z,email,True,2006,False,1.0
+312992,1,JUVENILE,17,0,0 to 9 years,I5,Ingleside,October,2015,z,email,True,2015,False,7.0
+99321,0,ADULT,6,0,35 to 44 years,O7,Ortega,October,2012,z,email,True,2012,False,4.0
+411069,1,JUVENILE,44,79,10 to 19 years,X,Main Library,April,2015,z,email,True,2012,False,5.0
+344536,1,JUVENILE,18,0,0 to 9 years,P9,Presidio,August,2013,z,email,True,2008,False,2.0
+305637,1,JUVENILE,106,21,0 to 9 years,X,Main Library,September,2014,z,email,True,2012,False,0.0
+390617,3,SENIOR,10,0,75 years and over,R3,Richmond,June,2015,z,email,True,2013,False,4.0
+159661,0,ADULT,0,0,20 to 24 years,R3,Richmond,None,None,z,email,True,2015,False,4.0
+410278,2,YOUNG ADULT,102,1,10 to 19 years,W4,Western Addition,April,2016,p,phone,False,2006,False,5.0
+167050,0,ADULT,120,1,55 to 59 years,X,Main Library,June,2016,p,phone,False,2003,False,5.0
+231387,0,ADULT,9,9,25 to 34 years,X,Main Library,November,2015,z,email,True,2014,False,6.0
+327041,1,JUVENILE,364,0,0 to 9 years,C2,Chinatown,July,2016,z,email,True,2013,False,6.0
+161738,0,ADULT,1,3,25 to 34 years,B2,Bayview/Linda Brooks-Burton,July,2013,z,email,True,2010,True,0.0
+24254,0,ADULT,10,5,35 to 44 years,G6,Golden Gate Valley,April,2015,z,email,True,2007,False,2.0
+327382,1,JUVENILE,1,0,0 to 9 years,S7,Sunset,July,2013,z,email,True,2009,False,0.0
+67155,0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,z,email,True,2013,True,0.0
+16611,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,False,2013,False,6.0
+199142,3,SENIOR,7,0,65 to 74 years,X,Main Library,February,2013,z,email,True,2003,False,7.0
+320233,1,JUVENILE,232,112,0 to 9 years,I5,Ingleside,July,2016,z,email,True,2010,False,11.0
+415889,2,YOUNG ADULT,5,1,10 to 19 years,M6,Mission,September,2013,p,phone,False,2008,True,10.0
+242872,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2014,False,3.0
+397159,3,SENIOR,1214,661,75 years and over,O7,Ortega,July,2016,p,phone,False,2007,False,4.0
+374590,101,AT USER JUVENILE,18,0,0 to 9 years,X,Main Library,May,2015,z,email,True,2014,False,4.0
+295578,0,ADULT,712,277,20 to 24 years,W2,West Portal,July,2013,z,email,True,2003,False,7.0
+25307,0,ADULT,30,0,35 to 44 years,X,Main Library,June,2015,z,email,True,2013,False,10.0
+27066,0,ADULT,60,15,45 to 54 years,X,Main Library,November,2013,p,phone,False,2003,False,6.0
+209225,0,ADULT,182,43,25 to 34 years,X,Main Library,June,2015,z,email,True,2009,False,6.0
+112392,0,ADULT,43,0,45 to 54 years,I5,Ingleside,June,2016,p,phone,False,2012,False,6.0
+131489,0,ADULT,0,0,65 to 74 years,X,Main Library,None,None,p,phone,False,2011,False,0.0
+113304,0,ADULT,9,20,25 to 34 years,X,Main Library,September,2013,z,email,True,2012,False,0.0
+210873,0,ADULT,25,36,25 to 34 years,X,Main Library,June,2016,z,email,True,2010,False,10.0
+362254,1,JUVENILE,328,0,10 to 19 years,X,Main Library,July,2014,z,email,True,2009,False,10.0
+342873,1,JUVENILE,386,4,0 to 9 years,V3,Visitacion Valley,June,2016,p,phone,False,2013,False,10.0
+289205,0,ADULT,2,0,25 to 34 years,S7,Sunset,December,2013,z,email,True,2013,False,5.0
+41190,0,ADULT,0,0,25 to 34 years,I5,Ingleside,None,None,z,email,True,2014,False,7.0
+206006,0,ADULT,53,44,25 to 34 years,P3,Parkside,June,2013,z,email,True,2003,False,4.0
+165741,3,SENIOR,620,195,65 to 74 years,X,Main Library,July,2016,z,email,True,2003,False,2.0
+257984,0,ADULT,62,74,35 to 44 years,G4,Glen Park,July,2016,z,email,True,2015,False,8.0
+94995,0,ADULT,87,0,60 to 64 years,X,Main Library,July,2016,z,email,True,2015,False,8.0
+291849,0,ADULT,795,95,55 to 59 years,X,Main Library,November,2015,p,phone,False,2003,False,6.0
+397026,1,JUVENILE,55,1,0 to 9 years,X,Main Library,July,2016,z,email,True,2012,False,1.0
+70209,3,SENIOR,1,0,65 to 74 years,S7,Sunset,January,2016,z,email,True,2015,False,7.0
+180822,0,ADULT,556,142,55 to 59 years,M8,Mission Bay,July,2016,z,email,True,2005,False,6.0
+408345,1,JUVENILE,22,2,0 to 9 years,M6,Mission,October,2015,p,phone,True,2014,True,0.0
+327762,2,YOUNG ADULT,52,11,10 to 19 years,O7,Ortega,September,2013,z,email,True,2011,False,4.0
+93452,0,ADULT,0,0,25 to 34 years,O7,Ortega,None,None,z,email,True,2015,False,4.0
+300215,4,WELCOME,2,0,45 to 54 years,X,Main Library,November,2012,z,email,True,2012,False,0.0
+128770,3,SENIOR,854,1090,65 to 74 years,S7,Sunset,July,2016,z,email,True,2003,False,1.0
+391977,1,JUVENILE,459,162,10 to 19 years,X,Main Library,July,2016,p,phone,False,2008,False,11.0
+4969,0,ADULT,100,100,45 to 54 years,S7,Sunset,November,2015,z,email,True,2003,False,4.0
+3370,0,ADULT,0,0,60 to 64 years,M4,Merced,September,2015,z,email,True,2013,True,0.0
+142786,0,ADULT,1,1,20 to 24 years,M4,Merced,May,2013,z,email,True,2013,True,0.0
+341879,1,JUVENILE,240,28,10 to 19 years,O2,Ocean View,June,2015,p,phone,False,2010,False,11.0
+293681,0,ADULT,427,374,45 to 54 years,M6,Mission,July,2016,p,phone,True,2003,False,0.0
+233813,4,WELCOME,1,0,20 to 24 years,G4,Glen Park,February,2015,z,email,True,2015,False,8.0
+39197,0,ADULT,1,0,25 to 34 years,X,Main Library,June,2014,z,email,True,2014,False,5.0
+86299,0,ADULT,36,83,25 to 34 years,X,Main Library,May,2016,z,email,True,2005,True,0.0
+280773,0,ADULT,7,0,35 to 44 years,B2,Bayview/Linda Brooks-Burton,May,2015,p,phone,False,2008,False,10.0
+237414,0,ADULT,1,0,35 to 44 years,O7,Ortega,April,2013,z,email,True,2013,False,4.0
+184263,0,ADULT,8,0,35 to 44 years,I5,Ingleside,July,2016,p,phone,True,2007,False,10.0
+225300,0,ADULT,27,3,35 to 44 years,M2,Marina,January,2016,p,phone,False,2008,False,4.0
+309979,2,YOUNG ADULT,555,249,10 to 19 years,C2,Chinatown,July,2016,p,phone,True,2013,False,10.0
+117043,0,ADULT,0,0,45 to 54 years,X,Main Library,October,2007,z,email,True,2007,False,10.0
+254115,0,ADULT,0,0,35 to 44 years,M8,Mission Bay,None,None,z,email,True,2016,False,6.0
+321154,1,JUVENILE,81,17,10 to 19 years,X,Main Library,July,2016,z,email,True,2010,False,10.0
+25966,3,SENIOR,803,353,65 to 74 years,M6,Mission,July,2016,z,email,True,2003,False,8.0
+127183,0,ADULT,32,9,35 to 44 years,S7,Sunset,April,2013,z,email,True,2011,False,4.0
+355791,1,JUVENILE,0,0,0 to 9 years,P1,Park,None,None,p,phone,True,2014,False,10.0
+158035,0,ADULT,72,59,25 to 34 years,P9,Presidio,June,2015,z,email,True,2013,False,2.0
+372451,2,YOUNG ADULT,397,85,10 to 19 years,P9,Presidio,February,2015,z,email,True,2005,False,2.0
+398608,2,YOUNG ADULT,359,6,10 to 19 years,X,Main Library,May,2014,p,phone,False,2007,False,6.0
+129015,4,WELCOME,0,0,45 to 54 years,X,Main Library,None,None,z,email,True,2016,False,6.0
+316715,2,YOUNG ADULT,15,1,10 to 19 years,V3,Visitacion Valley,June,2016,p,phone,False,2016,False,10.0
+35967,0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,True,2015,True,0.0
+269397,0,ADULT,192,13,35 to 44 years,W2,West Portal,June,2016,z,email,True,2012,False,7.0
+120658,0,ADULT,50,0,25 to 34 years,X,Main Library,March,2014,z,email,True,2010,False,5.0
+196281,3,SENIOR,333,27,65 to 74 years,X,Main Library,May,2016,z,email,True,2004,False,8.0
