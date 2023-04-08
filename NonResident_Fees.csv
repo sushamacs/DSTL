@@ -1,0 +1,394 @@
+,FSCS,Location,Library Class,Total Population Served,City,County,Cooperative,Non-Resident Fee,NR Fee Annual or One Time,Fee schedule or non-resident rate (Example: $35/family;$25/individual),Full Library Service for Contracted Municipalities
+0,MI0147,Alden District Library,"Class 1: Serve 3,999 or less",1285.0,Alden,Antrim,Mid-Michigan Library League,Yes,Annual, $5/individual; $10/family,Yes
+1,MI9010,Ashley District Library,"Class 1: Serve 3,999 or less",3248.0,Ashley,Gratiot,White Pine Library Cooperative,No,,,Yes
+2,MI0023,Beaver Island District Library,"Class 1: Serve 3,999 or less",657.0,Beaver Island,Charlevoix,Northland Library Cooperative,No,,,
+3,MI0024,Bellaire Public Library,"Class 1: Serve 3,999 or less",3769.0,Bellaire,Antrim,Mid-Michigan Library League,Yes,Annual,10.00/ individual,Yes
+4,MI0025,Bellevue Township Library,"Class 1: Serve 3,999 or less",3150.0,Bellevue,Eaton,Woodlands Library Cooperative,No,,,
+5,MI0114,Benzie Shores District Library,"Class 1: Serve 3,999 or less",3811.0,Frankfort,Benzie,Mid-Michigan Library League,No,,,
+6,MI0029,Benzonia Public Library,"Class 1: Serve 3,999 or less",3623.0,Benzonia,Benzie,Mid-Michigan Library League,No,,,Yes
+7,MI0033,Betsie Valley District Library,"Class 1: Serve 3,999 or less",2937.0,Thompsonville,Benzie,Mid-Michigan Library League,No,,,
+8,MI0048,Burr Oak Township Library,"Class 1: Serve 3,999 or less",2611.0,Burr Oak,St. Joseph,Woodlands Library Cooperative,No,,,
+9,MI0053,Carp Lake Township Library,"Class 1: Serve 3,999 or less",722.0,White Pine,Ontonagon,Superiorland Library Cooperative,Yes,Annual,10/Individual,No
+10,MI0058,Central Lake District Library,"Class 1: Serve 3,999 or less",3995.0,Central Lake,Antrim,Mid-Michigan Library League,Yes,Annual,2100 Banks Township,Yes
+11,MI0062,Chase Township Public Library,"Class 1: Serve 3,999 or less",1854.0,Chase,Lake,Mid-Michigan Library League,No,,,Yes
+12,MI0065,Clinton Township Public Library,"Class 1: Serve 3,999 or less",3604.0,Clinton,Lenawee,Woodlands Library Cooperative,Yes,Annual,$10/family,Yes
+13,MI0068,Colon Township Library,"Class 1: Serve 3,999 or less",3803.0,Colon,St. Joseph,Woodlands Library Cooperative,No,,,Yes
+14,MI0069,Columbia Township Library,"Class 1: Serve 3,999 or less",2373.0,Unionville,Tuscola,White Pine Library Cooperative,No,,,Yes
+15,MI0076,Crooked Tree District Library,"Class 1: Serve 3,999 or less",3953.0,Walloon Lake,Charlevoix,Northland Library Cooperative,Yes,Annual,$75/family,
+16,MI0429,Croton Township Library,"Class 1: Serve 3,999 or less",3228.0,Newaygo,Newaygo,Lakeland Library Cooperative,Yes,Annual,24,
+17,MI0077,Crystal Falls District Community Library,"Class 1: Serve 3,999 or less",3453.0,Crystal Falls,Iron,Superiorland Library Cooperative,Yes,Annual,$30/Individual; $45/Family,
+18,MI0417,Curtis Township Library,"Class 1: Serve 3,999 or less",1236.0,Glennie,Alcona,Superiorland Library Cooperative,No,,,
+19,MI0034,Darcy Library of Beulah,"Class 1: Serve 3,999 or less",3179.0,Beulah,Benzie,Mid-Michigan Library League,No,,,Yes
+20,MI0099,Elk Township Library,"Class 1: Serve 3,999 or less",2769.0,Peck,Sanilac,White Pine Library Cooperative,No,,,Yes
+21,MI0100,Elsie Public Library,"Class 1: Serve 3,999 or less",3738.0,Elsie,Clinton,White Pine Library Cooperative,Yes,Annual,$50/family,Yes
+22,MI0103,Fairgrove District Library,"Class 1: Serve 3,999 or less",3112.0,Fairgrove,Tuscola,White Pine Library Cooperative,No,,,
+23,MI0109,Fife Lake Public Library,"Class 1: Serve 3,999 or less",2791.0,Fife Lake,Grand Traverse,Northland Library Cooperative,No,,,
+24,MI0115,Franklin Public Library,"Class 1: Serve 3,999 or less",3150.0,Franklin,Oakland,The Library Network,Yes,Annual,165/Individual,
+25,MI0120,Galien Township Public Library,"Class 1: Serve 3,999 or less",3043.0,Galien,Berrien,Southwest Michigan Library Cooperative,No,,,Yes
+26,MI0376,George W. Spindler Memorial Library,"Class 1: Serve 3,999 or less",2047.0,Woodland,Barry,Woodlands Library Cooperative,No,,,
+27,MI0128,Glen Lake Community Library,"Class 1: Serve 3,999 or less",3650.0,Empire,Leelanau,Mid-Michigan Library League,Yes,OneTime,10,
+28,MI0436,Goodland Township Library,"Class 1: Serve 3,999 or less",1828.0,Imlay City,Lapeer,Mideastern Michigan Library Cooperative,Yes,OneTime,5,
+29,MI0155,Homer Public Library,"Class 1: Serve 3,999 or less",3926.0,Homer,Calhoun,Woodlands Library Cooperative,No,,,Yes
+30,MI0167,Indian River Area Library,"Class 1: Serve 3,999 or less",3038.0,Indian River,Cheboygan,Northland Library Cooperative,Yes,Annual,25.00,
+31,MI0187,Lake Linden-Hubbell School/Public Library,"Class 1: Serve 3,999 or less",3730.0,Lake Linden,Houghton,Superiorland Library Cooperative,No,,,
+32,MI0191,Lawrence Memorial Public Library,"Class 1: Serve 3,999 or less",2735.0,Climax,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,24.00/individual or family,Yes
+33,MI0192,Lawton Public Library,"Class 1: Serve 3,999 or less",1900.0,Lawton,Van Buren,Southwest Michigan Library Cooperative,No,,,
+34,MI0193,Leelanau Township Library,"Class 1: Serve 3,999 or less",2027.0,Northport,Leelanau,Mid-Michigan Library League,No,,,
+35,MI0197,LeRoy Community Library,"Class 1: Serve 3,999 or less",2835.0,LeRoy,Osceola,Mid-Michigan Library League,No,,,Yes
+36,MI0199,Litchfield District Library,"Class 1: Serve 3,999 or less",2372.0,Litchfield,Hillsdale,Woodlands Library Cooperative,No,,,No
+37,MI0205,Lyons Township District Library,"Class 1: Serve 3,999 or less",3667.0,Lyons,Ionia,Woodlands Library Cooperative,No,,,Yes
+38,MI0207,Mackinac Island Public Library,"Class 1: Serve 3,999 or less",492.0,Mackinac Island,Mackinac,Superiorland Library Cooperative,Yes,Annual,10,
+39,MI0215,Maple Rapids Public Library,"Class 1: Serve 3,999 or less",3115.0,Maple Rapids,Clinton,White Pine Library Cooperative,No,,,Yes
+40,MI0227,Merrill District Library,"Class 1: Serve 3,999 or less",3433.0,MERRILL,Saginaw,White Pine Library Cooperative,No,,,Yes
+41,MI0238,Mulliken District Library,"Class 1: Serve 3,999 or less",1848.0,Mulliken,Eaton,Woodlands Library Cooperative,No,,,
+42,MI0247,North Branch Township Library,"Class 1: Serve 3,999 or less",3645.0,North Branch,Lapeer,Mideastern Michigan Library Cooperative,Yes,Annual,$5/Individual,
+43,MI0254,Ontonagon Township Library,"Class 1: Serve 3,999 or less",3679.0,Ontonagon,Ontonagon,Superiorland Library Cooperative,Yes,Annual,$10/card,Yes
+44,MI0256,Osceola Township School Public Library,"Class 1: Serve 3,999 or less",1830.0,Dollar Bay,Houghton,Superiorland Library Cooperative,No,,,
+45,MI0267,Pentwater Township Library,"Class 1: Serve 3,999 or less",1939.0,Pentwater,Oceana,Mid-Michigan Library League,Yes,Annual,$10 Annually,Yes
+46,MI0427,Ray Township Public Library,"Class 1: Serve 3,999 or less",3739.0,Ray,Macomb,Suburban Library Cooperative,Yes,Annual,200.00,
+47,MI0285,Republic-Michigamme Public Library,"Class 1: Serve 3,999 or less",1508.0,Republic,Marquette,Superiorland Library Cooperative,No,,,
+48,MI0287,Richfield Township Public Library,"Class 1: Serve 3,999 or less",3731.0,Saint Helen,Roscommon,Mid-Michigan Library League,No,,,
+49,MI0289,Richland Township Library,"Class 1: Serve 3,999 or less",3674.0,Vestaburg,Montcalm,Mid-Michigan Library League,No,,,Yes
+50,MI0291,Richmond Township Library,"Class 1: Serve 3,999 or less",882.0,Palmer,Marquette,Superiorland Library Cooperative,No,,,No
+51,MI0305,Schoolcraft Community Library,"Class 1: Serve 3,999 or less",3775.0,Schoolcraft,Kalamazoo,Woodlands Library Cooperative,Yes,Annual,$50/family,Yes
+52,MI0307,Seville Township Public Library,"Class 1: Serve 3,999 or less",3138.0,Riverdale,Gratiot,Mid-Michigan Library League,No,,,Yes
+53,MI0311,Sleeper Public Library,"Class 1: Serve 3,999 or less",3428.0,Ubly,Huron,White Pine Library Cooperative,Yes,Annual,20/Family,Yes
+54,MI0312,Sodus Township Library,"Class 1: Serve 3,999 or less",1932.0,"Sodus, MI",Berrien,Southwest Michigan Library Cooperative,No,,,No
+55,MI0327,Sunfield District Library,"Class 1: Serve 3,999 or less",2387.0,Sunfield,Eaton,Woodlands Library Cooperative,No,,,
+56,MI0334,Tekonsha Township Public Library,"Class 1: Serve 3,999 or less",1873.0,Tekonsha,Calhoun,Woodlands Library Cooperative,Yes,Annual,20,Yes
+57,MI0341,Topinabee Public Library,"Class 1: Serve 3,999 or less",2294.0,Topinabee,Cheboygan,Northland Library Cooperative,No,,,
+58,MI0346,Vermontville Township Library,"Class 1: Serve 3,999 or less",3895.0,Vermontville,Eaton,Woodlands Library Cooperative,No,,,Yes
+59,MI0350,Wakefield Public Library,"Class 1: Serve 3,999 or less",2156.0,Wakefield,Gogebic,Superiorland Library Cooperative,Yes,Annual,30,Yes
+60,MI0351,Waldron District Library,"Class 1: Serve 3,999 or less",2475.0,Waldron,Hillsdale,Woodlands Library Cooperative,No,,,Yes
+61,MI0352,Walkerville Public/School Library,"Class 1: Serve 3,999 or less",1968.0,Walkerville,Oceana,Mid-Michigan Library League,No,,,
+62,MI0359,Watertown Township Library,"Class 1: Serve 3,999 or less",2202.0,Fostoria,Tuscola,White Pine Library Cooperative,No,,,
+63,MI0365,Wheatland Township Library,"Class 1: Serve 3,999 or less",2913.0,Remus,Mecosta,Mid-Michigan Library League,No,,,Yes
+64,MI0369,Whitefish Township Community Library,"Class 1: Serve 3,999 or less",575.0,Paradise,Chippewa,Superiorland Library Cooperative,Yes,OneTime,5,
+65,MI0375,Wolverine Community Library,"Class 1: Serve 3,999 or less",2738.0,Wolverine,Cheboygan,Northland Library Cooperative,No,,,
+66,MI0405,Addison Township Public Library,"Class 2: Serve 4,000-6,999",6351.0,Leonard,Oakland,The Library Network,No,,,No
+67,MI0149,Almont District Library,"Class 2: Serve 4,000-6,999",6583.0,Almont,Lapeer,Mideastern Michigan Library Cooperative,No,,,
+68,MI0013,Armada Free Public Library,"Class 2: Serve 4,000-6,999",5379.0,Armada,Macomb,Suburban Library Cooperative,Yes,Annual,$200/ Full SLC / $100 ,No
+69,MI0014,Athens Community Library,"Class 2: Serve 4,000-6,999",4265.0,Athens,Calhoun,Woodlands Library Cooperative,Yes,OneTime,$20/family,Yes
+70,MI0018,Bad Axe District Library,"Class 2: Serve 4,000-6,999",6621.0,Bad Axe,Huron,White Pine Library Cooperative,Yes,Annual,$40/Household,
+71,MI0020,Barryton Public Library,"Class 2: Serve 4,000-6,999",4075.0,Barryton,Mecosta,Mid-Michigan Library League,No,,,Yes
+72,MI0032,Bessemer Public Library,"Class 2: Serve 4,000-6,999",5414.0,Bessemer,Gogebic,Superiorland Library Cooperative,Yes,Annual,$20/person,Yes
+73,MI0042,Bridgman Public Library,"Class 2: Serve 4,000-6,999",6296.0,Bridgman,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,$20/individual,Yes
+74,MI0044,Brown City Public Library,"Class 2: Serve 4,000-6,999",4005.0,Brown City,Sanilac,White Pine Library Cooperative,No,,,Yes
+75,MI0051,Camden Township Library,"Class 2: Serve 4,000-6,999",4191.0,Camden,Hillsdale,Woodlands Library Cooperative,Yes,Annual,10,Yes
+76,MI0066,Coleman Area Library,"Class 2: Serve 4,000-6,999",4622.0,Coleman,Midland,Mideastern Michigan Library Cooperative,Yes,Annual,$35/Individual,Yes
+77,MI0071,Constantine Township Library,"Class 2: Serve 4,000-6,999",4986.0,Constantine,St. Joseph,Woodlands Library Cooperative,No,,,Yes
+78,MI0080,Deckerville Public Library,"Class 2: Serve 4,000-6,999",4514.0,Deckerville,Sanilac,White Pine Library Cooperative,No,,,Yes
+79,MI0373,Dorothy Hull Library - Windsor Township,"Class 2: Serve 4,000-6,999",6838.0,Dimondale,Eaton,Woodlands Library Cooperative,No,,,
+80,MI0088,Dowling Public Library,"Class 2: Serve 4,000-6,999",4869.0,Hastings,Barry,Woodlands Library Cooperative,Yes,Annual,30,
+81,MI0089,Dryden Township Library,"Class 2: Serve 4,000-6,999",4768.0,Dryden,Lapeer,Mideastern Michigan Library Cooperative,Yes,OneTime,20.00/Individual,No
+82,MI0098,Elk Rapids District Library,"Class 2: Serve 4,000-6,999",5432.0,Elk Rapids,Antrim,Northland Library Cooperative,Yes,Annual,40,Yes
+83,MI0112,Forsyth Township Public Library,"Class 2: Serve 4,000-6,999",6164.0,Gwinn,Marquette,Superiorland Library Cooperative,No,,,
+84,MI0117,Freeport District Library,"Class 2: Serve 4,000-6,999",5641.0,FREEPORT,Barry,Lakeland Library Cooperative,No,,,
+85,MI0140,Harbor Beach Area District Library,"Class 2: Serve 4,000-6,999",6119.0,Harbor Beach,Huron,White Pine Library Cooperative,Yes,Annual,$25/individual; additional family cards $5,Yes
+86,MI0144,Hartford Public Library,"Class 2: Serve 4,000-6,999",6582.0,Hartford,Van Buren,Southwest Michigan Library Cooperative,No,,,Yes
+87,MI0151,Hesperia Community Library,"Class 2: Serve 4,000-6,999",5933.0,Hesperia,Newaygo,Lakeland Library Cooperative,Yes,Annual,48,
+88,MI0154,Home Township Library,"Class 2: Serve 4,000-6,999",4220.0,Edmore,Montcalm,Lakeland Library Cooperative,Yes,Annual,$20/Family,Yes
+89,MI0157,Hopkins District Library,"Class 2: Serve 4,000-6,999",4610.0,Hopkins,Allegan,Lakeland Library Cooperative,Yes,Annual,36/Individual,
+90,MI0159,Howe Memorial Library,"Class 2: Serve 4,000-6,999",5531.0,Breckenridge,Gratiot,White Pine Library Cooperative,No,,,Yes
+91,MI0161,Hudson Carnegie District Library,"Class 2: Serve 4,000-6,999",5107.0,Hudson,Lenawee,Woodlands Library Cooperative,Yes,Annual,$35 Family,Yes
+92,MI0170,Interlochen Public Library,"Class 2: Serve 4,000-6,999",5784.0,Interlochen,Grand Traverse,Northland Library Cooperative,No,,,
+93,MI0172,Ironwood Carnegie Library,"Class 2: Serve 4,000-6,999",5713.0,Ironwood,Gogebic,Superiorland Library Cooperative,Yes,Annual,30/family,Yes
+94,MI0174,J. C. Wheeler Public Library,"Class 2: Serve 4,000-6,999",6443.0,Martin,Allegan,Southwest Michigan Library Cooperative,No,,,Yes
+95,MI0176,Jacquelin E. Opperman Memorial Library,"Class 2: Serve 4,000-6,999",4080.0,Kingston,Tuscola,White Pine Library Cooperative,No,,,Yes
+96,MI0178,Jonesville District Library,"Class 2: Serve 4,000-6,999",5210.0,Jonesville,Hillsdale,Woodlands Library Cooperative,Yes,Annual,10,Yes
+97,MI0179,Jordan Valley District Library,"Class 2: Serve 4,000-6,999",6997.0,East Jordan,Charlevoix,Northland Library Cooperative,Yes,Annual,$55 individual,Yes
+98,MI0188,Lake Odessa Community Library,"Class 2: Serve 4,000-6,999",4168.0,Lake Odessa,Ionia,Lakeland Library Cooperative,No,,,Yes
+99,MI0422,Leighton Township Library,"Class 2: Serve 4,000-6,999",4934.0,Moline,Allegan,Lakeland Library Cooperative,Yes,Annual,$50/household,
+100,MI0194,Leland Township Public Library,"Class 2: Serve 4,000-6,999",5857.0,Leland,Leelanau,Mid-Michigan Library League,No,,,Yes
+101,MI0203,Luther Area Public Library,"Class 2: Serve 4,000-6,999",4141.0,Luther,Lake,Mid-Michigan Library League,No,,,Yes
+102,MI0206,M. Alice Chapin Memorial Library,"Class 2: Serve 4,000-6,999",4197.0,Marion,Osceola,Mid-Michigan Library League,Yes,Annual,55/individual; 125 family,Yes
+103,MI0208,Mackinaw Area Public Library,"Class 2: Serve 4,000-6,999",5068.0,Mackinaw City,Emmet,Northland Library Cooperative,Yes,Annual,$30.00,Yes
+104,MI0211,Mancelona Township Library,"Class 2: Serve 4,000-6,999",4968.0,Mancelona,Antrim,Mid-Michigan Library League,Yes,Annual,20.00/household,Yes
+105,MI0216,Marcellus Township Wood Memorial Library,"Class 2: Serve 4,000-6,999",4101.0,Marcellus,Cass,Southwest Michigan Library Cooperative,Yes,OneTime,20.00,Yes
+106,MI0217,Marlette District Library,"Class 2: Serve 4,000-6,999",5241.0,Marlette,Sanilac,White Pine Library Cooperative,Yes,OneTime,10.00,Yes
+107,MI0221,Mayville District Public Library,"Class 2: Serve 4,000-6,999",5160.0,Mayville,Tuscola,White Pine Library Cooperative,No,,,Yes
+108,MI0418,McBain Community Library,"Class 2: Serve 4,000-6,999",5841.0,McBain,Missaukee,Mid-Michigan Library League,No,,,
+109,MI0225,Mendon Township Library,"Class 2: Serve 4,000-6,999",4730.0,Mendon,St. Joseph,Woodlands Library Cooperative,No,,,
+110,MI0235,Moore Public Library,"Class 2: Serve 4,000-6,999",5072.0,Lexington,Sanilac,White Pine Library Cooperative,No,,,
+111,MI0236,Morton Township Public Library,"Class 2: Serve 4,000-6,999",6634.0,Mecosta,Mecosta,Mid-Michigan Library League,Yes,Annual,$30/Family,Yes
+112,MI0243,New Buffalo Township Public Library,"Class 2: Serve 4,000-6,999",5302.0,New Buffalo,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,34,Yes
+113,MI0244,Newaygo Area District Library,"Class 2: Serve 4,000-6,999",6834.0,Newaygo,Newaygo,Lakeland Library Cooperative,Yes,Annual,40/Individual,Yes
+114,MI0246,North Adams Community Memorial Library,"Class 2: Serve 4,000-6,999",4469.0,North Adams,Hillsdale,Woodlands Library Cooperative,Yes,Annual,10,Yes
+115,MI0249,Nottawa Township Library,"Class 2: Serve 4,000-6,999",6174.0,Centrevile,St. Joseph,Woodlands Library Cooperative,No,,,Yes
+116,MI0260,Ovid Public Library,"Class 2: Serve 4,000-6,999",5305.0,Ovid,Clinton,White Pine Library Cooperative,No,,,
+117,MI0264,Pathfinder Community Library,"Class 2: Serve 4,000-6,999",6341.0,Baldwin,Lake,Mid-Michigan Library League,Yes,Annual,12.00,
+118,MI0266,Peninsula Community Library,"Class 2: Serve 4,000-6,999",5433.0,Traverse City,Grand Traverse,Northland Library Cooperative,Yes,Annual,$100,Yes
+119,MI0270,Pigeon District Library,"Class 2: Serve 4,000-6,999",6654.0,Pigeon,Huron,White Pine Library Cooperative,Yes,Annual,$40/card,Yes
+120,MI0272,Pittsford Public Library,"Class 2: Serve 4,000-6,999",4105.0,Pittsford,Hillsdale,Woodlands Library Cooperative,Yes,Annual,$10,Yes
+121,MI0275,Port Austin Township Library,"Class 2: Serve 4,000-6,999",5033.0,Port Austin,Huron,White Pine Library Cooperative,Yes,Annual,5,Yes
+122,MI0028,Potterville-Benton Township District Library,"Class 2: Serve 4,000-6,999",5413.0,Potterville,Eaton,Woodlands Library Cooperative,No,,,
+123,MI0280,Putnam District Library,"Class 2: Serve 4,000-6,999",6847.0,Nashville,Barry,Woodlands Library Cooperative,Yes,Annual,$35/Individual,Yes
+124,MI0281,Rauchholz Memorial Library,"Class 2: Serve 4,000-6,999",6240.0,Hemlock,Saginaw,White Pine Library Cooperative,Yes,Annual,$25 individual/$50 family,Yes
+125,MI0283,Reading Community Library,"Class 2: Serve 4,000-6,999",5376.0,Reading,Hillsdale,Woodlands Library Cooperative,Yes,Annual,10.00/family,Yes
+126,MI0380,Reese Unity District Library,"Class 2: Serve 4,000-6,999",5523.0,Reese,Tuscola,White Pine Library Cooperative,Yes,Annual,$10/student; $15/individual; $25/family,Yes
+127,MI0064,River Rapids District Library,"Class 2: Serve 4,000-6,999",4659.0,Chesaning,Saginaw,White Pine Library Cooperative,Yes,Annual,50.00,
+128,MI0125,Roscommon Area District Library,"Class 2: Serve 4,000-6,999",6295.0,Roscommon,Roscommon,Superiorland Library Cooperative,No,,,
+129,MI0323,Saint Ignace Public Library,"Class 2: Serve 4,000-6,999",4434.0,St. Ignace,Mackinac,Superiorland Library Cooperative,Yes,Annual,$40/Family; $20/Summer Resident,Yes
+130,MI0302,Sanilac District Library,"Class 2: Serve 4,000-6,999",4375.0,Port Sanilac,Sanilac,White Pine Library Cooperative,No,,,Yes
+131,MI0304,Saugatuck-Douglas District Library,"Class 2: Serve 4,000-6,999",5101.0,Douglas,Allegan,Lakeland Library Cooperative,Yes,Annual,$40/family,
+132,MI9007,Sebewaing Township Library,"Class 2: Serve 4,000-6,999",4038.0,Sebewaing,Huron,White Pine Library Cooperative,No,,,Yes
+133,MI0432,Sherman Township Library,"Class 2: Serve 4,000-6,999",5635.0,Weidman,Isabella,White Pine Library Cooperative,Yes,Annual,$20/address,Yes
+134,MI0324,Stair District Library,"Class 2: Serve 4,000-6,999",4046.0,Morenci,Lenawee,Woodlands Library Cooperative,Yes,Annual,$40/individual,
+135,MI0329,Suttons Bay-Bingham District Library,"Class 2: Serve 4,000-6,999",5479.0,Suttons Bay,Leelanau,Northland Library Cooperative,No,,,
+136,MI0332,Taymouth Township Library,"Class 2: Serve 4,000-6,999",6680.0,Burt,Saginaw,White Pine Library Cooperative,No,,,Yes
+137,MI0110,Thomas E. Fleschner Memorial Library,"Class 2: Serve 4,000-6,999",6033.0,Birch Run,Saginaw,White Pine Library Cooperative,Yes,Annual,10.00,
+138,MI0339,Three Oaks Township Public Library,"Class 2: Serve 4,000-6,999",4576.0,Three Oaks,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,25.00,Yes
+139,MI0344,Utica Public Library,"Class 2: Serve 4,000-6,999",4757.0,Utica,Macomb,Suburban Library Cooperative,Yes,Annual,200/family,Yes
+140,MI0347,Vernon District Public Library,"Class 2: Serve 4,000-6,999",4614.0,Vernon,Shiawassee,Mideastern Michigan Library Cooperative,No,,,
+141,MI0353,Walled Lake City Library,"Class 2: Serve 4,000-6,999",6999.0,Walled Lake,Oakland,The Library Network,No,,,
+142,MI0360,Watervliet District Library,"Class 2: Serve 4,000-6,999",4837.0,Watervliet,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,25,
+143,MI0367,White Pigeon Township Library,"Class 2: Serve 4,000-6,999",5240.0,White Pigeon,St. Joseph,Woodlands Library Cooperative,Yes,Annual,$25/individual,Yes
+144,MI0372,Aitkin Memorial District Library,"Class 3: Serve 7,000-11,999",7410.0,Croswell,Sanilac,White Pine Library Cooperative,No,,,
+145,MI0407,Alanson Area Public Library,"Class 3: Serve 7,000-11,999",11600.0,Alanson,Emmet,Superiorland Library Cooperative,Yes,Annual,$25 Individual/$15 Over 60,Yes
+146,MI0408,Albion District Library,"Class 3: Serve 7,000-11,999",11569.0,Albion,Calhoun,Woodlands Library Cooperative,Yes,Annual," $60/INDIVIDUAL (ANNUAL, AVAILABLE QUARTERLY)",
+147,MI0409,Alcona County Library,"Class 3: Serve 7,000-11,999",9706.0,Harrisville,Alcona,Northland Library Cooperative,No,,,
+148,MI0412,Alma Public Library,"Class 3: Serve 7,000-11,999",11902.0,Alma,Gratiot,White Pine Library Cooperative,Yes,Annual,40.00,Yes
+149,MI0010,Alvah N. Belding Memorial Library,"Class 3: Serve 7,000-11,999",11000.0,Belding,Ionia,Lakeland Library Cooperative,Yes,Annual,40,Yes
+150,MI0016,Augusta-Ross Township District Library,"Class 3: Serve 7,000-11,999",7172.0,Augusta,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,$15/Family,Yes
+151,MI9026,Bath Township Public Library,"Class 3: Serve 7,000-11,999",11598.0,Bath,Clinton,Woodlands Library Cooperative,Yes,Annual,$25/individual,Yes
+152,MI0031,Berrien Springs Community Library,"Class 3: Serve 7,000-11,999",9197.0,Berrien Springs,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,75/Individual,
+153,MI0036,Blair Memorial Library,"Class 3: Serve 7,000-11,999",11825.0,Clawson,Oakland,The Library Network,Yes,Annual,100,
+154,MI0038,Boyne District Library,"Class 3: Serve 7,000-11,999",7226.0,Boyne City,Charlevoix,Northland Library Cooperative,Yes,Annual,60,
+155,MI0045,Buchanan District Library,"Class 3: Serve 7,000-11,999",10090.0,Buchanan,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,50,Yes
+156,MI0046,Bullard Sanford Memorial Library,"Class 3: Serve 7,000-11,999",9705.0,Vassar,Tuscola,White Pine Library Cooperative,No,,,
+157,MI0050,Calumet Public School Library,"Class 3: Serve 7,000-11,999",8692.0,Calumet,Houghton,Superiorland Library Cooperative,Yes,Annual,1,
+158,MI0168,Caro Area District Library,"Class 3: Serve 7,000-11,999",11833.0,Caro,Tuscola,White Pine Library Cooperative,Yes,Annual,$20 individual,Yes
+159,MI0054,Carson City Public Library,"Class 3: Serve 7,000-11,999",10857.0,Carson City,Montcalm,Lakeland Library Cooperative,Yes,Annual,25/individual,Yes
+160,MI0056,Cedar Springs Public Library,"Class 3: Serve 7,000-11,999",9483.0,Cedar Springs,Kent,Lakeland Library Cooperative,No,,,Yes
+161,MI0057,Center Line Public Library,"Class 3: Serve 7,000-11,999",8257.0,Center Line,Macomb,Suburban Library Cooperative,Yes,Annual,$50/individual,
+162,MI0060,Charlevoix Public Library,"Class 3: Serve 7,000-11,999",9810.0,Charlevoix,Charlevoix,Northland Library Cooperative,Yes,Annual,"$100/year, $25/quarter",Yes
+163,MI0072,Coopersville Area District Library,"Class 3: Serve 7,000-11,999",11862.0,Coopersville,Ottawa,Lakeland Library Cooperative,Yes,Annual,50.,
+164,MI0081,Delton District Library,"Class 3: Serve 7,000-11,999",10021.0,Delton,Barry,Woodlands Library Cooperative,Yes,Annual,$50/family,
+165,MI0086,Dorr Township Library,"Class 3: Serve 7,000-11,999",7439.0,Dorr,Allegan,Lakeland Library Cooperative,No,,,
+166,MI0095,Eau Claire District Library,"Class 3: Serve 7,000-11,999",7392.0,Eau Claire,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,25,
+167,MI9021,Ecorse Public Library,"Class 3: Serve 7,000-11,999",9512.0,Ecorse,Wayne,The Library Network,No,,,
+168,MI0102,Evart Public Library,"Class 3: Serve 7,000-11,999",7717.0,Evart,Osceola,Mid-Michigan Library League,No,,,Yes
+169,MI0177,Frankenmuth James E. Wickson District Library,"Class 3: Serve 7,000-11,999",7824.0,Frankenmuth,Saginaw,White Pine Library Cooperative,Yes,Annual,50/individual,
+170,MI0119,Galesburg-Charleston Memorial District Library,"Class 3: Serve 7,000-11,999",9476.0,Galesburg,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,$25/individual,Yes
+171,MI0162,Gary Byker Memorial Library of Hudsonville,"Class 3: Serve 7,000-11,999",10983.0,Hudsonville,Ottawa,Lakeland Library Cooperative,No,,,Yes
+172,MI0126,Gladstone School & Public Library,"Class 3: Serve 7,000-11,999",11239.0,Gladstone,Delta,Superiorland Library Cooperative,Yes,Annual,$35/family;$20 individual,Yes
+173,MI0132,Grant Area District Library,"Class 3: Serve 7,000-11,999",8875.0,Grant,Newaygo,Lakeland Library Cooperative,Yes,Annual,$50/Individual,
+174,MI0143,Hart Area Public Library,"Class 3: Serve 7,000-11,999",8133.0,Hart,Oceana,Mid-Michigan Library League,No,,,Yes
+175,MI0148,Henika District Library,"Class 3: Serve 7,000-11,999",7135.0,Wayland,Allegan,Lakeland Library Cooperative,Yes,Annual,$40/individual,
+176,MI0232,Hillsdale Community Library,"Class 3: Serve 7,000-11,999",11870.0,Hillsdale,Hillsdale,Woodlands Library Cooperative,Yes,Annual,40.00,Yes
+177,MI0163,Huntington Woods Public Library,"Class 3: Serve 7,000-11,999",8764.0,Huntington Woods,Oakland,The Library Network,No,,,Yes
+178,MI0186,Laingsburg Public Library,"Class 3: Serve 7,000-11,999",9555.0,Laingsburg,Shiawassee,Mideastern Michigan Library Cooperative,No,,,Yes
+179,MI0184,L'Anse Area School-Public Library,"Class 3: Serve 7,000-11,999",9533.0,L'Anse,Baraga,Superiorland Library Cooperative,No,,,Yes
+180,MI0196,Lenox Township Library,"Class 3: Serve 7,000-11,999",10470.0,New Haven,Macomb,Suburban Library Cooperative,Yes,Annual,200.00,
+181,MI0290,Lois Wagner Memorial Library,"Class 3: Serve 7,000-11,999",11581.0,Richmond,Macomb,Suburban Library Cooperative,Yes,Annual,$75/individual,
+182,MI0212,Manchester District Library,"Class 3: Serve 7,000-11,999",7312.0,Manchester,Washtenaw,The Library Network,Yes,Annual,125/family,
+183,MI0214,Manistique School & Public Library,"Class 3: Serve 7,000-11,999",8344.0,Manistique,Schoolcraft,Superiorland Library Cooperative,No,,,Yes
+184,MI9018,Melvindale Public Library,"Class 3: Serve 7,000-11,999",10715.0,Melvindale,Wayne,The Library Network,No,,,
+185,MI0230,Millington Arbela District Library,"Class 3: Serve 7,000-11,999",7424.0,Millington,Tuscola,White Pine Library Cooperative,No,,,
+186,MI0234,Montmorency County Public Libraries,"Class 3: Serve 7,000-11,999",9765.0,Atlanta,Montmorency,Northland Library Cooperative,No,,,
+187,MI0239,Munising School Public Library,"Class 3: Serve 7,000-11,999",9623.0,Munising,Alger,Superiorland Library Cooperative,Yes,Annual,$25/Individual,Yes
+188,MI0241,Negaunee Public Library,"Class 3: Serve 7,000-11,999",7656.0,Negaunee,Marquette,Superiorland Library Cooperative,Yes,OneTime,$80/family; $50/individual,Yes
+189,MI0379,Northfield Township Area Library,"Class 3: Serve 7,000-11,999",8354.0,Whitmore Lake,Washtenaw,The Library Network,No,,,Yes
+190,MI0257,Oscoda County Library,"Class 3: Serve 7,000-11,999",8640.0,Mio,Oscoda,Northland Library Cooperative,No,,,
+191,MI0263,Parchment Community Library,"Class 3: Serve 7,000-11,999",9969.0,Parchment,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,$95/family,
+192,MI9012,Patmos Library,"Class 3: Serve 7,000-11,999",7034.0,Jamestown,Ottawa,Lakeland Library Cooperative,Yes,Annual,$25/Individual,
+193,MI0122,Pere Marquette District Library,"Class 3: Serve 7,000-11,999",8833.0,Clare,Clare,Mideastern Michigan Library Cooperative,Yes,Annual,$100/family,No
+194,MI0271,Pinckney Community Public Library,"Class 3: Serve 7,000-11,999",11503.0,Pinckney,Livingston,The Library Network,No,,,
+195,MI0282,Rawson Memorial Library,"Class 3: Serve 7,000-11,999",8891.0,Cass City,Tuscola,White Pine Library Cooperative,No,,,Yes
+196,MI0284,Reed City Area District Library,"Class 3: Serve 7,000-11,999",8543.0,Reed City,Osceola,Mid-Michigan Library League,Yes,Annual,45.00,Yes
+197,MI0288,Richland Community Library,"Class 3: Serve 7,000-11,999",7580.0,Richland,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,$75/Family,No
+198,MI9019,River Rouge Public Library,"Class 3: Serve 7,000-11,999",7903.0,River Rouge,Wayne,The Library Network,No,,,
+199,MI0165,Ruth Hughes Memorial District Library,"Class 3: Serve 7,000-11,999",11480.0,Imlay City,Lapeer,Mideastern Michigan Library Cooperative,Yes,Annual,40/individual,
+200,MI0320,Saint Charles District Library,"Class 3: Serve 7,000-11,999",7798.0,Saint Charles,Saginaw,White Pine Library Cooperative,Yes,Annual,$75/individual,
+201,MI0423,Salem Township Library,"Class 3: Serve 7,000-11,999",7357.0,Burnips,Allegan,Lakeland Library Cooperative,Yes,Annual,$25,Yes
+202,MI0301,Sandusky District Library,"Class 3: Serve 7,000-11,999",7103.0,Sandusky,Sanilac,White Pine Library Cooperative,Yes,OneTime,25,Yes
+203,MI0303,Saranac Public Library,"Class 3: Serve 7,000-11,999",10188.0,Saranac,Ionia,Lakeland Library Cooperative,No,,,
+204,MI0428,Schultz-Holmes Memorial Library,"Class 3: Serve 7,000-11,999",7272.0,"Blissfield, MI",Lenawee,Woodlands Library Cooperative,Yes,Annual,50,Yes
+205,MI0309,Shelby Area District Library,"Class 3: Serve 7,000-11,999",11377.0,Shelby,Oceana,Mid-Michigan Library League,Yes,Annual,"$35/individual, $50/family",Yes
+206,MI0314,South Haven Memorial Library,"Class 3: Serve 7,000-11,999",8386.0,South Haven,Van Buren,Southwest Michigan Library Cooperative,Yes,Annual,$58/Individual;$29/Senior,
+207,MI0317,Sparta Carnegie Township Library,"Class 3: Serve 7,000-11,999",9110.0,Sparta,Kent,Lakeland Library Cooperative,Yes,Annual,20.00,
+208,MI0318,Spies Public Library,"Class 3: Serve 7,000-11,999",9645.0,Menominee,Menominee,Superiorland Library Cooperative,Yes,Annual,$15/Student;$25/Individual;$40/Family,Yes
+209,MI0328,Surrey Township Public Library,"Class 3: Serve 7,000-11,999",9301.0,Farwell,Clare,Mid-Michigan Library League,Yes,Annual,$35/individual; $50/family,Yes
+210,MI0330,Tahquamenon Area Public Library,"Class 3: Serve 7,000-11,999",7851.0,Newberry,Luce,Northland Library Cooperative,Yes,Annual,$10/Individual;$25/Family,
+211,MI0331,Tamarack District Library,"Class 3: Serve 7,000-11,999",10250.0,Lakeview,Montcalm,Lakeland Library Cooperative,Yes,Annual,36/individual,Yes
+212,MI0335,Theodore A. Cutler Memorial Library,"Class 3: Serve 7,000-11,999",10662.0,Saint Louis,Gratiot,White Pine Library Cooperative,No,,,Yes
+213,MI0336,Thomas Township Library,"Class 3: Serve 7,000-11,999",11985.0,Saginaw,Saginaw,White Pine Library Cooperative,No,,,
+214,MI0337,Thompson Home Public Library,"Class 3: Serve 7,000-11,999",8147.0,ITHACA,Gratiot,White Pine Library Cooperative,Yes,Annual,$50/family,Yes
+215,MI0286,Timothy C. Hauenstein Reynolds Township Library,"Class 3: Serve 7,000-11,999",9714.0,Howard City,Montcalm,Lakeland Library Cooperative,Yes,Annual,$35/family,Yes
+216,MI0354,Walton Erickson Public Library,"Class 3: Serve 7,000-11,999",9514.0,Morley,Mecosta,Mid-Michigan Library League,No,,,
+217,MI0363,West Branch District Library,"Class 3: Serve 7,000-11,999",9138.0,West Branch,Ogemaw,White Pine Library Cooperative,Yes,Annual,25,
+218,MI0364,West Iron District Library,"Class 3: Serve 7,000-11,999",7370.0,Iron River,Iron,Superiorland Library Cooperative,Yes,Annual,40,
+219,MI0091,White Cloud Community Library,"Class 3: Serve 7,000-11,999",8533.0,White Cloud,Newaygo,Lakeland Library Cooperative,Yes,Annual,$50 yearly/ $5 monthly,Yes
+220,MI0370,White Lake Community Library,"Class 3: Serve 7,000-11,999",11811.0,Whitehall,Muskegon,Lakeland Library Cooperative,Yes,Annual,$42/individual,
+221,MI0368,White Pine District Library,"Class 3: Serve 7,000-11,999",10014.0,Stanton,Montcalm,Mid-Michigan Library League,No,,,
+222,MI0406,Adrian District Library,"Class 4: Serve 12,000-25,999",21133.0,Adrian,Lenawee,Woodlands Library Cooperative,Yes,Annual,$90/family;$45 seasonal,
+223,MI0410,Allegan District Library,"Class 4: Serve 12,000-25,999",17401.0,Allegan,Allegan,Southwest Michigan Library Cooperative,Yes,Annual,20/individual,Yes
+224,MI0015,Auburn Hills Public Library,"Class 4: Serve 12,000-25,999",21412.0,Auburn Hills,Oakland,The Library Network,No,,,
+225,MI0017,Bacon Memorial District Library,"Class 4: Serve 12,000-25,999",25883.0,Wyandotte,Wayne,The Library Network,Yes,Annual,$100/Family,
+226,MI0027,Benton Harbor Public Library,"Class 4: Serve 12,000-25,999",24787.0,Benton Harbor,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,50/individual,Yes
+227,MI0030,Berkley Public Library,"Class 4: Serve 12,000-25,999",14970.0,Berkley,Oakland,The Library Network,Yes,Annual,125,
+228,MI0035,Big Rapids Community Library,"Class 4: Serve 12,000-25,999",20025.0,Big Rapids,Mecosta,Mid-Michigan Library League,Yes,Annual," $25 individual, $50 household, $120 individual plus MeL",Yes
+229,MI0040,Brandon Township Public Library,"Class 4: Serve 12,000-25,999",15175.0,Ortonville,Oakland,The Library Network,Yes,Annual,$100/individual; $6/student,
+230,MI0041,Bridgeport Public Library,"Class 4: Serve 12,000-25,999",12667.0,Saginaw,Saginaw,White Pine Library Cooperative,Yes,Annual,75.00,Yes
+231,MI0026,Briggs District Library,"Class 4: Serve 12,000-25,999",19336.0,Saint Johns,Clinton,White Pine Library Cooperative,Yes,Annual,$50 a household,Yes
+232,MI0059,Charles A. Ransom District Library,"Class 4: Serve 12,000-25,999",15068.0,Plainwell,Allegan,Southwest Michigan Library Cooperative,Yes,Annual,$50/individual or family,
+233,MI0061,Charlotte Community Library,"Class 4: Serve 12,000-25,999",24370.0,Charlotte,Eaton,Woodlands Library Cooperative,Yes,Annual, $80/family,Yes
+234,MI0063,Cheboygan Area Public Library,"Class 4: Serve 12,000-25,999",13894.0,Cheboygan,Cheboygan,Northland Library Cooperative,Yes,Annual,$50/ household/year,
+235,MI0223,Chelsea District Library,"Class 4: Serve 12,000-25,999",15010.0,Chelsea,Washtenaw,The Library Network,Yes,Annual,125,
+236,MI0067,Coloma Public Library,"Class 4: Serve 12,000-25,999",12982.0,Coloma,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,$50 individual;$75 family,Yes
+237,MI0070,Comstock Township Library,"Class 4: Serve 12,000-25,999",14854.0,Comstock,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,$35/family,
+238,MI0074,Crawford County Library,"Class 4: Serve 12,000-25,999",14074.0,Grayling,Crawford,Superiorland Library Cooperative,Yes,Annual,10.00/Individual,
+239,MI0106,DeWitt District Library,"Class 4: Serve 12,000-25,999",20542.0,DeWitt,Clinton,Woodlands Library Cooperative,Yes,Annual,30/Individual $40/Family,
+240,MI0084,Dexter District Library,"Class 4: Serve 12,000-25,999",19591.0,Dexter,Washtenaw,The Library Network,Yes,Annual,60/household,
+241,MI0087,Dowagiac District Library,"Class 4: Serve 12,000-25,999",13306.0,Dowagiac,Cass,Southwest Michigan Library Cooperative,Yes,OneTime,$5/individual,Yes
+242,MI0094,Eaton Rapids Area District Library,"Class 4: Serve 12,000-25,999",12670.0,Eaton Rapids,Eaton,Woodlands Library Cooperative,Yes,Annual,"$45/family; $25/individual; $5/90-day, one per calendar year",
+243,MI0101,Escanaba Public Library,"Class 4: Serve 12,000-25,999",25830.0,Escanaba,Delta,Superiorland Library Cooperative,Yes,Annual,$35/Family,Yes
+244,MI0107,Fennville District Library,"Class 4: Serve 12,000-25,999",14230.0,Fennville,Allegan,Lakeland Library Cooperative,Yes,Annual,$20.00/Family,Yes
+245,MI0108,Ferndale Area District Library,"Class 4: Serve 12,000-25,999",19900.0,Ferndale,Oakland,The Library Network,Yes,Annual,$100/family,
+246,MI0133,Flat River Community Library,"Class 4: Serve 12,000-25,999",17626.0,Greenville,Montcalm,Lakeland Library Cooperative,Yes,Annual,$25/year,
+247,MI0421,Flat Rock Public Library,"Class 4: Serve 12,000-25,999",17823.0,Flat Rock,Wayne,The Library Network,Yes,Annual,65.00,Yes
+248,MI0113,Fowlerville District Library,"Class 4: Serve 12,000-25,999",17068.0,Fowlerville,Livingston,The Library Network,Yes,Annual,$50/Family,Yes
+249,MI0116,Fraser Public Library,"Class 4: Serve 12,000-25,999",14480.0,Fraser,Macomb,Suburban Library Cooperative,Yes,Annual,200,Yes
+250,MI0118,Fremont Area District Library,"Class 4: Serve 12,000-25,999",13326.0,Fremont,Newaygo,Lakeland Library Cooperative,Yes,Annual,$48/Individual,
+251,MI9022,Fruitport District Library,"Class 4: Serve 12,000-25,999",13598.0,Fruitport,Muskegon,Lakeland Library Cooperative,Yes,OneTime,$75/individual,
+252,MI0127,Gladwin County District Library,"Class 4: Serve 12,000-25,999",25692.0,Gladwin,Gladwin,White Pine Library Cooperative,Yes,Annual,$50/person,
+253,MI0130,Grand Ledge Area District Library,"Class 4: Serve 12,000-25,999",15959.0,Grand Ledge,Eaton,Woodlands Library Cooperative,No,,,
+254,MI0137,Hamburg Township Library,"Class 4: Serve 12,000-25,999",21165.0,Hamburg,Livingston,The Library Network,No,,,
+255,MI0138,Hamtramck Public Library,"Class 4: Serve 12,000-25,999",22423.0,Hamtramck,Wayne,The Library Network,Yes,Annual,30/individual,
+256,MI0141,Harper Woods Public Library,"Class 4: Serve 12,000-25,999",14236.0,Harper Woods,Wayne,Suburban Library Cooperative,Yes,Annual,$75/Family,
+257,MI0142,Harrison District Library,"Class 4: Serve 12,000-25,999",12920.0,Harrison,Clare,Mideastern Michigan Library Cooperative,Yes,Annual,$100/family,No
+258,MI0435,Harrison Township Public Library,"Class 4: Serve 12,000-25,999",24587.0,Harrison Township,Macomb,Suburban Library Cooperative,Yes,Annual,200/family,
+259,MI0145,Hastings Public Library,"Class 4: Serve 12,000-25,999",13233.0,Hastings,Barry,Lakeland Library Cooperative,Yes,Annual,$100/household,Yes
+260,MI0146,Hazel Park Memorial District Library,"Class 4: Serve 12,000-25,999",16422.0,Hazel Park,Oakland,The Library Network,Yes,Annual,$50/individual,
+261,MI0152,Highland Township Public Library,"Class 4: Serve 12,000-25,999",19202.0,Highland,Oakland,The Library Network,Yes,Annual,$100/family,
+262,MI0153,Holly Township Library,"Class 4: Serve 12,000-25,999",23088.0,Holly,Oakland,Mideastern Michigan Library Cooperative,Yes,Annual,50,Yes
+263,MI0158,Houghton Lake Public Library,"Class 4: Serve 12,000-25,999",15322.0,Houghton Lake,Roscommon,White Pine Library Cooperative,No,,,
+264,MI0378,Howard Miller Library,"Class 4: Serve 12,000-25,999",22115.0,"Zeeland, MI",Ottawa,Lakeland Library Cooperative,Yes,Annual,50.00/Individual,Yes
+265,MI0136,Ionia Community Library,"Class 4: Serve 12,000-25,999",21638.0,Ionia,Ionia,Lakeland Library Cooperative,Yes,Annual,$25/individual,No
+266,MI0173,Ishpeming Carnegie Public Library,"Class 4: Serve 12,000-25,999",13600.0,Ishpeming,Marquette,Superiorland Library Cooperative,No,,,Yes
+267,MI0181,Kalkaska County Library,"Class 4: Serve 12,000-25,999",17153.0,Kalkaska,Kalkaska,Northland Library Cooperative,No,,,
+268,MI0431,Leanna Hicks Public Library of Inkster,"Class 4: Serve 12,000-25,999",25369.0,Inkster,Wayne,The Library Network,Yes,Annual,65/individual,
+269,MI0198,Lincoln Township Public Library,"Class 4: Serve 12,000-25,999",22258.0,Stevensville,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,$35 3-mo; $65 6mo; 120 1 year,Yes
+270,MI0204,Lyon Township Public Library,"Class 4: Serve 12,000-25,999",14545.0,South Lyon,Oakland,The Library Network,No,,,
+271,MI0242,MacDonald Public Library,"Class 4: Serve 12,000-25,999",13452.0,New Baltimore,Macomb,Suburban Library Cooperative,Yes,Annual,"$75-Individual,$200-Cooperative-Individual or Family",No
+272,MI0213,Manistee County Library,"Class 4: Serve 12,000-25,999",22995.0,Manistee,Manistee,Mid-Michigan Library League,Yes,Annual,75,
+273,MI0218,Marshall District Library,"Class 4: Serve 12,000-25,999",14948.0,Marshall,Calhoun,Woodlands Library Cooperative,Yes,Annual,$100 Household; $50 Senior/Military Household,
+274,MI0220,Maud Preston Palenske Memorial Library,"Class 4: Serve 12,000-25,999",18393.0,Saint Joseph,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,100/household ,Yes
+275,MI0226,Menominee County Library,"Class 4: Serve 12,000-25,999",14384.0,Stephenson,Menominee,Superiorland Library Cooperative,Yes,Annual,15.00,
+276,MI0228,Milan Public Library,"Class 4: Serve 12,000-25,999",17511.0,Milan,Monroe,Woodlands Library Cooperative,Yes,Annual,100/family,Yes
+277,MI0229,Milford Public Library,"Class 4: Serve 12,000-25,999",15736.0,Milford,Oakland,The Library Network,Yes,Annual,150,
+278,MI0231,Missaukee District Library,"Class 4: Serve 12,000-25,999",13097.0,Lake City,Missaukee,Mid-Michigan Library League,No,,,
+279,MI0237,Mount Clemens Public Library,"Class 4: Serve 12,000-25,999",22857.0,Mount Clemens,Macomb,Suburban Library Cooperative,Yes,Annual,200/Family,
+280,MI0245,Niles District Library,"Class 4: Serve 12,000-25,999",24520.0,Niles,Berrien,Southwest Michigan Library Cooperative,Yes,Annual,25,Yes
+281,MI0253,Ogemaw District Library,"Class 4: Serve 12,000-25,999",12561.0,Rose City,Ogemaw,White Pine Library Cooperative,No,,,Yes
+282,MI0258,Otsego County Library,"Class 4: Serve 12,000-25,999",24164.0,Gaylord,Otsego,Northland Library Cooperative,Yes,Annual,75/family;$30 individual,
+283,MI0259,Otsego District Public Library,"Class 4: Serve 12,000-25,999",14230.0,Otsego,Allegan,Southwest Michigan Library Cooperative,Yes,Annual,$80/individual,Yes
+284,MI0262,Oxford Public Library,"Class 4: Serve 12,000-25,999",20526.0,Oxford,Oakland,The Library Network,No,,,
+285,MI0265,Paw Paw District Library,"Class 4: Serve 12,000-25,999",13579.0,Paw Paw,Van Buren,Southwest Michigan Library Cooperative,Yes,Annual,50,
+286,MI0269,Petoskey District Library,"Class 4: Serve 12,000-25,999",16709.0,Petoskey,Emmet,Northland Library Cooperative,Yes,Annual,95/family/year or 25/family/quarter,Yes
+287,MI0276,Portage Lake District Library,"Class 4: Serve 12,000-25,999",19629.0,Houghton,Houghton,Superiorland Library Cooperative,Yes,Annual,$110/Individual; $155/Family,Yes
+288,MI0278,Portland District Library,"Class 4: Serve 12,000-25,999",13912.0,Portland,Ionia,Woodlands Library Cooperative,No,,,Yes
+289,MI0279,Presque Isle District Library,"Class 4: Serve 12,000-25,999",14878.0,Rogers City,Presque Isle,Northland Library Cooperative,Yes,Annual,50.00,Yes
+290,MI0292,Riverview Veterans Memorial Library,"Class 4: Serve 12,000-25,999",12486.0,Riverview,Wayne,The Library Network,No,,,No
+291,MI0315,Salem-South Lyon District Library,"Class 4: Serve 12,000-25,999",16753.0,South Lyon,Washtenaw,The Library Network,Yes,Annual,130,
+292,MI0355,Spring Lake District Library,"Class 4: Serve 12,000-25,999",18260.0,Spring Lake,Ottawa,Lakeland Library Cooperative,Yes,Annual,88,Yes
+293,MI0319,Springfield Township Library,"Class 4: Serve 12,000-25,999",13940.0,Davisburg,Oakland,The Library Network,Yes,Annual,100.00 /family,
+294,MI0326,Sturgis District Library,"Class 4: Serve 12,000-25,999",17937.0,Sturgis,St. Joseph,Southwest Michigan Library Cooperative,Yes,Annual,50/Family,
+295,MI0333,Tecumseh District Library,"Class 4: Serve 12,000-25,999",18134.0,Tecumseh,Lenawee,Woodlands Library Cooperative,Yes,Annual,$50 per year,
+296,MI0338,Thornapple Kellogg School and Community Library,"Class 4: Serve 12,000-25,999",15497.0,Middleville,Barry,Lakeland Library Cooperative,Yes,Annual,$40/Family,No
+297,MI0340,Three Rivers Public Library,"Class 4: Serve 12,000-25,999",14253.0,Three Rivers,St. Joseph,Southwest Michigan Library Cooperative,Yes,Annual,$50 for 1 or 2/ $75 for 3 or more,Yes
+298,MI0349,Vicksburg District Library,"Class 4: Serve 12,000-25,999",12238.0,Vicksburg,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,50,Yes
+299,MI0403,Wayne Public Library,"Class 4: Serve 12,000-25,999",17593.0,Wayne,Wayne,The Library Network,Yes,Annual,$75/individual,No
+300,MI0374,Wixom Public Library,"Class 4: Serve 12,000-25,999",13498.0,Wixom,Oakland,The Library Network,Yes,Annual,125,
+301,MI9017,Allen Park Public Library,"Class 5: Serve 26,000-49,999",28210.0,Allen Park,Wayne,The Library Network,No,,,
+302,MI0411,Allendale Township Library,"Class 5: Serve 26,000-49,999",28283.0,Allendale,Ottawa,Lakeland Library Cooperative,Yes,Annual,25,Yes
+303,MI0414,Alpena County Library,"Class 5: Serve 26,000-49,999",29598.0,Alpena,Alpena,Superiorland Library Cooperative,Yes,Annual,$25/Individual,
+304,MI0019,Baldwin Public Library,"Class 5: Serve 26,000-49,999",35350.0,Birmingham,Oakland,The Library Network,No,,,Yes
+305,MI0430,Belleville Area District Library,"Class 5: Serve 26,000-49,999",42361.0,Belleville,Wayne,The Library Network,No,,,
+306,MI0037,Bloomfield Township Public Library,"Class 5: Serve 26,000-49,999",41070.0,Bloomfield Township,Oakland,The Library Network,No,,,
+307,MI0039,Branch District Library,"Class 5: Serve 26,000-49,999",46905.0,Coldwater,Branch,Woodlands Library Cooperative,Yes,Annual,$40/individual,Yes
+308,MI0043,Brighton District Library,"Class 5: Serve 26,000-49,999",43254.0,Brighton,Livingston,The Library Network,No,,,
+309,MI0049,Cadillac-Wexford County Public Library,"Class 5: Serve 26,000-49,999",35087.0,Cadillac,Wexford,Mid-Michigan Library League,Yes,Annual,25.00,Yes
+310,MI0055,Cass District Library,"Class 5: Serve 26,000-49,999",38002.0,Cassopolis,Cass,Southwest Michigan Library Cooperative,Yes,Annual,MI resident $25 per family; non-MI resident $40 per family,
+311,MI0416,Chesterfield Township Library,"Class 5: Serve 26,000-49,999",43381.0,Chesterfield,Macomb,Suburban Library Cooperative,Yes,Annual,$50/individual - local; $200/individual - cooperative wide,
+312,MI0166,Clarkston Independence District Library,"Class 5: Serve 26,000-49,999",35563.0,Clarkston,Oakland,The Library Network,No,,,
+313,MI0426,Commerce Township Community Library,"Class 5: Serve 26,000-49,999",40186.0,Commerce Township,Oakland,The Library Network,No,,,
+314,MI0310,Community District Library,"Class 5: Serve 26,000-49,999",28263.0,Corunna,Shiawassee,Mideastern Michigan Library Cooperative,Yes,Annual,55/Family,Yes
+315,MI0075,Cromaine District Library,"Class 5: Serve 26,000-49,999",26391.0,Hartland,Livingston,The Library Network,Yes,Annual,$150/household,
+316,MI9009,Delta Township District Library,"Class 5: Serve 26,000-49,999",32799.0,Lansing,Eaton,Woodlands Library Cooperative,No,,,
+317,MI0085,Dickinson County Library,"Class 5: Serve 26,000-49,999",26168.0,Iron Mountain,Dickinson,Superiorland Library Cooperative,Yes,Annual,$35/Family,
+318,MI0093,East Lansing Public Library,"Class 5: Serve 26,000-49,999",48579.0,East Lansing,Ingham,Woodlands Library Cooperative,Yes,Annual,$30 individual/$40 family,
+319,MI0092,Eastpointe Memorial Library,"Class 5: Serve 26,000-49,999",32442.0,Eastpointe,Macomb,Suburban Library Cooperative,Yes,Annual,200.00,
+320,MI0121,Garden City Public Library,"Class 5: Serve 26,000-49,999",27692.0,Garden City,Wayne,The Library Network,No,,,
+321,MI0124,Georgetown Township Public Library,"Class 5: Serve 26,000-49,999",46985.0,Jenison,Ottawa,Lakeland Library Cooperative,Yes,Annual,115,
+322,MI0135,Hackley Public Library,"Class 5: Serve 26,000-49,999",40898.0,Muskegon,Muskegon,Lakeland Library Cooperative,Yes,Annual,100/family,
+323,MI0171,Iosco-Arenac District Library,"Class 5: Serve 26,000-49,999",41786.0,East Tawas,Iosco,White Pine Library Cooperative,No,,,
+324,MI0195,Lenawee District Library,"Class 5: Serve 26,000-49,999",40771.0,Adrian,Lenawee,Woodlands Library Cooperative,Yes,Annual,$30/household,
+325,MI9025,Lincoln Park Public Library,"Class 5: Serve 26,000-49,999",38144.0,Lincoln Park,Wayne,The Library Network,No,,,
+326,MI0201,Loutit District Library,"Class 5: Serve 26,000-49,999",35540.0,Grand Haven,Ottawa,Lakeland Library Cooperative,Yes,Annual,75/family,
+327,MI0210,Madison Heights Public Library,"Class 5: Serve 26,000-49,999",29694.0,Madison Heights,Oakland,The Library Network,Yes,Annual,$100/Individual,
+328,MI0401,Mason County District Library,"Class 5: Serve 26,000-49,999",28646.0,Ludington,Mason,Mid-Michigan Library League,Yes,Annual,$20/person or $50/family,
+329,MI0248,Northville District Library,"Class 5: Serve 26,000-49,999",34467.0,Northville,Wayne,The Library Network,No,,,
+330,MI0251,Oak Park Public Library,"Class 5: Serve 26,000-49,999",29319.0,Oak Park,Oakland,The Library Network,Yes,Annual,100,
+331,MI0255,Orion Township Public Library,"Class 5: Serve 26,000-49,999",35394.0,Lake Orion,Oakland,The Library Network,Yes,Annual,200,
+332,MI0268,Peter White Public Library,"Class 5: Serve 26,000-49,999",36441.0,Marquette,Marquette,Superiorland Library Cooperative,Yes,Annual,$120 individual/12month; $65/individual/6month; $35/individual/3month or $180/family/12month; $95/family/6month; $50/family/3month,Yes
+333,MI0273,Plymouth District Library,"Class 5: Serve 26,000-49,999",36656.0,Plymouth,Wayne,The Library Network,Yes,Annual,150,
+334,MI0402,Redford Township District Library,"Class 5: Serve 26,000-49,999",48362.0,Redford,Wayne,The Library Network,Yes,Annual, $125/Household,
+335,MI0294,Romeo District Library,"Class 5: Serve 26,000-49,999",33839.0,Romeo,Macomb,Suburban Library Cooperative,Yes,Annual,$200,Yes
+336,MI0433,Romulus Public Library,"Class 5: Serve 26,000-49,999",39868.0,Romulus,Wayne,The Library Network,No,,,Yes
+337,MI0295,Roseville Public Library,"Class 5: Serve 26,000-49,999",47299.0,Roseville,Macomb,Suburban Library Cooperative,Yes,Annual,$200/SLC,
+338,MI0300,Saline District Library,"Class 5: Serve 26,000-49,999",26376.0,Saline,Washtenaw,The Library Network,Yes,Annual,$150 Individual/Family,
+339,MI0261,Shiawassee District Library,"Class 5: Serve 26,000-49,999",27920.0,Owosso,Shiawassee,Mideastern Michigan Library Cooperative,Yes,Annual,$82/Family,
+340,MI0434,Southgate Veterans Memorial Library,"Class 5: Serve 26,000-49,999",30047.0,Southgate,Wayne,The Library Network,No,,,
+341,MI0022,Superior District Library,"Class 5: Serve 26,000-49,999",43031.0,Sault Ste Marie,Chippewa,Superiorland Library Cooperative,Yes,Annual,$80/individual,Yes
+342,MI0345,Van Buren District Library,"Class 5: Serve 26,000-49,999",44265.0,Decatur,Van Buren,Southwest Michigan Library Cooperative,Yes,Annual,75/household,Yes
+343,MI0366,White Lake Township Library,"Class 5: Serve 26,000-49,999",30019.0,White Lake,Oakland,The Library Network,No,,,
+344,MI0012,Ann Arbor District Library,"Class 6: Serve 50,000+",163590.0,Ann Arbor,Washtenaw,Non-member,Yes,Annual,$150/Family,
+345,MI0021,Bay County Library System,"Class 6: Serve 50,000+",107681.0,Bay City,Bay,Mideastern Michigan Library Cooperative,Yes,Annual,$50/Individual,No
+346,MI0052,Canton Public Library,"Class 6: Serve 50,000+",90173.0,Canton,Wayne,The Library Network,Yes,Annual,140,
+347,MI0424,Capital Area District Libraries,"Class 6: Serve 50,000+",238859.0,Lansing,Ingham,Mideastern Michigan Library Cooperative,Yes,Annual,"$50/ind, $75/fam",
+348,MI0348,Chippewa River District Library System,"Class 6: Serve 50,000+",51640.0,Mount Pleasant,Isabella,Mideastern Michigan Library Cooperative,Yes,Annual,130/household,
+349,MI0397,Clinton-Macomb Public Library,"Class 6: Serve 50,000+",169833.0,Clinton Township,Macomb,Suburban Library Cooperative,Yes,Annual,$200/family/coopwide,
+350,MI0425,Dearborn Heights City Libraries,"Class 6: Serve 50,000+",57774.0,Dearborn Heights,Wayne,The Library Network,Yes,Annual,80,
+351,MI0078,Dearborn Public Library,"Class 6: Serve 50,000+",98153.0,Dearborn,Wayne,The Library Network,Yes,Annual,$100/family,
+352,MI0083,Detroit Public Library,"Class 6: Serve 50,000+",713777.0,Detroit,Wayne,Detroit Library Cooperative,Yes,Annual,$100/individual,
+353,MI0105,Farmington Community Library,"Class 6: Serve 50,000+",90112.0,Farmington Hills,Oakland,The Library Network,No,,,
+354,MI0111,Flint Public Library,"Class 6: Serve 50,000+",102434.0,Flint,Genesee,Mideastern Michigan Library Cooperative,No,,,
+355,MI0123,Genesee District Library,"Class 6: Serve 50,000+",332567.0,Flint,Genesee,Mideastern Michigan Library Cooperative,Yes,Annual,100/family,Yes
+356,MI0129,Grace A. Dow Memorial Library,"Class 6: Serve 50,000+",76707.0,Midland,Midland,Mideastern Michigan Library Cooperative,Yes,Annual,$125 family,Yes
+357,MI0131,Grand Rapids Public Library,"Class 6: Serve 50,000+",188040.0,Grand Rapids,Kent,Lakeland Library Cooperative,Yes,Annual,60/family/6 mos - $115/family/yr,
+358,MI0134,Grosse Pointe Public Library,"Class 6: Serve 50,000+",51133.0,Grosse Pointe Farms,Wayne,The Library Network,Yes,Annual,200.00,
+359,MI0150,Herrick District Library,"Class 6: Serve 50,000+",102423.0,Holland,Ottawa,Lakeland Library Cooperative,Yes,Annual,$100,Yes
+360,MI0160,Howell Carnegie District Library,"Class 6: Serve 50,000+",52529.0,Howell,Livingston,The Library Network,Yes,Annual,$30 individual $90 family,
+361,MI0175,Jackson District Library,"Class 6: Serve 50,000+",160248.0,Jackson,Jackson,Woodlands Library Cooperative,Yes,Annual,$75.00,
+362,MI0180,Kalamazoo Public Library,"Class 6: Serve 50,000+",123979.0,Kalamazoo,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,$210/Family,
+363,MI0182,Kent District Library,"Class 6: Serve 50,000+",395660.0,Comstock Park,Kent,Lakeland Library Cooperative,Yes,Annual,84.00,
+364,MI0190,Lapeer District Library,"Class 6: Serve 50,000+",60006.0,Lapeer,Lapeer,Mideastern Michigan Library Cooperative,Yes,Annual,$45/household,
+365,MI0200,Livonia Public Library,"Class 6: Serve 50,000+",96942.0,Livonia,Wayne,The Library Network,Yes,Annual,100/individual,
+366,MI0233,Monroe County Library System,"Class 6: Serve 50,000+",149955.0,Monroe,Monroe,Woodlands Library Cooperative,Yes,Annual,100.00,
+367,MI0240,Muskegon Area District Library,"Class 6: Serve 50,000+",105852.0,Muskegon,Muskegon,Lakeland Library Cooperative,Yes,Annual,75,
+368,MI0250,Novi Public Library,"Class 6: Serve 50,000+",55374.0,Novi,Oakland,The Library Network,Yes,Annual,111,
+369,MI0274,Pontiac Public Library,"Class 6: Serve 50,000+",59515.0,Pontiac,Oakland,The Library Network,No,,,
+370,MI0277,Portage District Library,"Class 6: Serve 50,000+",52170.0,Portage,Kalamazoo,Southwest Michigan Library Cooperative,Yes,Annual,$176/Household; $88.00/Senior Citizen,
+371,MI0299,Public Libraries of Saginaw,"Class 6: Serve 50,000+",124690.0,Saginaw,Saginaw,Mideastern Michigan Library Cooperative,Yes,Annual,50,Yes
+372,MI0293,Rochester Hills Public Library,"Class 6: Serve 50,000+",100485.0,Rochester,Oakland,The Library Network,No,,,Yes
+373,MI0296,Royal Oak Public Library,"Class 6: Serve 50,000+",57236.0,Royal Oak,Oakland,The Library Network,Yes,Annual,$100/individual,
+374,MI0321,Saint Clair County Library System,"Class 6: Serve 50,000+",160312.0,Port Huron,Saint Clair,The Library Network,Yes,Annual,65.00,Yes
+375,MI0322,Saint Clair Shores Public Library,"Class 6: Serve 50,000+",59715.0,St. Clair Shores,Macomb,Suburban Library Cooperative,Yes,Annual,200/Family,No
+376,MI0308,Shelby Township Library,"Class 6: Serve 50,000+",73804.0,Shelby Township,Macomb,Suburban Library Cooperative,No,,,
+377,MI0316,Southfield Public Library,"Class 6: Serve 50,000+",75814.0,Southfield,Oakland,The Library Network,No,,,Yes
+378,MI0325,Sterling Heights Public Library,"Class 6: Serve 50,000+",129699.0,Sterling Heights,Macomb,Suburban Library Cooperative,Yes,Annual,$200/Family,
+379,MI9024,Taylor Community Library,"Class 6: Serve 50,000+",63131.0,Taylor,Wayne,The Library Network,No,,,
+380,MI0342,Traverse Area District Library,"Class 6: Serve 50,000+",97396.0,Traverse City,Grand Traverse,Northland Library Cooperative,Yes,Annual, $100/family; $50/six months,
+381,MI9020,Trenton Veteran's Memorial Library,"Class 6: Serve 50,000+",72726.0,Trenton,Wayne,The Library Network,No,,,Yes
+382,MI0343,Troy Public Library,"Class 6: Serve 50,000+",80980.0,Troy,Oakland,Suburban Library Cooperative,Yes,Annual,$200/family outside Suburban Library Cooperative,
+383,MI0356,Warren Public Library,"Class 6: Serve 50,000+",134056.0,Warren,Macomb,Suburban Library Cooperative,Yes,Annual,$200 per family,No
+384,MI0358,Waterford Township Public Library,"Class 6: Serve 50,000+",71997.0,Waterford,Oakland,The Library Network,No,,,
+385,MI0362,West Bloomfield Township Public Library,"Class 6: Serve 50,000+",71755.0,West Bloomfield,Oakland,The Library Network,No,,,Yes
+386,MI0371,Willard Public Library,"Class 6: Serve 50,000+",89779.0,Battle Creek,Calhoun,Southwest Michigan Library Cooperative,Yes,Annual,150.00,
+387,MI0415,William P. Faust Public Library of Westland,"Class 6: Serve 50,000+",84094.0,Westland,Wayne,The Library Network,Yes,Annual,40.00,
+388,MI0377,Ypsilanti District Library,"Class 6: Serve 50,000+",82974.0,Ypsilanti,Washtenaw,The Library Network,Yes,Annual,150,
+389,,,,,,,,,,,
+390,,Total Libraries Reporting (N),389,,,,,,,,
+391,,,,,,,,,,,
+392,End of worksheet,,,,,,,,,,

@@ -1,0 +1,403 @@
+,FSCS,Location,Library Class,"Director's Certification Level (I, II, III, or IV)",Director Minimum Salary,Director Maximum Salary,Director Average Hrs/Wk,Health Insurance,Dental Insurance,Vision Insurance,Life Insurance,Pension,Paid Sick Leave,Paid Vacation,Paid Personal Days,Paid Holidays,Deferred Compensation,Disability,Longevity,Other Benefits
+0,MI0147,Alden District Library,"Class 1: Serve 3,999 or less",III,41090,41090,40,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+1,MI9010,Ashley District Library,"Class 1: Serve 3,999 or less",III,0,0,40,No,No,No,No,No,No,No,No,No,No,No,No,
+2,MI0023,Beaver Island District Library,"Class 1: Serve 3,999 or less",III,43500,45000,DNR,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,
+3,MI0024,Bellaire Public Library,"Class 1: Serve 3,999 or less",III,25000,37000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+4,MI0025,Bellevue Township Library,"Class 1: Serve 3,999 or less",III,22900,23587,25,No,No,No,No,No,No,No,Yes,Yes,No,No,No,
+5,MI0114,Benzie Shores District Library,"Class 1: Serve 3,999 or less",I,50000,60000,40,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+6,MI0029,Benzonia Public Library,"Class 1: Serve 3,999 or less",IV,24239,28288,32,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+7,MI0033,Betsie Valley District Library,"Class 1: Serve 3,999 or less",IV,19986,19986,18,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+8,MI0048,Burr Oak Township Library,"Class 1: Serve 3,999 or less",IV,16800,17500,18,No,No,No,No,No,No,No,No,No,No,No,No,
+9,MI0053,Carp Lake Township Library,"Class 1: Serve 3,999 or less",IV,10140,15000,20,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+10,MI0058,Central Lake District Library,"Class 1: Serve 3,999 or less",IV,DNR,DNR,40,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+11,MI0062,Chase Township Public Library,"Class 1: Serve 3,999 or less",IV,11911,15932,27,No,No,No,No,No,No,Yes,No,No,No,No,No,
+12,MI0065,Clinton Township Public Library,"Class 1: Serve 3,999 or less",II,40000,45000,35,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+13,MI0068,Colon Township Library,"Class 1: Serve 3,999 or less",IV,32100,32100,32,No,No,No,No,No,Yes,No,No,Yes,No,No,No,
+14,MI0069,Columbia Township Library,"Class 1: Serve 3,999 or less",II,12000,23000,25,No,No,No,No,No,No,No,No,No,No,No,No,
+15,MI0076,Crooked Tree District Library,"Class 1: Serve 3,999 or less",I,38000,39000,41,No,No,No,No,No,No,No,Yes,No,No,No,No,
+16,MI0429,Croton Township Library,"Class 1: Serve 3,999 or less",IV,23500,25000,30,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Mers and Aflac
+17,MI0077,Crystal Falls District Community Library,"Class 1: Serve 3,999 or less",IV,28080,31031,31,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,
+18,MI0417,Curtis Township Library,"Class 1: Serve 3,999 or less",IV,15548,15548,23,No,No,No,No,No,No,No,No,No,No,No,No,
+19,MI0034,Darcy Library of Beulah,"Class 1: Serve 3,999 or less",III,28000,31000,35,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+20,MI0099,Elk Township Library,"Class 1: Serve 3,999 or less",IV,26299,26299,35,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+21,MI0100,Elsie Public Library,"Class 1: Serve 3,999 or less",IV,18000,25000,25,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+22,MI0103,Fairgrove District Library,"Class 1: Serve 3,999 or less",III,49335,49335,33,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+23,MI0109,Fife Lake Public Library,"Class 1: Serve 3,999 or less",IV,25000,39170,35,No,No,No,No,No,No,No,Yes,Yes,No,No,No,
+24,MI0115,Franklin Public Library,"Class 1: Serve 3,999 or less",II,49006,50000,29,No,No,No,No,No,No,Yes,Yes,No,No,No,No,
+25,MI0120,Galien Township Public Library,"Class 1: Serve 3,999 or less",IV,35000,37000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+26,MI0376,George W. Spindler Memorial Library,"Class 1: Serve 3,999 or less",IV,20166,20166,20,No,No,No,No,No,No,No,No,No,No,No,No,
+27,MI0128,Glen Lake Community Library,"Class 1: Serve 3,999 or less",I,38500,58000,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+28,MI0436,Goodland Township Library,"Class 1: Serve 3,999 or less",IV,14560,17472,20,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+29,MI0155,Homer Public Library,"Class 1: Serve 3,999 or less",IV,18000,38500,45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,
+30,MI0167,Indian River Area Library,"Class 1: Serve 3,999 or less",III,32000,34000,36,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+31,MI0187,Lake Linden-Hubbell School/Public Library,"Class 1: Serve 3,999 or less",IV,10000,20000,20,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,
+32,MI0191,Lawrence Memorial Public Library,"Class 1: Serve 3,999 or less",IV,500,2000,20,No,No,No,No,No,No,No,No,No,No,No,No,
+33,MI0192,Lawton Public Library,"Class 1: Serve 3,999 or less",I,36480,38400,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+34,MI0193,Leelanau Township Library,"Class 1: Serve 3,999 or less",III,40125,44670,40,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,401K Retirement
+35,MI0197,LeRoy Community Library,"Class 1: Serve 3,999 or less",III,0,20800,20,No,No,No,No,No,No,No,No,No,No,No,No,Training
+36,MI0199,Litchfield District Library,"Class 1: Serve 3,999 or less",IV,18200,18200,24,No,No,No,No,No,No,Yes,No,No,No,No,No,
+37,MI0205,Lyons Township District Library,"Class 1: Serve 3,999 or less",DNR,29640,33592,38,No,No,No,No,No,No,No,Yes,Yes,No,No,No,
+38,MI0207,Mackinac Island Public Library,"Class 1: Serve 3,999 or less",IV,35000,41000,38,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+39,MI0215,Maple Rapids Public Library,"Class 1: Serve 3,999 or less",IV,10450,10450,20,No,No,No,No,No,No,No,No,No,No,No,No,
+40,MI0227,Merrill District Library,"Class 1: Serve 3,999 or less",IV,17000,18920,30,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+41,MI0238,Mulliken District Library,"Class 1: Serve 3,999 or less",IV,16494,17905,20,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+42,MI0247,North Branch Township Library,"Class 1: Serve 3,999 or less",IV,37000,38110,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,
+43,MI0254,Ontonagon Township Library,"Class 1: Serve 3,999 or less",III,15000,30000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Printing; extended checkout
+44,MI0256,Osceola Township School Public Library,"Class 1: Serve 3,999 or less",IV,27000,29000,32,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,
+45,MI0267,Pentwater Township Library,"Class 1: Serve 3,999 or less",III,38560,41000,40,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,
+46,MI0427,Ray Township Public Library,"Class 1: Serve 3,999 or less",I,12511,25804,23,No,No,No,No,No,No,No,No,No,No,No,No,
+47,MI0285,Republic-Michigamme Public Library,"Class 1: Serve 3,999 or less",III,14399,14688,16,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+48,MI0287,Richfield Township Public Library,"Class 1: Serve 3,999 or less",III,22932,26208,28,No,No,No,No,No,No,Yes,Yes,No,No,No,No,
+49,MI0289,Richland Township Library,"Class 1: Serve 3,999 or less",IV,21850,22013,32,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+50,MI0291,Richmond Township Library,"Class 1: Serve 3,999 or less",IV,13000,17000,26,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,
+51,MI0305,Schoolcraft Community Library,"Class 1: Serve 3,999 or less",DNR,33218,37370,40,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,PTO
+52,MI0307,Seville Township Public Library,"Class 1: Serve 3,999 or less",IV,17550,21060,25,No,No,No,No,No,No,No,No,Yes,No,No,No,
+53,MI0311,Sleeper Public Library,"Class 1: Serve 3,999 or less",IV,28000,29500,35,No,No,No,No,No,No,Yes,No,No,No,No,No,2 weeks paid vacation per year
+54,MI0312,Sodus Township Library,"Class 1: Serve 3,999 or less",III,14880,14880,20,No,No,No,No,No,No,No,Yes,No,No,No,No,3 snow days
+55,MI0327,Sunfield District Library,"Class 1: Serve 3,999 or less",IV,23649,24606,40,No,No,No,No,No,No,Yes,No,Yes,No,No,No,2 weeks paid vacation
+56,MI0334,Tekonsha Township Public Library,"Class 1: Serve 3,999 or less",IV,15000,19000,24,No,No,No,No,No,No,No,No,Yes,No,No,No,
+57,MI0341,Topinabee Public Library,"Class 1: Serve 3,999 or less",IV,18096,18850,24,No,No,No,No,No,No,No,No,Yes,No,No,No,
+58,MI0346,Vermontville Township Library,"Class 1: Serve 3,999 or less",IV,24200,25500,32,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+59,MI0350,Wakefield Public Library,"Class 1: Serve 3,999 or less",III,29952,29952,36,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+60,MI0351,Waldron District Library,"Class 1: Serve 3,999 or less",III,22680,22680,35,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+61,MI0352,Walkerville Public/School Library,"Class 1: Serve 3,999 or less",IV,9500,12000,15,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+62,MI0359,Watertown Township Library,"Class 1: Serve 3,999 or less",IV,13000,15000,34,No,No,No,No,No,No,No,No,No,No,No,No,
+63,MI0365,Wheatland Township Library,"Class 1: Serve 3,999 or less",IV,26624,27456,32,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,
+64,MI0369,Whitefish Township Community Library,"Class 1: Serve 3,999 or less",DNR,9500,9500,15,No,No,No,No,No,No,No,No,No,No,No,No,
+65,MI0375,Wolverine Community Library,"Class 1: Serve 3,999 or less",IV,21840,26208,35,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,
+66,MI0405,Addison Township Public Library,"Class 2: Serve 4,000-6,999",I,33000,46000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+67,MI0149,Almont District Library,"Class 2: Serve 4,000-6,999",IV,45000,52000,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+68,MI0013,Armada Free Public Library,"Class 2: Serve 4,000-6,999",I,DNR,DNR,DNR,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+69,MI0014,Athens Community Library,"Class 2: Serve 4,000-6,999",II,15600,15600,20,No,No,No,No,No,No,No,Yes,Yes,No,No,No,
+70,MI0018,Bad Axe District Library,"Class 2: Serve 4,000-6,999",III,35000,50000,40,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+71,MI0020,Barryton Public Library,"Class 2: Serve 4,000-6,999",IV,43000,43000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+72,MI0032,Bessemer Public Library,"Class 2: Serve 4,000-6,999",I,44467,44467,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,
+73,MI0042,Bridgman Public Library,"Class 2: Serve 4,000-6,999",I,51600,55000,40,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,benefits stipend for full-time employees
+74,MI0044,Brown City Public Library,"Class 2: Serve 4,000-6,999",IV,27000,27000,32,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+75,MI0051,Camden Township Library,"Class 2: Serve 4,000-6,999",IV,20384,21840,28,No,No,No,No,No,No,Yes,No,Yes,No,No,No,FICA
+76,MI0066,Coleman Area Library,"Class 2: Serve 4,000-6,999",III,33178,33178,33,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+77,MI0071,Constantine Township Library,"Class 2: Serve 4,000-6,999",IV,33127,42744,31,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+78,MI0080,Deckerville Public Library,"Class 2: Serve 4,000-6,999",DNR,17342,19225,29,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+79,MI0373,Dorothy Hull Library - Windsor Township,"Class 2: Serve 4,000-6,999",I,40412,40412,35,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+80,MI0088,Dowling Public Library,"Class 2: Serve 4,000-6,999",IV,17110,22259,22,No,No,No,No,No,No,Yes,Yes,No,No,No,No,
+81,MI0089,Dryden Township Library,"Class 2: Serve 4,000-6,999",IV,30000,32000,32,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+82,MI0098,Elk Rapids District Library,"Class 2: Serve 4,000-6,999",III,57250,59800,40,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+83,MI0112,Forsyth Township Public Library,"Class 2: Serve 4,000-6,999",IV,20000,37000,40,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Retirement/FSA
+84,MI0117,Freeport District Library,"Class 2: Serve 4,000-6,999",III,24917,25861,22,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+85,MI0140,Harbor Beach Area District Library,"Class 2: Serve 4,000-6,999",IV,35000,62000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+86,MI0144,Hartford Public Library,"Class 2: Serve 4,000-6,999",IV,30000,45000,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+87,MI0151,Hesperia Community Library,"Class 2: Serve 4,000-6,999",III,34000,34000,30,No,No,No,No,No,No,No,No,No,No,No,No,
+88,MI0154,Home Township Library,"Class 2: Serve 4,000-6,999",IV,20000,30000,20,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+89,MI0157,Hopkins District Library,"Class 2: Serve 4,000-6,999",II,15000,25000,25,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+90,MI0159,Howe Memorial Library,"Class 2: Serve 4,000-6,999",IV,24000,32175,33,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+91,MI0161,Hudson Carnegie District Library,"Class 2: Serve 4,000-6,999",IV,31200,36000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+92,MI0170,Interlochen Public Library,"Class 2: Serve 4,000-6,999",III,46000,46000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+93,MI0172,Ironwood Carnegie Library,"Class 2: Serve 4,000-6,999",IV,23000,32000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+94,MI0174,J. C. Wheeler Public Library,"Class 2: Serve 4,000-6,999",IV,24872,24872,32,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+95,MI0176,Jacquelin E. Opperman Memorial Library,"Class 2: Serve 4,000-6,999",IV,15000,26000,35,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,
+96,MI0178,Jonesville District Library,"Class 2: Serve 4,000-6,999",IV,31574,32531,40,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Year End Bonus
+97,MI0179,Jordan Valley District Library,"Class 2: Serve 4,000-6,999",I,21000,71500,40,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+98,MI0188,Lake Odessa Community Library,"Class 2: Serve 4,000-6,999",IV,37543,37543,36,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+99,MI0422,Leighton Township Library,"Class 2: Serve 4,000-6,999",III,33586,35615,30,No,No,No,No,No,No,Yes,No,Yes,No,No,No,"Christmas bonus, free meeting room use, no fines"
+100,MI0194,Leland Township Public Library,"Class 2: Serve 4,000-6,999",IV,43575,45750,40,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+101,MI0203,Luther Area Public Library,"Class 2: Serve 4,000-6,999",IV,13000,15600,22,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Death in the immediate family paid
+102,MI0206,M. Alice Chapin Memorial Library,"Class 2: Serve 4,000-6,999",IV,26426,26426,33,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+103,MI0208,Mackinaw Area Public Library,"Class 2: Serve 4,000-6,999",IV,25000,38000,35,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,"birthday, jury duty, funeral pay"
+104,MI0211,Mancelona Township Library,"Class 2: Serve 4,000-6,999",IV,24370,26040,35,No,No,No,No,No,No,No,No,No,No,No,No,
+105,MI0216,Marcellus Township Wood Memorial Library,"Class 2: Serve 4,000-6,999",I,44290,44290,38,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+106,MI0217,Marlette District Library,"Class 2: Serve 4,000-6,999",IV,16000,24000,32,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,
+107,MI0221,Mayville District Public Library,"Class 2: Serve 4,000-6,999",III,38170,38170,40,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+108,MI0418,McBain Community Library,"Class 2: Serve 4,000-6,999",IV,32203,32203,38,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,
+109,MI0225,Mendon Township Library,"Class 2: Serve 4,000-6,999",IV,19050,31459,32,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+110,MI0235,Moore Public Library,"Class 2: Serve 4,000-6,999",III,37417,37417,40,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,
+111,MI0236,Morton Township Public Library,"Class 2: Serve 4,000-6,999",I,35000,45000,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+112,MI0243,New Buffalo Township Public Library,"Class 2: Serve 4,000-6,999",IV,42400,66500,40,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+113,MI0244,Newaygo Area District Library,"Class 2: Serve 4,000-6,999",III,38000,45000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Stipend to use for health benefits. Stipend to use for health benefits.
+114,MI0246,North Adams Community Memorial Library,"Class 2: Serve 4,000-6,999",III,16900,16900,30,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+115,MI0249,Nottawa Township Library,"Class 2: Serve 4,000-6,999",III,29500,39000,24,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+116,MI0260,Ovid Public Library,"Class 2: Serve 4,000-6,999",III,DNR,DNR,30,No,No,No,No,No,Yes,Yes,No,No,No,No,No,
+117,MI0264,Pathfinder Community Library,"Class 2: Serve 4,000-6,999",IV,27000,34000,40,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,
+118,MI0266,Peninsula Community Library,"Class 2: Serve 4,000-6,999",III,DNR,DNR,DNR,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+119,MI0270,Pigeon District Library,"Class 2: Serve 4,000-6,999",III,35000,40000,40,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+120,MI0272,Pittsford Public Library,"Class 2: Serve 4,000-6,999",IV,25000,35000,28,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+121,MI0275,Port Austin Township Library,"Class 2: Serve 4,000-6,999",IV,15000,34000,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+122,MI0028,Potterville-Benton Township District Library,"Class 2: Serve 4,000-6,999",IV,19187,19187,27,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,two snow days
+123,MI0280,Putnam District Library,"Class 2: Serve 4,000-6,999",IV,24000,29000,31,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+124,MI0281,Rauchholz Memorial Library,"Class 2: Serve 4,000-6,999",III,21000,42000,45,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,
+125,MI0283,Reading Community Library,"Class 2: Serve 4,000-6,999",III,27300,29120,35,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+126,MI0380,Reese Unity District Library,"Class 2: Serve 4,000-6,999",III,DNR,DNR,DNR,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+127,MI0064,River Rapids District Library,"Class 2: Serve 4,000-6,999",III,28000,33000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+128,MI0125,Roscommon Area District Library,"Class 2: Serve 4,000-6,999",III,35500,50000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+129,MI0323,Saint Ignace Public Library,"Class 2: Serve 4,000-6,999",IV,38000,42000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+130,MI0302,Sanilac District Library,"Class 2: Serve 4,000-6,999",IV,38000,42000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Holiday Bonus
+131,MI0304,Saugatuck-Douglas District Library,"Class 2: Serve 4,000-6,999",I,54730,54730,35,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+132,MI9007,Sebewaing Township Library,"Class 2: Serve 4,000-6,999",IV,25000,35000,34,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+133,MI0432,Sherman Township Library,"Class 2: Serve 4,000-6,999",III,45240,45240,40,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+134,MI0324,Stair District Library,"Class 2: Serve 4,000-6,999",III,32000,40640,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,
+135,MI0329,Suttons Bay-Bingham District Library,"Class 2: Serve 4,000-6,999",II,58000,58000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+136,MI0332,Taymouth Township Library,"Class 2: Serve 4,000-6,999",IV,29000,31395,35,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+137,MI0110,Thomas E. Fleschner Memorial Library,"Class 2: Serve 4,000-6,999",III,41600,42800,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+138,MI0339,Three Oaks Township Public Library,"Class 2: Serve 4,000-6,999",IV,DNR,26624,32,No,No,No,No,No,No,Yes,No,No,No,No,No,
+139,MI0344,Utica Public Library,"Class 2: Serve 4,000-6,999",III,33470,45700,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,
+140,MI0347,Vernon District Public Library,"Class 2: Serve 4,000-6,999",IV,20000,36000,32,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+141,MI0353,Walled Lake City Library,"Class 2: Serve 4,000-6,999",II,56000,65000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,
+142,MI0360,Watervliet District Library,"Class 2: Serve 4,000-6,999",II,29000,36000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+143,MI0367,White Pigeon Township Library,"Class 2: Serve 4,000-6,999",IV,30000,55000,32,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+144,MI0372,Aitkin Memorial District Library,"Class 3: Serve 7,000-11,999",II,37296,50429,40,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,
+145,MI0407,Alanson Area Public Library,"Class 3: Serve 7,000-11,999",I,38592,39310,40,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Paid Snow Days
+146,MI0408,Albion District Library,"Class 3: Serve 7,000-11,999",I,55000,65000,35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Extraordinary Leave Bank
+147,MI0409,Alcona County Library,"Class 3: Serve 7,000-11,999",I,50000,60000,40,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,
+148,MI0412,Alma Public Library,"Class 3: Serve 7,000-11,999",I,54453,70806,40,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+149,MI0010,Alvah N. Belding Memorial Library,"Class 3: Serve 7,000-11,999",III,31000,50186,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,
+150,MI0016,Augusta-Ross Township District Library,"Class 3: Serve 7,000-11,999",III,61000,69000,44,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Employee match for employee IRA contributions
+151,MI9026,Bath Township Public Library,"Class 3: Serve 7,000-11,999",I,45000,47500,40,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,401 K
+152,MI0031,Berrien Springs Community Library,"Class 3: Serve 7,000-11,999",III,33000,50000,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Contribution to 403b
+153,MI0036,Blair Memorial Library,"Class 3: Serve 7,000-11,999",I,56221,72479,36,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Health Care Savings Plan
+154,MI0038,Boyne District Library,"Class 3: Serve 7,000-11,999",II,51000,64000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Dependent Health Coverage 
+155,MI0045,Buchanan District Library,"Class 3: Serve 7,000-11,999",II,35000,55000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+156,MI0046,Bullard Sanford Memorial Library,"Class 3: Serve 7,000-11,999",I,DNR,DNR,DNR,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,
+157,MI0050,Calumet Public School Library,"Class 3: Serve 7,000-11,999",III,46425,51068,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,
+158,MI0168,Caro Area District Library,"Class 3: Serve 7,000-11,999",I,56393,59973,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+159,MI0054,Carson City Public Library,"Class 3: Serve 7,000-11,999",III,51919,51919,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+160,MI0056,Cedar Springs Public Library,"Class 3: Serve 7,000-11,999",III,37423,37423,45,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+161,MI0057,Center Line Public Library,"Class 3: Serve 7,000-11,999",II,46675.2,46675.2,40,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,"Three separate Floating Holiday days, including Birthday."
+162,MI0060,Charlevoix Public Library,"Class 3: Serve 7,000-11,999",I,60000,70000,38,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+163,MI0072,Coopersville Area District Library,"Class 3: Serve 7,000-11,999",III,44720,48000,40,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,bereavement leave - flex fund for dental and vision expenses $500 per full time employee paid for by the library
+164,MI0081,Delton District Library,"Class 3: Serve 7,000-11,999",III,29000,35000,36,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Paid sick pay if due to Covid
+165,MI0086,Dorr Township Library,"Class 3: Serve 7,000-11,999",II,2000,DNR,40,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+166,MI0095,Eau Claire District Library,"Class 3: Serve 7,000-11,999",I,48600,49600,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+167,MI9021,Ecorse Public Library,"Class 3: Serve 7,000-11,999",I,44928,46000,29,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+168,MI0102,Evart Public Library,"Class 3: Serve 7,000-11,999",IV,30000,35000,38,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,
+169,MI0177,Frankenmuth James E. Wickson District Library,"Class 3: Serve 7,000-11,999",III,52000,62000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+170,MI0119,Galesburg-Charleston Memorial District Library,"Class 3: Serve 7,000-11,999",I,DNR,37500,32,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+171,MI0162,Gary Byker Memorial Library of Hudsonville,"Class 3: Serve 7,000-11,999",I,51314,69139,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+172,MI0126,Gladstone School & Public Library,"Class 3: Serve 7,000-11,999",III,52500,91000,DNR,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,
+173,MI0132,Grant Area District Library,"Class 3: Serve 7,000-11,999",II,45000,62200,DNR,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+174,MI0143,Hart Area Public Library,"Class 3: Serve 7,000-11,999",III,31000,35000,30,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,
+175,MI0148,Henika District Library,"Class 3: Serve 7,000-11,999",II,40000,45000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+176,MI0232,Hillsdale Community Library,"Class 3: Serve 7,000-11,999",I,53000,65000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+177,MI0163,Huntington Woods Public Library,"Class 3: Serve 7,000-11,999",I,60175,78225,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+178,MI0186,Laingsburg Public Library,"Class 3: Serve 7,000-11,999",IV,35838,35838,40,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+179,MI0184,L'Anse Area School-Public Library,"Class 3: Serve 7,000-11,999",III,11310,16000,18,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,
+180,MI0196,Lenox Township Library,"Class 3: Serve 7,000-11,999",I,38500,51000,40,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,
+181,MI0290,Lois Wagner Memorial Library,"Class 3: Serve 7,000-11,999",II,37530,60000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+182,MI0212,Manchester District Library,"Class 3: Serve 7,000-11,999",III,40000,55000,38,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,
+183,MI0214,Manistique School & Public Library,"Class 3: Serve 7,000-11,999",III,25643,55000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+184,MI9018,Melvindale Public Library,"Class 3: Serve 7,000-11,999",I,36750,36750,30,No,No,No,No,No,Yes,No,No,No,Yes,No,No,
+185,MI0230,Millington Arbela District Library,"Class 3: Serve 7,000-11,999",II,36000,36000,40,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,
+186,MI0234,Montmorency County Public Libraries,"Class 3: Serve 7,000-11,999",I,37818,52265,40,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,HRA and HSA
+187,MI0239,Munising School Public Library,"Class 3: Serve 7,000-11,999",III,42778,42778,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+188,MI0241,Negaunee Public Library,"Class 3: Serve 7,000-11,999",I,28641,31824,40,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,
+189,MI0379,Northfield Township Area Library,"Class 3: Serve 7,000-11,999",III,65000,89975,37,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,HRA
+190,MI0257,Oscoda County Library,"Class 3: Serve 7,000-11,999",I,42436,42436,40,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,
+191,MI0263,Parchment Community Library,"Class 3: Serve 7,000-11,999",I,62986,62986,40,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,
+192,MI9012,Patmos Library,"Class 3: Serve 7,000-11,999",II,42000,45000,30,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,one free community room rental per year
+193,MI0122,Pere Marquette District Library,"Class 3: Serve 7,000-11,999",I,24500,55000,36,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+194,MI0271,Pinckney Community Public Library,"Class 3: Serve 7,000-11,999",I,92785,92785,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Employer paid HRA account
+195,MI0282,Rawson Memorial Library,"Class 3: Serve 7,000-11,999",I,35000,55000,45,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+196,MI0284,Reed City Area District Library,"Class 3: Serve 7,000-11,999",III,30000,38500,35,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+197,MI0288,Richland Community Library,"Class 3: Serve 7,000-11,999",III,36000,60000,38,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Limited Use Flex Spending
+198,MI9019,River Rouge Public Library,"Class 3: Serve 7,000-11,999",I,64854,66934,38,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,
+199,MI0165,Ruth Hughes Memorial District Library,"Class 3: Serve 7,000-11,999",I,54000,64000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,IRA
+200,MI0320,Saint Charles District Library,"Class 3: Serve 7,000-11,999",III,54224,54224,45,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+201,MI0423,Salem Township Library,"Class 3: Serve 7,000-11,999",IV,24359,38794,27,No,No,No,No,No,No,Yes,No,Yes,No,No,No,
+202,MI0301,Sandusky District Library,"Class 3: Serve 7,000-11,999",III,50000,52000,40,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,$450 Vision Reimbursement
+203,MI0303,Saranac Public Library,"Class 3: Serve 7,000-11,999",III,38000,55000,40,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,
+204,MI0428,Schultz-Holmes Memorial Library,"Class 3: Serve 7,000-11,999",III,49920,49920,40,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,
+205,MI0309,Shelby Area District Library,"Class 3: Serve 7,000-11,999",III,35000,38000,35,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,
+206,MI0314,South Haven Memorial Library,"Class 3: Serve 7,000-11,999",I,42000,60000,40,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,
+207,MI0317,Sparta Carnegie Township Library,"Class 3: Serve 7,000-11,999",III,36000,42000,35,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+208,MI0318,Spies Public Library,"Class 3: Serve 7,000-11,999",I,59238,59238,DNR,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,
+209,MI0328,Surrey Township Public Library,"Class 3: Serve 7,000-11,999",I,30000,50000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+210,MI0330,Tahquamenon Area Public Library,"Class 3: Serve 7,000-11,999",III,35568,49000,40,No,No,No,No,No,No,No,Yes,Yes,No,No,No,
+211,MI0331,Tamarack District Library,"Class 3: Serve 7,000-11,999",II,50000,55000,40,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,
+212,MI0335,Theodore A. Cutler Memorial Library,"Class 3: Serve 7,000-11,999",I,51707,51707,40,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,
+213,MI0336,Thomas Township Library,"Class 3: Serve 7,000-11,999",III,DNR,69577,40,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,
+214,MI0337,Thompson Home Public Library,"Class 3: Serve 7,000-11,999",III,37450,37450,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+215,MI0286,Timothy C. Hauenstein Reynolds Township Library,"Class 3: Serve 7,000-11,999",III,50466,50466,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,
+216,MI0354,Walton Erickson Public Library,"Class 3: Serve 7,000-11,999",IV,26000,28500,37,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,
+217,MI0363,West Branch District Library,"Class 3: Serve 7,000-11,999",I,43500,45000,40,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+218,MI0364,West Iron District Library,"Class 3: Serve 7,000-11,999",III,30000,55000,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,
+219,MI0091,White Cloud Community Library,"Class 3: Serve 7,000-11,999",IV,48500,55899,38,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Bereavement
+220,MI0370,White Lake Community Library,"Class 3: Serve 7,000-11,999",III,45000,55000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+221,MI0368,White Pine District Library,"Class 3: Serve 7,000-11,999",III,31512,31512,30,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Defined Contribution Retirement
+222,MI0406,Adrian District Library,"Class 4: Serve 12,000-25,999",I,64000,78000,40,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,
+223,MI0410,Allegan District Library,"Class 4: Serve 12,000-25,999",I,60000,70000,40,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+224,MI0015,Auburn Hills Public Library,"Class 4: Serve 12,000-25,999",I,65000,80000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+225,MI0017,Bacon Memorial District Library,"Class 4: Serve 12,000-25,999",I,63300,63300,39,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,
+226,MI0027,Benton Harbor Public Library,"Class 4: Serve 12,000-25,999",II,40000,40000,40,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Roth IRA
+227,MI0030,Berkley Public Library,"Class 4: Serve 12,000-25,999",I,72379,82774,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+228,MI0035,Big Rapids Community Library,"Class 4: Serve 12,000-25,999",I,DNR,DNR,DNR,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,457 Match
+229,MI0040,Brandon Township Public Library,"Class 4: Serve 12,000-25,999",I,58696,76585,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Retirement
+230,MI0041,Bridgeport Public Library,"Class 4: Serve 12,000-25,999",I,45000,65000,40,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,
+231,MI0026,Briggs District Library,"Class 4: Serve 12,000-25,999",I,70289,70289,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+232,MI0059,Charles A. Ransom District Library,"Class 4: Serve 12,000-25,999",II,60000,67000,45,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+233,MI0061,Charlotte Community Library,"Class 4: Serve 12,000-25,999",I,55000,60000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+234,MI0063,Cheboygan Area Public Library,"Class 4: Serve 12,000-25,999",I,45000,68000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,
+235,MI0223,Chelsea District Library,"Class 4: Serve 12,000-25,999",I,64109,84784,40,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+236,MI0067,Coloma Public Library,"Class 4: Serve 12,000-25,999",I,41000,65000,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+237,MI0070,Comstock Township Library,"Class 4: Serve 12,000-25,999",I,54000,63000,38,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Birthday
+238,MI0074,Crawford County Library,"Class 4: Serve 12,000-25,999",III,40000,90000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,
+239,MI0106,DeWitt District Library,"Class 4: Serve 12,000-25,999",I,63037,66500,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+240,MI0084,Dexter District Library,"Class 4: Serve 12,000-25,999",I,60000,80000,45,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,FSA
+241,MI0087,Dowagiac District Library,"Class 4: Serve 12,000-25,999",I,48000,58711,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+242,MI0094,Eaton Rapids Area District Library,"Class 4: Serve 12,000-25,999",I,50000,70000,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,
+243,MI0101,Escanaba Public Library,"Class 4: Serve 12,000-25,999",I,45000,67929,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,EAP
+244,MI0107,Fennville District Library,"Class 4: Serve 12,000-25,999",I,46500,64500,40,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+245,MI0108,Ferndale Area District Library,"Class 4: Serve 12,000-25,999",I,70000,82000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,"401 A, 457, Roth IRA"
+246,MI0133,Flat River Community Library,"Class 4: Serve 12,000-25,999",II,55000,60000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,401a match
+247,MI0421,Flat Rock Public Library,"Class 4: Serve 12,000-25,999",I,55000,55000,40,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,
+248,MI0113,Fowlerville District Library,"Class 4: Serve 12,000-25,999",I,70000,80000,35,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+249,MI0116,Fraser Public Library,"Class 4: Serve 12,000-25,999",I,56443,61634,35,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Bereavement
+250,MI0118,Fremont Area District Library,"Class 4: Serve 12,000-25,999",I,60000,70000,40,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Wellness Program
+251,MI9022,Fruitport District Library,"Class 4: Serve 12,000-25,999",DNR,45000,45000,40,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,
+252,MI0127,Gladwin County District Library,"Class 4: Serve 12,000-25,999",I,63758,63758,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Gym Membership
+253,MI0130,Grand Ledge Area District Library,"Class 4: Serve 12,000-25,999",I,60000,80000,40,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,ICHRA
+254,MI0137,Hamburg Township Library,"Class 4: Serve 12,000-25,999",I,75941,75941,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+255,MI0138,Hamtramck Public Library,"Class 4: Serve 12,000-25,999",I,45000,68000,40,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+256,MI0141,Harper Woods Public Library,"Class 4: Serve 12,000-25,999",I,55000,60000,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,
+257,MI0142,Harrison District Library,"Class 4: Serve 12,000-25,999",I,25000,50000,36,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,"Aflac, MERS 457 plan"
+258,MI0435,Harrison Township Public Library,"Class 4: Serve 12,000-25,999",I,60000,63000,40,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,
+259,MI0145,Hastings Public Library,"Class 4: Serve 12,000-25,999",II,50000,51500,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+260,MI0146,Hazel Park Memorial District Library,"Class 4: Serve 12,000-25,999",I,40000,55000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+261,MI0152,Highland Township Public Library,"Class 4: Serve 12,000-25,999",I,52000,65350,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+262,MI0153,Holly Township Library,"Class 4: Serve 12,000-25,999",II,45000,50000,40000,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+263,MI0158,Houghton Lake Public Library,"Class 4: Serve 12,000-25,999",II,39520,60000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+264,MI0378,Howard Miller Library,"Class 4: Serve 12,000-25,999",I,59127,76864,40,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Performance Incentive
+265,MI0136,Ionia Community Library,"Class 4: Serve 12,000-25,999",I,70200,70200,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,"Clothing allowance, Rotary membership fee"
+266,MI0173,Ishpeming Carnegie Public Library,"Class 4: Serve 12,000-25,999",I,56624,56624,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,
+267,MI0181,Kalkaska County Library,"Class 4: Serve 12,000-25,999",I,52000,56000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Sick time buyout 
+268,MI0431,Leanna Hicks Public Library of Inkster,"Class 4: Serve 12,000-25,999",II,55000,55000,40,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,
+269,MI0198,Lincoln Township Public Library,"Class 4: Serve 12,000-25,999",I,65000,80000,40,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Dental Allowance
+270,MI0204,Lyon Township Public Library,"Class 4: Serve 12,000-25,999",I,60000,74250,45,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+271,MI0242,MacDonald Public Library,"Class 4: Serve 12,000-25,999",I,39000,60840,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+272,MI0213,Manistee County Library,"Class 4: Serve 12,000-25,999",I,55000,71766,40,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,
+273,MI0218,Marshall District Library,"Class 4: Serve 12,000-25,999",I,63000,79000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,
+274,MI0220,Maud Preston Palenske Memorial Library,"Class 4: Serve 12,000-25,999",I,56300,76300,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+275,MI0226,Menominee County Library,"Class 4: Serve 12,000-25,999",I,49544,59432,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Membership in ALA
+276,MI0228,Milan Public Library,"Class 4: Serve 12,000-25,999",I,52500,65000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+277,MI0229,Milford Public Library,"Class 4: Serve 12,000-25,999",I,60000,82000,38,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,
+278,MI0231,Missaukee District Library,"Class 4: Serve 12,000-25,999",III,42000,48000,40,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Birthday off - paid
+279,MI0237,Mount Clemens Public Library,"Class 4: Serve 12,000-25,999",I,85000,103072,35,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,
+280,MI0245,Niles District Library,"Class 4: Serve 12,000-25,999",II,45000,75000,38,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,EAP
+281,MI0253,Ogemaw District Library,"Class 4: Serve 12,000-25,999",I,35000,42000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,24 business hours
+282,MI0258,Otsego County Library,"Class 4: Serve 12,000-25,999",I,60000,86000,40,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,"Section 125 FSA, Health Care Savings Plan"
+283,MI0259,Otsego District Public Library,"Class 4: Serve 12,000-25,999",I,69508.25,69508,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Health Savings Account
+284,MI0262,Oxford Public Library,"Class 4: Serve 12,000-25,999",I,75000,95000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+285,MI0265,Paw Paw District Library,"Class 4: Serve 12,000-25,999",I,67000,72000,40,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,27% of salary paid as stipend for benefits
+286,MI0269,Petoskey District Library,"Class 4: Serve 12,000-25,999",I,66000,81500,40,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,
+287,MI0276,Portage Lake District Library,"Class 4: Serve 12,000-25,999",II,47126,47126,40,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+288,MI0278,Portland District Library,"Class 4: Serve 12,000-25,999",I,38000,64866,40,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,
+289,MI0279,Presque Isle District Library,"Class 4: Serve 12,000-25,999",I,58500,72000,40,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,
+290,MI0292,Riverview Veterans Memorial Library,"Class 4: Serve 12,000-25,999",II,46000,64200,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+291,MI0315,Salem-South Lyon District Library,"Class 4: Serve 12,000-25,999",I,57568,90142,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Defined Contribution
+292,MI0355,Spring Lake District Library,"Class 4: Serve 12,000-25,999",I,DNR,DNR,DNR,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+293,MI0319,Springfield Township Library,"Class 4: Serve 12,000-25,999",I,DNR,81525,40,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+294,MI0326,Sturgis District Library,"Class 4: Serve 12,000-25,999",I,50000,73000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,
+295,MI0333,Tecumseh District Library,"Class 4: Serve 12,000-25,999",I,60000,68960,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+296,MI0338,Thornapple Kellogg School and Community Library,"Class 4: Serve 12,000-25,999",I,43576,88459,40,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,
+297,MI0340,Three Rivers Public Library,"Class 4: Serve 12,000-25,999",I,52530,54110,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,
+298,MI0349,Vicksburg District Library,"Class 4: Serve 12,000-25,999",I,48500,55000,40,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,
+299,MI0403,Wayne Public Library,"Class 4: Serve 12,000-25,999",I,60000,67600,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,
+300,MI0374,Wixom Public Library,"Class 4: Serve 12,000-25,999",I,53159,66449,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,
+301,MI9017,Allen Park Public Library,"Class 5: Serve 26,000-49,999",I,65000,80000,35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+302,MI0411,Allendale Township Library,"Class 5: Serve 26,000-49,999",II,49509,69313,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+303,MI0414,Alpena County Library,"Class 5: Serve 26,000-49,999",I,78711,78711,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+304,MI0019,Baldwin Public Library,"Class 5: Serve 26,000-49,999",I,86000,93995,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+305,MI0430,Belleville Area District Library,"Class 5: Serve 26,000-49,999",I,76000,94000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+306,MI0037,Bloomfield Township Public Library,"Class 5: Serve 26,000-49,999",I,120000,120000,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Personal Business & Emergency Time
+307,MI0039,Branch District Library,"Class 5: Serve 26,000-49,999",I,78000,78000,40,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,
+308,MI0043,Brighton District Library,"Class 5: Serve 26,000-49,999",I,74657,96640,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Long Term Disability, Flexible Spending accounts"
+309,MI0049,Cadillac-Wexford County Public Library,"Class 5: Serve 26,000-49,999",I,59051,59051,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,
+310,MI0055,Cass District Library,"Class 5: Serve 26,000-49,999",I,72000,72000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+311,MI0416,Chesterfield Township Library,"Class 5: Serve 26,000-49,999",I,83000,107000,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+312,MI0166,Clarkston Independence District Library,"Class 5: Serve 26,000-49,999",I,75000,95000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,
+313,MI0426,Commerce Township Community Library,"Class 5: Serve 26,000-49,999",I,72000,83000,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+314,MI0310,Community District Library,"Class 5: Serve 26,000-49,999",I,48000,59000,40,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,
+315,MI0075,Cromaine District Library,"Class 5: Serve 26,000-49,999",I,76000,106267,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+316,MI9009,Delta Township District Library,"Class 5: Serve 26,000-49,999",I,73051,94969,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+317,MI0085,Dickinson County Library,"Class 5: Serve 26,000-49,999",I,68075,68075,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,
+318,MI0093,East Lansing Public Library,"Class 5: Serve 26,000-49,999",I,83724,117219,45,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,
+319,MI0092,Eastpointe Memorial Library,"Class 5: Serve 26,000-49,999",I,65094,88853,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+320,MI0121,Garden City Public Library,"Class 5: Serve 26,000-49,999",I,45000,68728,40,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,
+321,MI0124,Georgetown Township Public Library,"Class 5: Serve 26,000-49,999",I,68000,85000,40,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+322,MI0135,Hackley Public Library,"Class 5: Serve 26,000-49,999",I,70000,94000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,
+323,MI0171,Iosco-Arenac District Library,"Class 5: Serve 26,000-49,999",I,52000,62000,40,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Health Savings Account
+324,MI0195,Lenawee District Library,"Class 5: Serve 26,000-49,999",I,56921,65634,38,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,
+325,MI9025,Lincoln Park Public Library,"Class 5: Serve 26,000-49,999",IV,60000,65000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+326,MI0201,Loutit District Library,"Class 5: Serve 26,000-49,999",I,83000,118400,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+327,MI0210,Madison Heights Public Library,"Class 5: Serve 26,000-49,999",I,90381,100413,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+328,MI0401,Mason County District Library,"Class 5: Serve 26,000-49,999",I,70226,70226,40,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+329,MI0248,Northville District Library,"Class 5: Serve 26,000-49,999",I,85000,92000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+330,MI0251,Oak Park Public Library,"Class 5: Serve 26,000-49,999",I,60000,75000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+331,MI0255,Orion Township Public Library,"Class 5: Serve 26,000-49,999",I,80000,93000,38,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,"Long Term, Short Term Disability"
+332,MI0268,Peter White Public Library,"Class 5: Serve 26,000-49,999",I,70000,79000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+333,MI0273,Plymouth District Library,"Class 5: Serve 26,000-49,999",I,94300,139600,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+334,MI0402,Redford Township District Library,"Class 5: Serve 26,000-49,999",I,82100,100171,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,457 Deferred Compensation
+335,MI0294,Romeo District Library,"Class 5: Serve 26,000-49,999",I,80000,92000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,$60 per month for cell phone
+336,MI0433,Romulus Public Library,"Class 5: Serve 26,000-49,999",I,70000,85000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+337,MI0295,Roseville Public Library,"Class 5: Serve 26,000-49,999",I,83505,92940,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Anniversary date for part-time employees
+338,MI0300,Saline District Library,"Class 5: Serve 26,000-49,999",I,84400,135000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,medical reimbursement
+339,MI0261,Shiawassee District Library,"Class 5: Serve 26,000-49,999",I,74129,87907,45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+340,MI0434,Southgate Veterans Memorial Library,"Class 5: Serve 26,000-49,999",I,56000,56000,40,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+341,MI0022,Superior District Library,"Class 5: Serve 26,000-49,999",I,66843,70488,35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,
+342,MI0345,Van Buren District Library,"Class 5: Serve 26,000-49,999",I,85000,95000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+343,MI0366,White Lake Township Library,"Class 5: Serve 26,000-49,999",I,79000,79000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+344,MI0012,Ann Arbor District Library,"Class 6: Serve 50,000+",I,126500,180950,50,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,
+345,MI0021,Bay County Library System,"Class 6: Serve 50,000+",I,89710,89710,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,
+346,MI0052,Canton Public Library,"Class 6: Serve 50,000+",I,95100,147400,37,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+347,MI0424,Capital Area District Libraries,"Class 6: Serve 50,000+",I,100000,125000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,125 Plan
+348,MI0348,Chippewa River District Library System,"Class 6: Serve 50,000+",I,61006,78354,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,"Tuition, Health Incentive"
+349,MI0397,Clinton-Macomb Public Library,"Class 6: Serve 50,000+",I,115131,151061,45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+350,MI0425,Dearborn Heights City Libraries,"Class 6: Serve 50,000+",I,68500,80000,45,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+351,MI0078,Dearborn Public Library,"Class 6: Serve 50,000+",I,92017,116565,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,
+352,MI0083,Detroit Public Library,"Class 6: Serve 50,000+",I,128585,188551,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes, Tuition Reimbursement
+353,MI0105,Farmington Community Library,"Class 6: Serve 50,000+",I,0,0,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Health Care Savings Plan
+354,MI0111,Flint Public Library,"Class 6: Serve 50,000+",I,91219,106224,60,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,
+355,MI0123,Genesee District Library,"Class 6: Serve 50,000+",I,102675,102675,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+356,MI0129,Grace A. Dow Memorial Library,"Class 6: Serve 50,000+",I,96750,125276,40,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,
+357,MI0131,Grand Rapids Public Library,"Class 6: Serve 50,000+",I,114587,146246,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+358,MI0134,Grosse Pointe Public Library,"Class 6: Serve 50,000+",I,1,110000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+359,MI0150,Herrick District Library,"Class 6: Serve 50,000+",I,89211,107894,50,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+360,MI0160,Howell Carnegie District Library,"Class 6: Serve 50,000+",I,75462,113194,42,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,
+361,MI0175,Jackson District Library,"Class 6: Serve 50,000+",I,108000,120000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+362,MI0180,Kalamazoo Public Library,"Class 6: Serve 50,000+",I,131968,131968,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+363,MI0182,Kent District Library,"Class 6: Serve 50,000+",I,DNR,DNR,50,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Gym membership
+364,MI0190,Lapeer District Library,"Class 6: Serve 50,000+",I,65000,85000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+365,MI0200,Livonia Public Library,"Class 6: Serve 50,000+",I,94348,104270,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+366,MI0233,Monroe County Library System,"Class 6: Serve 50,000+",I,118061,118061,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Long Term Disability, Personal Paid Days"
+367,MI0240,Muskegon Area District Library,"Class 6: Serve 50,000+",I,96000,96000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Healthcare Spending program
+368,MI0250,Novi Public Library,"Class 6: Serve 50,000+",I,85990,120386,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Defined Contribution 401A
+369,MI0274,Pontiac Public Library,"Class 6: Serve 50,000+",I,51000,80000,40,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,
+370,MI0277,Portage District Library,"Class 6: Serve 50,000+",I,70000,105000,45,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,401(a) Library Contributes 10% of Regular Wages; $200 Well Being Benefit
+371,MI0299,Public Libraries of Saginaw,"Class 6: Serve 50,000+",I,75000,87780,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,
+372,MI0293,Rochester Hills Public Library,"Class 6: Serve 50,000+",I,110726,157598,38,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Long term care
+373,MI0296,Royal Oak Public Library,"Class 6: Serve 50,000+",I,78504,95569,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Employer contribution to tax deferred annuity
+374,MI0321,Saint Clair County Library System,"Class 6: Serve 50,000+",I,86295,89746,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+375,MI0322,Saint Clair Shores Public Library,"Class 6: Serve 50,000+",I,87340,102753,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+376,MI0308,Shelby Township Library,"Class 6: Serve 50,000+",I,87165,102232,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,"sick days-cash comp time-cash, HSA and retiree health HSA"
+377,MI0316,Southfield Public Library,"Class 6: Serve 50,000+",I,80016,108258,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+378,MI0325,Sterling Heights Public Library,"Class 6: Serve 50,000+",I,101557,125913,24,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,partial cell phone allocation
+379,MI9024,Taylor Community Library,"Class 6: Serve 50,000+",I,65000,70000,40,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,PTO
+380,MI0342,Traverse Area District Library,"Class 6: Serve 50,000+",I,85000,95000,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+381,MI9020,Trenton Veteran's Memorial Library,"Class 6: Serve 50,000+",I,61102,71481,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,
+382,MI0343,Troy Public Library,"Class 6: Serve 50,000+",I,86891,130036,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,"Disability insurance, long term care insurance, tuition reimbursement"
+383,MI0356,Warren Public Library,"Class 6: Serve 50,000+",I,102757,104041,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+384,MI0358,Waterford Township Public Library,"Class 6: Serve 50,000+",I,93051,112524,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+385,MI0362,West Bloomfield Township Public Library,"Class 6: Serve 50,000+",I,88276,125860,35,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+386,MI0371,Willard Public Library,"Class 6: Serve 50,000+",I,100000,100000,40,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,
+387,MI0415,William P. Faust Public Library of Westland,"Class 6: Serve 50,000+",I,70000,92000,40,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,
+388,MI0377,Ypsilanti District Library,"Class 6: Serve 50,000+",I,105048,105048,40,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,EAP and FSA
+389,,,,,,,,,,,,,,,,,,,,
+390,,,,,,,,,,,,,,,,,,,,
+391,,Total Libraries Reporting (N),389,Average,48391.98789893617,59146.441160949864,,,,,,,,,,,,,,
+392,,,,,,,,,,,,,,,,,,,,
+393,,Director Benefits by Class,Health Insurance,Dental Insurance,Vision Insurance,Life Insurance,Pension,Paid Sick Leave,Paid Vacation,Paid Personal Days,Paid Holidays,Deferred Compensation,Disability,Longevity,,,,,,
+394,,Class 1,0.19696969696969696,0.13636363636363635,0.09090909090909091,0.10606060606060606,0.18181818181818182,0.4393939393939394,0.6515151515151515,0.48484848484848486,0.7121212121212122,0.09090909090909091,0.045454545454545456,0.09090909090909091,,,,,,
+395,,Class 2,0.358974358974359,0.20512820512820512,0.19230769230769232,0.16666666666666666,0.24358974358974358,0.782051282051282,0.9358974358974359,0.6794871794871795,0.9230769230769231,0.15384615384615385,0.10256410256410256,0.08974358974358974,,,,,,
+396,,Class 3,0.6410256410256411,0.5,0.4358974358974359,0.4358974358974359,0.4358974358974359,0.8333333333333334,0.9102564102564102,0.6923076923076923,0.9102564102564102,0.3717948717948718,0.34615384615384615,0.15384615384615385,,,,,,
+397,,Class 4,0.8734177215189873,0.7341772151898734,0.6835443037974683,0.7468354430379747,0.5569620253164557,0.9240506329113924,0.9746835443037974,0.7215189873417721,0.9873417721518988,0.569620253164557,0.46835443037974683,0.24050632911392406,,,,,,
+398,,Class 5,1,0.9534883720930233,0.9069767441860465,0.9069767441860465,0.7674418604651163,1,1,0.8372093023255814,1,0.7441860465116279,0.7441860465116279,0.46511627906976744,,,,,,
+399,,Class 6,1,0.9777777777777777,0.9111111111111111,0.9777777777777777,0.6444444444444445,0.9333333333333333,0.9777777777777777,0.7777777777777778,1,0.9111111111111111,0.7777777777777778,0.3111111111111111,,,,,,
+400,,,,,,,,,,,,,,,,,,,,
+401,,End of worksheet,,,,,,,,,,,,,,,,,,
