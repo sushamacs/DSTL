@@ -3,7 +3,7 @@ DataStorytelling Toolkit for Librarians
 
 Components in this repo:
 1. **Dash_Template1** and **DSTL_Template1_latest** python notebooks can be used to get the two dashboard templates
-2. The .csv files are the datasets used to create the templates. The sf_data.csv represents San Fransisco library dataset and the rest of the csv files represent Michigan State library dataset.
+2. The .csv files are the datasets used to create the templates. The sf.csv represents San Fransisco library dataset and the rest of the csv files represent Michigan State library dataset.
 
 
 
